@@ -13,18 +13,23 @@ The prose should be:
 - clean
 - restrained
 - precise
+- easy to move through
 
 Avoid:
 
 - over-explaining
 - heavy exposition
 - decorative language
+- density that becomes exhausting
 
 Favor:
 
 - clarity
 - emotional accuracy
 - subtle shifts in perception
+- breathable paragraph and scene structure
+
+Depth should not come from piling observation on top of observation until the prose becomes hard to move through. The writing can remain lyrical, intelligent, and emotionally layered while still being structurally open. A reader should feel carried forward through the scene, not asked to push through it.
 
 ---
 
@@ -35,6 +40,7 @@ Favor:
 - Close third-person, primarily following Rei
 - Minimal filtering (“she felt,” “she thought” should be used sparingly)
 - Sensory-emotional descriptions over intellectual analysis
+- Prefer one clear motion, observation, or emotional turn per paragraph when possible
 
 The narration should feel:
 
@@ -48,6 +54,8 @@ This should be reflected in:
 
 - blended perceptions
 - ambiguous ownership of thoughts and feelings
+
+Fluidity does not require maximal density. Let permeability appear through carefully chosen details, clear paragraphing, and steady forward movement. The effect should feel immersive, not crowded.
 
 ---
 

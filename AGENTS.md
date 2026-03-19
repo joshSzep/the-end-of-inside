@@ -322,6 +322,9 @@ Use prose that is:
 - emotionally observant
 - resistant to cliche
 - clear without becoming plain
+- readable without strain
+
+The prose may be lyrical and layered, but it should not become structurally dense or exhausting. Favor clear scene movement, distinct paragraph turns, and carefully chosen details over continuous accumulation. Depth should come from precision, consequence, and emotional accuracy, not from crowding every paragraph with simultaneous observations.
 
 Avoid over-explaining the philosophy in exposition. Let the ideas emerge through scenes, consequences, and dialogue.
 
@@ -422,6 +425,7 @@ Do not:
 - create flashy "powers" scenes that cheapen the relational stakes
 - let philosophy replace scene work
 - mistake mystery for vagueness
+- mistake density for depth
 
 ---
 
