@@ -124,7 +124,7 @@ Then, without preface, Mariko said, "I keep saying yes because no takes longer."
 
 She had one hand in the rinse water and one hand around a bowl she had already cleaned.
 
-Rei reached for the dish towel and almost handed it over without answering.
+Rei reached for the dish towel and almost let the moment close there.
 
 "Do people hear that?" she said.
 
@@ -184,7 +184,7 @@ Rei looked at her.
 
 Mariko tightened her fingers around the cup. "The no."
 
-Rei took a moment too long before answering. She had meant to make the next sentence smaller.
+Rei took a moment too long before answering. She had let the sentence go too far and meant to make the next one smaller.
 
 "Not exactly," she said.
 
@@ -206,7 +206,7 @@ Rei set the plate in her hand down more carefully than the plate required.
 
 "Yes," Mariko answered at once.
 
-Then, after a pause that did not belong there, she added, "No takes longer."
+Then, after a pause that did not belong there, she added, "The no takes longer."
 
 The words came back to Rei already changed, and still too near.
 
@@ -218,7 +218,7 @@ Then she finally went.
 
 That was the first moment all afternoon that left a small, unwelcome opening in Rei.
 
-Yui had stayed. Mariko had not stayed, exactly; she had failed to come back.
+Yui had stayed without being there. Mariko had not stayed, exactly; she had failed to come back.
 
 Only then did Rei feel the faint sense that she had said something and not known how far it would go.
 
@@ -238,7 +238,7 @@ It was the only empty one.
 
 "Right."
 
-He put them away carefully, with a concentration that belonged to something more delicate.
+He put them away carefully, with a concentration that belonged to something more delicate. The cabinet stayed open a second longer before he closed it.
 
 Fumiko came over a few minutes later with a basket of spoons balanced against her hip. She set it down on the counter and watched Mariko in the hall, then Daichi at the cabinet, then Rei.
 
@@ -296,7 +296,7 @@ She almost said she wasn't sure.
 
 Mariko nodded once. Her son tugged at her sleeve.
 
-This time she moved.
+This time she moved, though not at once.
 
 Rei stepped outside a few minutes later with her bag over one shoulder and the smell of dish soap still on her hands.
 
@@ -308,9 +308,9 @@ At the corner she looked back, not because she meant to count what had stayed wi
 
 Fumiko was standing in the doorway of the center, not going back inside yet, one hand resting lightly at Mariko's elbow.
 
-Mariko and her son had already made it to the pavement, but they had stopped beneath the hanging sign. The boy was leaning toward the crosswalk with patient insistence. Mariko had gone one step with him and no further. Her shoulders were turned toward the road. Her face was still angled the wrong way, down the street after Rei.
+Mariko and her son had already made it to the pavement, but they had stopped beneath the hanging sign. The boy was leaning toward the crosswalk with patient insistence, one foot already angled toward the street. Mariko had gone one step with him and no further. Her shoulders were turned toward the road. Her face was still angled the wrong way, down the street after Rei.
 
-Rei slowed.
+Rei slowed without meaning to.
 
 She stayed there one breath longer than she meant to.
 
