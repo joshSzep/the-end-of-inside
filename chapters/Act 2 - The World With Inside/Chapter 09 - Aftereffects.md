@@ -100,7 +100,7 @@ The jar was already open.
 
 She set it down and did not seem to notice.
 
-"It's been little things," she said. "Until it isn't."
+"It's been little things," she said. "Then not."
 
 Rei's fingers tightened slightly around the teacup.
 
@@ -108,13 +108,13 @@ Rei's fingers tightened slightly around the teacup.
 
 Yui opened her mouth, then looked toward the window again as if the answer might be passing outside in a coat she recognized.
 
-"I keep feeling like the wrong parts of things are staying," she said.
+"I keep thinking a thing is over," she said. "Then some part of it answers again."
 
-Rei waited for the rest.
+Rei waited.
 
-Yui gave it to her in a different shape.
+Yui watched the window.
 
-"I don't feel like I came back all the way."
+"Or I do," she said. "Late."
 
 The room did not change around the sentence. Tea steamed. The child at the next table negotiated for the other half of the bun. Someone in line at the register was apologizing for paying in coins. The evening kept moving toward the station in ordinary human increments.
 
@@ -124,9 +124,7 @@ She almost asked, From where?
 
 Instead she said, "Since when?"
 
-"I don't know." Yui smiled again, though not at anything. "That's part of it. It doesn't feel like it started. It feels like I noticed late."
-
-The answer landed a little aside of the question, and Yui seemed to hear that a second after saying it.
+"I don't know." Yui smiled again, though not at anything. "By the time I notice it, it already feels late."
 
 "No," she said quietly. "That's not right either."
 
@@ -152,13 +150,9 @@ Yui looked at her over the rim of the cup.
 
 "Do I sound strange?" she asked.
 
-Rei answered too quickly.
-
 "No."
 
-The word arrived before the rest of her did. She heard that at once.
-
-Yui did too.
+The word came too fast.
 
 "Okay," she said.
 
@@ -242,15 +236,15 @@ The small sound it made against the counter seemed to stay in the room longer th
 
 "It gets quieter when you're here," Yui said.
 
-Then, before Rei could answer: "No. That's not exactly it."
+Then, before Rei could answer: "No."
 
 She pressed one hand lightly against her own sternum as if feeling for a vibration there.
 
-"It gets easier not to lose the order of things."
+"Things stay in the order I put them. Longer."
 
 Rei stood very still.
 
-The line between them had not thinned on the walk over. If anything it had grown clearer. Yui's apartment did not diffuse it. The late trains did not disturb it. The room held them and kept them in relation with very little help.
+Whatever had stayed between them on the walk over stayed here too. The late trains passed. The room did not loosen around it.
 
 Yui looked at her and asked, in a voice so level it almost disguised the plea inside it, "Can you stay a minute?"
 
@@ -264,7 +258,7 @@ Through the wall, someone next door was on the phone describing a recipe badly a
 
 Yui tucked one leg under herself and looked down at the notebook.
 
-"I wrote the same line three times at work," she said. "Not because I forgot I had written it. Because each one felt like the first time I meant it."
+"I wrote the same line three times at work," she said. "I knew it was the same. I just kept writing it again."
 
 "What line?"
 
@@ -294,15 +288,13 @@ Rei said nothing.
 
 Yui let out a breath.
 
-"I knew it was the same," she said. "I just didn't feel finished with it."
+"I knew it was the same," she said. "It just didn't stop there."
 
-The notebook lay open between them like a small, precise proof of something neither had language for yet.
+The notebook lay open between them, blue ink repeating without settling anything.
 
-Rei could feel Yui waiting beside it.
+Yui waited beside it.
 
-Not only waiting. Tilting.
-
-If Rei stayed at the edge, Yui would keep trying to sort herself alone inside a pattern that was no longer sorting cleanly. If Rei moved closer, the line between them would take the weight more easily.
+The moment leaned toward Rei.
 
 She hesitated long enough to know she had.
 
@@ -314,15 +306,13 @@ She laid her hand over Yui's where it rested beside the notebook and let the hel
 
 Yui's fingers tightened once beneath hers.
 
-The effect was immediate.
-
-Her shoulders dropped. The line between her mouth and brow eased. Some inner flinch in her settled as if it had been waiting, all evening, for that exact degree of contact.
+Yui's shoulders dropped. The line between her mouth and brow eased. For a second the notebook, the next-door voice, the late trains all seemed to keep their places.
 
 "There," Yui said.
 
 The word was almost a sigh.
 
-Rei felt the relief in her with such clean force that for a second the attempt seemed simple. Correct, even. The room grew easier to hold. The notebook became only paper again. The next-door recipe faded into harmlessness. Yui's hand warmed under her own.
+For a second it seemed to be helping. Or close enough to helping that Rei stayed.
 
 Then Yui said, very softly, "No, that's yours."
 
@@ -344,11 +334,9 @@ Yui swallowed.
 
 "I don't know," she said.
 
-Rei should have let the contact ease there.
+Rei might have let the contact ease there.
 
-Instead she stayed.
-
-The instinct was too old and too persuasive. Yui had steadied. The room had steadied with her. The misfit had narrowed. All Rei had to do was keep the line open a little longer, just until Yui returned fully to herself.
+She didn't.
 
 Yui's breath began to match hers.
 
@@ -364,9 +352,9 @@ Yui looked at the notebook again.
 
 The sentence was spoken lightly, almost thoughtfully.
 
-Rei felt the error before she heard it.
+Something in the sentence turned wrong.
 
-Yui did too, but later.
+Yui seemed to hear that a beat later.
 
 Her face changed.
 
@@ -374,7 +362,7 @@ Her face changed.
 
 Rei's hand was still over hers.
 
-She could feel the relief in Yui and the slippage beneath it at the same time now, each making the other harder to separate.
+Yui's face had eased, but the ease no longer matched the sentences she was saying.
 
 "Yui," she said quietly.
 
@@ -407,8 +395,6 @@ She looked at the notebook, then at Rei, and for a second seemed to be listening
 "Can you do that again?" she asked.
 
 Her voice was careful.
-
-That made it worse.
 
 Rei did not answer immediately.
 
@@ -446,19 +432,21 @@ When Rei opened the apartment door, the hallway met her at once: detergent, the 
 
 She stood with one hand on the doorframe and let it reach her.
 
-Behind her, Yui said, very quietly, "I don't think it gets worse when you're here."
+Behind her, Yui said, very quietly, "I don't think it's worse when you're here."
 
 Rei turned.
 
 Yui's hand was still on the doorknob though the door was already open.
 
-"I think I just notice it more when you leave," she said.
+"It's after," she said. "I notice it more after."
 
 The line between them tightened once, thin as thread.
 
 Rei did not go back into the room.
 
-"Message me if you need anything," she said.
+"Message me," she said.
+
+Then, after a beat: "If you need anything."
 
 Yui nodded.
 
