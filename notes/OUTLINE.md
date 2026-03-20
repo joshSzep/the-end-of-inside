@@ -56,19 +56,28 @@ This chapter establishes:
 
 ## **Chapter 3 — The Shape of Others**
 
-Show Rei interacting with multiple people.
+Yui remains clearly present to Rei the next morning.
 
-- Each interaction deepens quickly
-- People feel seen, understood, relieved
+At the neighborhood center, Rei moves through a series of familiar, generous interactions.
 
-Subtle consequences:
-- one person becomes overly attached
-- another seems slightly disoriented after a deep interaction
+- most people still settle cleanly after being seen by her
+- one volunteer keeps finding reasons to return to her
+- Mariko becomes the first broader social disturbance outside Yui
 
-Others begin to notice:
-- “There’s something about you…”
+Escalation:
+- a small sentence lands too deeply
+- Mariko fails to re-enter ordinary flow cleanly
+- Fumiko notices that people open around Rei and do not always know what to do next
 
-Rei does not interpret this as a problem.
+By the end of the chapter:
+- Rei feels the first small crack in her certainty
+- she does not yet understand the mechanism
+- but she wishes, for the first time, that she knew how to make a thing close
+
+This chapter establishes:
+- that Yui is not an isolated anomaly
+- that Rei's effect can interrupt ordinary social continuity
+- that outside witnesses can see the problem before Rei can name it
 
 ---
 

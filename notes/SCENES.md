@@ -54,19 +54,35 @@ If a scene does not change something, it should not exist.
 
 ## **Chapter 3 — The Shape of Others**
 
-### Scene 1 — Multiple Interactions
-- Characters: Rei + others
-- Goal: show pattern
-- Beat: people open quickly around Rei
-- Turn: one person becomes overly attached
+### Scene 1 — Lingering Morning
+- Characters: Rei
+- Goal: show that Yui has not cleared
+- Beat: Rei notices Yui still present the next morning while beginning ordinary work
+- Turn: persistence survives absence
 
 ---
 
-### Scene 2 — Afterglow
-- Characters: Rei + secondary character
-- Goal: show consequence
-- Beat: lingering emotional instability
-- Turn: subtle discomfort appears
+### Scene 2 — Lunch Flow
+- Characters: Rei, Sano, young mother, Daichi, community members
+- Goal: contrast normal self-resolving connection with a broader pattern
+- Beat: Rei helps several people settle back into themselves with ease
+- Turn: Daichi's attention keeps returning, and Yui remains active beneath the room
+
+---
+
+### Scene 3 — Mariko Does Not Reset
+- Characters: Rei, Mariko, Fumiko
+- Goal: show real consequence
+- Beat: Rei offers Mariko a small, accurate sentence during cleanup
+- Turn: Mariko fails to resume task, response, and maternal attention cleanly
+
+---
+
+### Scene 4 — Corner
+- Characters: Rei, Fumiko, Mariko
+- Goal: land Rei's first internal crack
+- Beat: outside the center, Rei sees Mariko still oriented after her
+- Turn: she wishes she knew how to make a thing close
 
 ---
 

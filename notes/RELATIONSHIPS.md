@@ -175,6 +175,63 @@ But:
 
 ---
 
+# **Rei Nakamura ↔ Community Around Her**
+
+## Core Dynamic
+
+> Ease -> Disclosure -> Uneven Return
+
+This relationship tracks the broader social cost of Rei's presence outside explicit romance or crisis.
+
+---
+
+## Rei -> Community
+
+### Act I
+
+For most people, Rei feels:
+
+- calming
+- clarifying
+- easy to tell the truth around
+
+Usually, this resolves cleanly.
+
+But by Chapter 3, a wider pattern emerges:
+
+- Daichi keeps reorienting toward Rei after the interaction should be over
+- Mariko becomes the first broader example of a person failing to reset after a small exchange
+- ordinary tasks, cues, and responses do not always resume on time
+
+The emerging problem is not only intimacy.
+
+It is interruption of ordinary social continuity.
+
+---
+
+## Community -> Rei
+
+### Act I
+
+The community reinforces Rei's belief that her way of connecting is helpful.
+
+But Chapter 3 introduces two new pressures:
+
+- repeated attention that keeps returning to her
+- an outside witness who can see the disturbance more clearly than she can
+
+Fumiko functions as that witness.
+
+She notices:
+
+- how quickly people open around Rei
+- when they do not know what to do next
+- when they fail to return fully to themselves
+
+This is the first broader social mirror Rei cannot comfortably absorb.
+
+---
+
 # **Rei Nakamura ↔ Suzu Sato (Second Bell)**
 
 ## Core Dynamic

@@ -50,6 +50,33 @@ This reframes empathy:
 
 ---
 
+## **When Relief Becomes Disruption**
+
+The danger in Rei is not only that people feel close to her.
+
+It is that closeness can outlast the moment that produced it.
+
+Chapter 3 introduces a broader social consequence:
+
+- attention keeps organizing around Rei
+- ordinary tasks fail to fully resume
+- people do not always return cleanly to their own day
+
+This matters because harm is no longer confined to obvious intimacy.
+
+It begins to alter:
+
+- pacing
+- response
+- ordinary continuity
+
+The novel therefore treats ethical connection as more than sincerity.
+
+It also requires:
+> the ability to let another person return to themselves.
+
+---
+
 ## **The Necessity of the Self**
 
 Isolation introduces Rei to something she has never known:

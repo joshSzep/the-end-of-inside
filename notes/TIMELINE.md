@@ -180,7 +180,19 @@ This relationship becomes the primary lens of the story.
 
 ---
 
-## Day 2–5 — Deepening Connection
+## Day 2 — Pattern Widens
+
+- Yui remains present to Rei the next morning
+- at the neighborhood center, most interactions still self-resolve
+- Daichi's attention keeps returning to Rei without clear cause
+- Mariko fails to re-enter ordinary flow cleanly after a brief exchange
+- Fumiko becomes the first grounded witness to name the social disturbance
+
+This is the first sign that Yui is not the only consequence.
+
+---
+
+## Day 3-5 — Deepening Connection
 
 Rei and Yui:
 

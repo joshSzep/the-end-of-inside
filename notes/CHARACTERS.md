@@ -93,6 +93,7 @@ Rei’s core blind spots:
 - she does not recognize when others are opening too far, too fast
 - she does not understand why someone would choose privacy
 - she notices persistence before she understands its consequences
+- she does not yet understand that a small, accurate sentence can keep working in someone after the moment ends
 
 ---
 
@@ -117,6 +118,11 @@ But also:
 ### Beginning
 - connection is effortless and unexamined
 - she has no concept of boundary as necessity
+
+### Early Fracture
+- Yui remains present beyond absence
+- ordinary community interactions begin to fail to reset cleanly
+- Rei first senses that her effect may reach further than intimacy
 
 ### Disruption
 - she is forcibly isolated
@@ -469,6 +475,12 @@ Function:
   - different levels of openness
   - different responses to connection
   - different thresholds of stability
+
+Early Act I examples should include:
+
+- a lightly recurring figure like Daichi, whose attention keeps routing back toward Rei without becoming dramatic
+- a socially grounded consequence figure like Mariko, whose return to ordinary task and response becomes uneven after a precise exchange
+- an outside witness like Fumiko, who notices the missed return before Rei can interpret it
 
 ---
 

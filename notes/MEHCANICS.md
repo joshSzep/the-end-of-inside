@@ -147,6 +147,14 @@ Yui is the first clear exception.
 - each exchange adds weight instead of clearing space
 - the persistence is slightly asymmetrical: Yui moves further inside the interaction than Rei
 
+Chapter 3 broadens this without making it universal.
+
+- most people still return to themselves after contact with Rei
+- the disturbance appears as uneven reset rather than constant catastrophe
+- attention may route back toward Rei after the moment should be over
+- a person may fail to resume an ordinary task or cue cleanly after a precise exchange
+- outside witnesses may notice the missed return before Rei does
+
 This should be felt before it is interpreted.
 
 ---
