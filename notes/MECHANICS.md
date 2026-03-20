@@ -218,7 +218,9 @@ Symptoms:
 
 - confusion of ownership (“Is this mine?”)
 - sequence error: a response or feeling arrives after the moment should be over
+- overlap or ownership failure inside very simple speech
 - repetition that does not restore ordinary order
+- a small concrete cue or brief touch may restore sequence for a moment without restoring autonomy
 - delayed or sharpened instability after contact ends
 
 Yui’s arc demonstrates this.
@@ -355,6 +357,8 @@ Rei develops control through:
 
 - noticing when connection begins
 - identifying what is “hers”
+- recognition tends to arrive by accumulation rather than explanation
+- it may come after Rei has already answered, touched, or steadied someone
 
 ### 2. Holding
 

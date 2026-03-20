@@ -315,18 +315,30 @@ Yui’s condition worsens:
 
 - work conversations and small tasks seem finished, then answer again
 - she notices mistakes late and must re-check ordinary actions
-- Rei's presence can make things hold together a little longer without resolving them
-- after contact breaks, the disturbance becomes more noticeable
+- the disturbance enters public space around transit, purchases, and simple exchanges
+- Rei's presence can make things hold together for a moment without resolving them
+- after Rei lets go or goes quiet, the disturbance becomes more noticeable
 
 Rei:
 
 - begins to suspect her role
 - tests whether closeness can steady Yui
-- resists full acceptance even as her help starts to look like part of the problem
+- sees that even a small answer or touch can become part of the problem
+- gets Yui home, then leaves her message unanswered
 
 ---
 
-## Day 15 — Revelation of Second Bell
+## Day 15 — Pattern
+
+Rei:
+
+- replays recent incidents as one accumulation rather than separate episodes
+- cannot fully return to the belief that closeness is harmless
+- begins looking outward for confirmation and history
+
+---
+
+## Day 16 — Revelation of Second Bell
 
 Rei learns:
 
@@ -338,7 +350,7 @@ Suzu is identified.
 
 ---
 
-## Day 16–18 — Attempted Restraint
+## Day 17–19 — Attempted Restraint
 
 Rei tries to:
 
@@ -353,7 +365,7 @@ Result:
 
 ---
 
-## Day 19–21 — Emergence of Control
+## Day 20–22 — Emergence of Control
 
 Rei begins to:
 
@@ -365,7 +377,7 @@ First successful partial control occurs.
 
 ---
 
-## Day 22–25 — Practice Phase
+## Day 23–26 — Practice Phase
 
 Rei:
 
@@ -380,7 +392,7 @@ Progress is:
 
 ---
 
-## Day 26 — Reconnection with Yui
+## Day 27 — Reconnection with Yui
 
 Rei approaches Yui again.
 
@@ -399,7 +411,7 @@ This is the first proof of change.
 
 ---
 
-## Day 27 — Final Confrontation
+## Day 28 — Final Confrontation
 
 Rei meets Suzu.
 

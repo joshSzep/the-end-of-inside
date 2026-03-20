@@ -242,16 +242,18 @@ What briefly seems to steady Yui makes the aftereffect worse once Rei withdraws.
 
 ## **Chapter 10 — Fracture**
 
-A clearer breakdown.
+A public break.
 
-- Yui becomes overwhelmed
-- emotional intensity escalates
-- inability to distinguish self from shared experience
+- Yui's instability enters ordinary public space
+- transit, purchases, and simple exchanges stop staying in order
+- a small instruction and a brief touch steady her only for a second
+- Rei and Yui speak the same sentence together, and the moment breaks harder instead of settling
 
-Rei is forced to confront:
-> her presence changes people
+Rei gets Yui home.
 
-She still resists the conclusion, but can no longer behave as if connection is innocent by default.
+Later, when Yui messages her, Rei nearly answers and does not.
+
+She still does not name a conclusion, but can no longer let each incident stand alone.
 
 ---
 

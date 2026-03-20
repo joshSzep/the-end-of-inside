@@ -144,7 +144,8 @@ But also:
 - she remains composed and functional; the change shows in timing, attention, and incomplete ease
 
 ### Recognition
-- she learns her presence destabilizes others
+- repeated incidents stop reading as separate exceptions
+- she begins to understand that her answers and touch can steady another person without returning them fully to themselves
 - she confronts the harm she has caused, especially through Yui
 
 ### Transformation
@@ -412,6 +413,7 @@ She is receptive to something deeper.
 - she may answer what Rei almost offers, or slide past what Rei actually gives her
 - ordinary sequence begins to fail around small tasks, replies, and endings
 - Rei's presence can make things feel briefly more ordered, which makes the after sharper once she leaves
+- in public disorientation, she may reach instinctively for a concrete object, a simple instruction, or Rei's voice
 - begins to orient emotionally around Rei
 - other relationships feel diminished by comparison
 
@@ -422,6 +424,8 @@ She is receptive to something deeper.
 - a conversation or task may seem finished and then answer again
 - she may notice the mistake only after she has already responded from the wrong place or too late
 - she may briefly misassign a thought, phrase, or steadiness between herself and Rei
+- she may ask for one ordinary thing or another sentence without fully knowing why
+- overlap and ownership failure can enter very simple speech
 - repetition does not settle the ordinary world back into place
 
 She may express:
@@ -437,7 +441,9 @@ She may express:
 When connection is disrupted or becomes too intense:
 
 - she cannot stabilize easily
+- public space does not protect her from the break
 - apparent relief may hold for a second and then slip
+- a sleeve touch, simple instruction, or brief answer may steady her momentarily and then fail
 - the disturbance becomes easier to feel in the after than in the moment itself
 
 ---

@@ -38,6 +38,7 @@ But perfect empathy has consequences:
 - ownership and timing blur
 - others lose the ability to self-regulate or return cleanly to their own day
 - relief can hold a person in place without resolving what is happening
+- a momentary sense of order can be produced from outside rather than regained from within
 
 Yui embodies this cost.
 

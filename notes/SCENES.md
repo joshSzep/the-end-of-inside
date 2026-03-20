@@ -216,19 +216,19 @@ For all future scenes:
 
 ## **Chapter 10 — Fracture**
 
-### Scene 1 — Breakdown
+### Scene 1 — Public Break
 - Characters: Rei, Yui
-- Goal: force confrontation
-- Beat: emotional overload
-- Turn: Yui loses coherence
+- Goal: push Yui's instability into ordinary public space
+- Beat: at the station, Yui's place, purchases, and speech slip out of order; one small instruction and a brief touch steady her only for a second
+- Turn: Rei and Yui speak the same sentence at once, and the overlap breaks the moment harder instead of settling it
 
 ---
 
-### Scene 2 — Realization
-- Characters: Rei
-- Goal: internal shift
-- Beat: the pattern is now visible in behavior and aftermath, not explainable away as a single incident
-- Turn: cannot deny it
+### Scene 2 — After
+- Characters: Rei, Yui, Rei
+- Goal: let recognition arrive without explanation
+- Beat: Rei gets Yui home, receives a short text, and nearly answers as she always would
+- Turn: she deletes the reply and leaves the line open
 
 ---
 

@@ -65,6 +65,7 @@ Effect on Yui:
 - timing, completion, and emotional landing begin to slip out of alignment
 - incompletion appears where closeness would once have closed on its own
 - Rei's presence can make things hold together a little longer without resolving them
+- a simple instruction, brief touch, or line spoken together can steady her for a second without restoring separation
 - after Rei pulls away, the instability may register more sharply
 
 Yui begins to experience:
@@ -72,6 +73,8 @@ Yui begins to experience:
 - responses that arrive slightly aside from the moment that called for them
 - ordinary repetitions that do not settle anything
 - brief confusion of ownership or address inside a shared moment
+- overlap of speech, or uncertainty about who began a line
+- requests for something ordinary or for another sentence without fully knowing why
 - relief in Rei's presence that makes separation feel more jagged, not less
 
 Critical shift:
@@ -141,6 +144,7 @@ Her instability forces Rei to confront:
 - unintended consequences
 - the cost of unbounded connection
 - that connection can remain available and still fail to complete
+- that soothing someone may deepen the asymmetry rather than solve it
 
 Yui's presence now reaches Rei in altered ways:
 

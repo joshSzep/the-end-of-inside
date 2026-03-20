@@ -160,6 +160,7 @@ She begins to:
 - question what belongs to her
 - hesitate before connecting
 - search for language to describe separation
+- stop at the edge of answering or soothing, even when the impulse is immediate
 
 Her speech includes:
 
@@ -168,6 +169,7 @@ Her speech includes:
 - unfinished thoughts
 - answers that may come a shade late or smaller than the moment invites
 - physical deflections through small actions rather than clean verbal refusal
+- small concrete instructions in place of reassurance
 
 Example tone:
 
@@ -253,13 +255,13 @@ She may:
 - contradict herself
 - correct herself without arriving at a clearer version
 - answer with the wrong part of the day or task
-- ask grounding questions
+- reach for one ordinary line or object without fully knowing why
 - let a smile, nod, or tone complete a beat after the sentence itself
 
 Example tone:
 
-> “I keep thinking a thing is over. Then some part of it answers again.”  
-> “Things stay in the order I put them. Longer.”
+> “Anything. Just one.”  
+> “Did you say it?”
 
 ---
 
