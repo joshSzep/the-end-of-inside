@@ -102,7 +102,7 @@ Fumiko answered this time.
 
 Sano nodded once.
 
-"Fed in drops," he said. "That was how one woman described it years later. Another said he had already begun slipping sideways before anyone knew what to call the rest. Not enough at once to look monstrous. Enough over time that when it stopped, or he couldn't reach it the same way, the stopping was the only thing left in the body."
+"Fed in drops," he said. "That was how one woman described it years later. Another said he had already begun slipping sideways before anyone knew what to call the rest. Someone else insisted it never stopped cleanly, only thinned until even he seemed unsure what was still reaching him. Not enough at once to look monstrous. Enough over time that when it stopped, or he couldn't reach it the same way, the stopping was the only thing left in the body."
 
 Rei looked from him to Fumiko.
 
@@ -140,7 +140,7 @@ That was answer enough.
 
 Fumiko rested one hand on the donation tin.
 
-"The broad shape was clear enough," she said. "A man was given a form of closeness he had no stable way to hold. Or maybe it only showed how little room he already had for it. After that, people started telling it too neatly. He wanted more. It stopped. He broke. Some of the people around it treated the break as evidence." She looked at the ledger against Rei's side. "As if his damage proved what they had wanted to say from the beginning."
+"The broad shape was clear enough," she said. "Or clear enough for people who needed one. A man was given a form of closeness he had no stable way to hold. Or maybe it only showed how little room he already had for it. After that, people started telling it too neatly. He wanted more. It stopped. He broke. Some of the people around it treated the break as evidence." She looked at the ledger against Rei's side. "As if his damage proved what they had wanted to say from the beginning."
 
 "That people can't be trusted open," Sano said.
 
@@ -156,7 +156,7 @@ The room felt older suddenly than the dust and filing cabinets could account for
 
 "Enough to speak of him badly afterward," Sano said.
 
-Fumiko ignored that.
+"Not badly," Fumiko said. "Cleanly."
 
 "A man who wanted relief," she said.
 
@@ -164,7 +164,7 @@ Fumiko ignored that.
 
 He was quiet a moment, then said, "There was a Sunday in the middle of it when he came in carrying a paper bag of pears and spent ten minutes trying to fix the radiator with a butter knife. People don't usually mention that part."
 
-"Because it wasn't the point," Fumiko said.
+"Because it wasn't what they were trying to say," Fumiko said.
 
 "No," Sano said. "Only true."
 
@@ -280,17 +280,19 @@ By the time she typed back, Yui's presence had already reached her with the same
 
 Maybe that's because you let it in, Rei wrote.
 
-Three dots appeared at once.
+Three dots appeared almost at once, vanished, then came back.
 
 Too fast, Rei thought.
 
 As if the space between her sentence and Yui's had been shorter on the other side.
 
-Then Yui's reply came.
+Then Yui's first reply came.
 
 Maybe.
 
-After a moment, another:
+The dots appeared again before the word had fully settled.
+
+Then, another:
 
 Or maybe it recognized me first.
 
@@ -304,13 +306,13 @@ The older story from upstairs retreated another step.
 
 Or seemed to.
 
-Marcus became again what he had mostly been before: a name carried by people who remembered rougher years and stranger, meaner improvisations. A name attached to a story no one in the office had told in quite the same shape. HumansRHumans remained what it had always seemed from the outside: something older, harsher, and already partly turned into myth by distance. Whatever had happened then belonged, she told herself, to a world still figuring out how to live with too much access and too little skill.
+Rei let Marcus become again what he had mostly been before: a name carried by people who remembered rougher years and stranger, meaner improvisations. A name attached to a story no one in the office had told in quite the same shape. HumansRHumans remained what it had always seemed from the outside: something older, harsher, and already partly turned into myth by distance. Whatever had happened then belonged, she preferred to think, to a world still figuring out how to live with too much access and too little skill.
 
-This was different.
+This felt different.
 
-It had to be.
+Close enough, anyway.
 
-This was simply Yui.
+This was Yui, she decided.
 
 When the train surfaced above ground for two stops, the windows briefly filled with evening light from apartment blocks and narrow streets below. Laundry hung motionless between buildings. On a small rooftop, someone had already come out to bring in a potted plant before the air cooled further. The sight passed and was gone.
 
