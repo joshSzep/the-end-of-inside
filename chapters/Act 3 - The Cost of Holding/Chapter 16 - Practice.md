@@ -106,6 +106,8 @@ This time the answer held.
 
 Or looked as if it did.
 
+At the door he touched the folded notice through his coat pocket twice, as if the date might still have shifted there.
+
 Near noon, a child named Emi knocked over her own paper cup and burst into tears with the injured outrage of someone who had not understood the afternoon was allowed to turn on her over something so small.
 
 The tea spread across the table in a narrow brown fan, dampening a worksheet full of neat subtraction and the sleeve of the boy next to her.
@@ -156,6 +158,10 @@ Not cold exactly.
 
 Only narrowed. Every answer came out as if it had been trimmed with scissors before leaving her mouth.
 
+Next stop. Blue table first. Beside your hand. Next week, not today. Napkin first.
+
+She could hear the clipped sameness accumulating.
+
 At the sink, Fumiko handed her a dish towel and said, "You're making everyone sound like paperwork."
 
 Rei looked up.
@@ -190,6 +196,8 @@ Rei answered what the room required of her.
 
 Sometimes the held line seemed to make a moment lighter. Sometimes it only made her slower. Once or twice she misjudged and arrived too late, so that the sentence she had been trying not to give had to be replaced by a worse one afterward.
 
+Sometimes the same kind of answer seemed to do opposite work before the hour was over.
+
 At three o'clock, a mother in a beige coat asked if anyone had seen her son's notebook. Rei, still holding herself one degree back, said, "Check the lower shelf."
 
 The notebook was there.
@@ -207,6 +215,8 @@ The line between them had not misfired exactly. It had only reached the wrong pa
 "It's okay," Rei said.
 
 The mother nodded and left.
+
+At the doorway she looked once more at the lower shelf before going.
 
 By closing time, Rei's shoulders felt as though she had been carrying something narrow and heavy across them all day.
 
@@ -245,6 +255,8 @@ Mariko's tomorrow from the day before.
 Rei stood at the sink with her hands in the water until the water went lukewarm and still could not make one moment teach the next anything she could trust.
 
 If she held the line with one person, it seemed to spare them a little.
+
+Or spared her from adding the wrong thing.
 
 With another, it only made her late.
 
