@@ -83,6 +83,7 @@ Rei set both pages side by side.
 The article had wanted a man alone.
 
 The roster kept putting him back among other names.
+The clipped article still held.
 
 She turned the next page.
 
@@ -130,6 +131,8 @@ Below that, in the same typeface but double-spaced as if the clerk had understoo
 "I can't do the part after the room goes quiet."
 
 Rei read the sentence twice.
+The second time she waited, absurdly, for the rest of it to answer from lower on the page.
+Nothing did.
 
 Below it, the summary returned to administrative tone.
 
@@ -211,7 +214,7 @@ Sano's mouth moved slightly, not into a smile.
 
 The pages on the desk had gone very still.
 
-"He wasn't supposed to be there," Sano said. "Not in any official sense. Someone had told him about the room. He arrived smelling faintly of restaurant soap and grilled fat and trying not to take up more space than his body already did."
+"He wasn't supposed to be there," Sano said. "Not in any official sense. Someone had told him about the room. Or he heard about it sideways. It was that kind of time. He arrived smelling faintly of restaurant soap and grilled fat and trying not to take up more space than his body already did."
 
 He glanced at the property sheet.
 
@@ -271,11 +274,12 @@ It was almost worse there.
 
 Rei looked from one statement to the other.
 
-The company needed misuse.
+The company needed misuse, or something near enough to name that way.
 
-The movement needed proof.
+The movement needed proof quickly enough not to lose the morning.
 
 The day had apparently been large enough for both.
+Or later had been told that way.
 
 "Those went out within hours of each other," Fumiko said.
 
@@ -433,7 +437,7 @@ His hand came back to the witness summary.
 
 "She inherited the version with the least drag in it."
 
-Fumiko said, very quietly, "And she liked clean language."
+Fumiko said, very quietly, "And she liked clean language. Or liked how it sounded once someone else had done the cutting."
 
 Rei looked down at the pages until the type began to separate from the paper again.
 
@@ -450,6 +454,7 @@ The evidence sheet put the sobriety coin on the same page as the band and offere
 No page was the whole of him.
 
 Every page was trying to do something now.
+Or had already done it and only looked settled afterward.
 
 "They keep telling him in the shape they need," Rei said.
 
@@ -477,9 +482,9 @@ Yui had been harmed. That was true.
 
 Marcus had been made usable. That was true.
 
-Someone had learned from that history the wrong way and carried the lesson forward until intervention began to look like adulthood. That, too, was true.
+Someone had learned from that history the wrong way, or only learned the part of it that traveled cleanly, and carried that lesson forward until intervention began to look like adulthood. That, too, felt true.
 
-None of it became clean because it could be arranged in sequence.
+None of it became clean for long because it could be arranged in sequence.
 
 Fumiko lifted the witness summary and turned it over.
 
@@ -560,12 +565,15 @@ Rei looked at the last line until the screen dimmed and she had to wake it again
 Before what.
 
 Before the message.
+Or before the part of it that had reached Rei first.
 
 Before the answer.
 
 Before the answer hardened into decision.
+Or before Rei had done that to it.
 
 Before a person could be told as sequence.
+Even that arrived too neatly.
 
 Rain ticked against the metal edge above her head.
 
