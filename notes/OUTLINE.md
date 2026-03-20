@@ -228,15 +228,15 @@ The chapter ends without resolution. Rei lets the line continue, but does not fo
 Consequences emerge.
 
 - Yui's slight misalignment becomes harder to ignore
-- Yui struggles to regulate emotionally
-- expresses confusion about identity
-- Rei hesitates at the edge of contact, then reaches too deep trying to complete what no longer closes on its own
+- completed exchanges and ordinary tasks no longer settle cleanly for her
+- she notices errors late, or feels some part of a moment answer again after it should be over
+- Rei hesitates at the edge of contact, then reaches too deep trying to complete what now only holds briefly
 
-> “I don’t feel like I came back all the way.”
+> “I keep thinking a thing is over. Then some part of it answers again. Or I do. Late.”
 
 Rei tries to help by connecting more deeply.
 
-This worsens Yui’s instability.
+What briefly seems to steady Yui makes the aftereffect worse once Rei withdraws.
 
 ---
 

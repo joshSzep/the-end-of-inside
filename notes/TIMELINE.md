@@ -313,13 +313,16 @@ Yui:
 
 Yui’s condition worsens:
 
-- emotional flooding
-- confusion of self vs other
+- work conversations and small tasks seem finished, then answer again
+- she notices mistakes late and must re-check ordinary actions
+- Rei's presence can make things hold together a little longer without resolving them
+- after contact breaks, the disturbance becomes more noticeable
 
 Rei:
 
 - begins to suspect her role
-- resists full acceptance
+- tests whether closeness can steady Yui
+- resists full acceptance even as her help starts to look like part of the problem
 
 ---
 

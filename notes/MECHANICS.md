@@ -217,8 +217,9 @@ Instability occurs when:
 Symptoms:
 
 - confusion of ownership (“Is this mine?”)
-- emotional flooding
-- delayed recovery after connection
+- sequence error: a response or feeling arrives after the moment should be over
+- repetition that does not restore ordinary order
+- delayed or sharpened instability after contact ends
 
 Yui’s arc demonstrates this.
 
@@ -394,8 +395,8 @@ Described as:
 
 ## Over-Connection
 
-- loss of identity
-- emotional flooding
+- loss of internal sequencing before overt identity collapse
+- borrowed steadiness that fails when contact ends
 - dependency formation
 
 ## Under-Connection

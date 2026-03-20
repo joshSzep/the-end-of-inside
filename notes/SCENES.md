@@ -201,16 +201,16 @@ For all future scenes:
 ### Scene 1 — Yui’s Instability
 - Characters: Rei, Yui
 - Goal: escalate tension
-- Beat: Yui struggles with identity
-- Turn: cannot distinguish internal states
+- Beat: Yui describes workday slips, late recognition, and finished moments that seem to answer again
+- Turn: Rei cannot make the problem small or reduce it to tiredness
 
 ---
 
 ### Scene 2 — Failed Help
 - Characters: Rei, Yui
-- Goal: attempt repair
-- Beat: Rei hesitates at the edge of contact, then reaches deeper trying to complete what no longer settles on its own
-- Turn: it worsens
+- Goal: attempt relief
+- Beat: at Yui's apartment, repeated ordinary writing does not settle, order holds a little longer in Rei's presence, and Rei reaches through touch instead of words
+- Turn: the steadiness proves borrowed and the aftereffect sharpens once Rei pulls away
 
 ---
 

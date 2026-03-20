@@ -34,9 +34,10 @@ Rei represents a world where empathy is total and effortless.
 
 But perfect empathy has consequences:
 
-- identity becomes unstable
-- others lose the ability to self-regulate
-- emotional experiences are amplified beyond what individuals can hold
+- ordinary sequence begins to fail
+- ownership and timing blur
+- others lose the ability to self-regulate or return cleanly to their own day
+- relief can hold a person in place without resolving what is happening
 
 Yui embodies this cost.
 

@@ -62,17 +62,17 @@ Rei continues to move toward Yui, but no longer seamlessly.
 Effect on Yui:
 
 - connection remains available
-- timing and emotional landing begin to slip out of alignment
+- timing, completion, and emotional landing begin to slip out of alignment
 - incompletion appears where closeness would once have closed on its own
-- identity destabilization
-- emotional overflow
-- confusion of ownership
+- Rei's presence can make things hold together a little longer without resolving them
+- after Rei pulls away, the instability may register more sharply
 
 Yui begins to experience:
 
-- thoughts that don’t feel like hers
-- emotions that don’t resolve
 - responses that arrive slightly aside from the moment that called for them
+- ordinary repetitions that do not settle anything
+- brief confusion of ownership or address inside a shared moment
+- relief in Rei's presence that makes separation feel more jagged, not less
 
 Critical shift:
 

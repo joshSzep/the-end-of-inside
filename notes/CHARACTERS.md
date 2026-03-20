@@ -410,21 +410,25 @@ She is receptive to something deeper.
 - may answer or reappear as if the interval between exchanges were shorter on her side
 - after the silence, warmth, greeting, or response may arrive in separate beats
 - she may answer what Rei almost offers, or slide past what Rei actually gives her
+- ordinary sequence begins to fail around small tasks, replies, and endings
+- Rei's presence can make things feel briefly more ordered, which makes the after sharper once she leaves
 - begins to orient emotionally around Rei
 - other relationships feel diminished by comparison
 
 ---
 
 ### Destabilization
-- begins to lose clarity of self
-- struggles to distinguish:
-  - her thoughts
-  - her feelings
-  - what belongs to her
+- begins to lose confidence in sequence, ownership, and completion
+- a conversation or task may seem finished and then answer again
+- she may notice the mistake only after she has already responded from the wrong place or too late
+- she may briefly misassign a thought, phrase, or steadiness between herself and Rei
+- repetition does not settle the ordinary world back into place
 
 She may express:
 
-> “I don’t know what’s mine anymore.”
+> “I keep thinking a thing is over. Then some part of it answers again.”
+
+> “Things stay in the order I put them. Longer.”
 
 ---
 
@@ -433,7 +437,8 @@ She may express:
 When connection is disrupted or becomes too intense:
 
 - she cannot stabilize easily
-- she experiences emotional and identity disorientation
+- apparent relief may hold for a second and then slip
+- the disturbance becomes easier to feel in the after than in the moment itself
 
 ---
 

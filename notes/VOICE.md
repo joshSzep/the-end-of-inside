@@ -244,21 +244,22 @@ Example tone:
 As Yui is affected by Rei:
 
 - her speech becomes uncertain
-- identity confusion appears
-- emotional tone fluctuates
-- before overt confusion, her replies may land in two parts or answer a layer adjacent to what was said
+- sequence slips before self-description does
+- emotional tone and sentence timing stop landing together
+- her replies may land in two parts, answer a layer adjacent to what was said, or arrive after the moment should be finished
 
 She may:
 
 - contradict herself
-- lose track of what she’s saying
+- correct herself without arriving at a clearer version
+- answer with the wrong part of the day or task
 - ask grounding questions
 - let a smile, nod, or tone complete a beat after the sentence itself
 
 Example tone:
 
-> “Wait, I thought—no, that wasn’t…”  
-> “I don’t know if that’s mine.”
+> “I keep thinking a thing is over. Then some part of it answers again.”  
+> “Things stay in the order I put them. Longer.”
 
 ---
 
