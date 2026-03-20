@@ -66,23 +66,23 @@ If a scene does not change something, it should not exist.
 - Characters: Rei, Sano, young mother, Daichi, community members
 - Goal: contrast normal self-resolving connection with a broader pattern
 - Beat: Rei helps several people settle back into themselves with ease
-- Turn: Daichi's attention keeps returning, and Yui remains active beneath the room
+- Turn: Daichi's attention keeps returning, but he still rejoins the room after an extra beat, while Yui remains active beneath it
 
 ---
 
 ### Scene 3 — Mariko Does Not Reset
 - Characters: Rei, Mariko, Fumiko
 - Goal: show real consequence
-- Beat: Rei offers Mariko a small, accurate sentence during cleanup
-- Turn: Mariko fails to resume task, response, and maternal attention cleanly
+- Beat: Rei almost lets Mariko's confession pass, then offers a small, accurate sentence during cleanup
+- Turn: Mariko repeats the exchange back altered, misses cues, and fails to resume task, response, and maternal attention cleanly
 
 ---
 
 ### Scene 4 — Corner
 - Characters: Rei, Fumiko, Mariko
 - Goal: land Rei's first internal crack
-- Beat: outside the center, Rei sees Mariko still oriented after her
-- Turn: she wishes she knew how to make a thing close
+- Beat: outside the center, Rei sees Mariko still oriented after her even while leaving with her son
+- Turn: Rei lingers one breath too long and wishes she knew how to make a thing close
 
 ---
 

@@ -184,9 +184,10 @@ This relationship becomes the primary lens of the story.
 
 - Yui remains present to Rei the next morning
 - at the neighborhood center, most interactions still self-resolve
-- Daichi's attention keeps returning to Rei without clear cause
-- Mariko fails to re-enter ordinary flow cleanly after a brief exchange
-- Fumiko becomes the first grounded witness to name the social disturbance
+- Daichi's attention keeps returning to Rei without clear cause, though he remains functional
+- Rei answers Mariko when she might have let the moment pass, then feels the sentence continue working
+- Mariko repeats the exchange back altered, misses her son's calls, and fails to re-enter ordinary flow cleanly
+- Fumiko becomes the first grounded witness to name the social disturbance as something people do not come back from all at once
 
 This is the first sign that Yui is not the only consequence.
 

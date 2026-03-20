@@ -96,6 +96,8 @@ Silence, pauses, and withheld connection are meaningful.
 
 When a scene needs to feel slightly wrong, do it through realistic misalignment rather than emphasis. Use continued gaze, proximity that does not correct itself, over-precise observations, premature familiarity, and pauses that fail to close. Keep the tone calm. Do not label the unease for the reader.
 
+When quiet escalation is needed, increase it through missed cues, repeated actions, language that returns slightly altered, and a person taking one beat too long to rejoin the scene. Build a spectrum rather than making everyone react at the same intensity.
+
 ---
 
 # Character Voice Direction
@@ -118,6 +120,11 @@ Rei speaks:
 - simply
 - without defensiveness
 - without hesitation
+
+Late in Act I, the first hairline change can appear:
+
+- she may almost leave something unsaid
+- she may try, too late, to make a sentence smaller after speaking it
 
 She does not:
 

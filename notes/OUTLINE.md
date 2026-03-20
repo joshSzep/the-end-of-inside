@@ -61,21 +61,24 @@ Yui remains clearly present to Rei the next morning.
 At the neighborhood center, Rei moves through a series of familiar, generous interactions.
 
 - most people still settle cleanly after being seen by her
-- one volunteer keeps finding reasons to return to her
+- one volunteer keeps finding reasons to return to her, though he still yields back to the room a beat late
 - Mariko becomes the first broader social disturbance outside Yui
 
 Escalation:
 - a small sentence lands too deeply
-- Mariko fails to re-enter ordinary flow cleanly
-- Fumiko notices that people open around Rei and do not always know what to do next
+- Rei hesitates, answers anyway, and cannot make the moment smaller afterward
+- Mariko repeats the exchange back altered and fails to re-enter ordinary flow cleanly
+- Fumiko notices that people open around Rei and do not always come back all at once
 
 By the end of the chapter:
 - Rei feels the first small crack in her certainty
 - she does not yet understand the mechanism
+- she sees the effect continue beyond immediate proximity
 - but she wishes, for the first time, that she knew how to make a thing close
 
 This chapter establishes:
 - that Yui is not an isolated anomaly
+- that the disturbance now has a spectrum from mild reorientation to socially visible non-reset
 - that Rei's effect can interrupt ordinary social continuity
 - that outside witnesses can see the problem before Rei can name it
 

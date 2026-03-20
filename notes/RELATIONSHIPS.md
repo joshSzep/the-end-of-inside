@@ -199,8 +199,9 @@ Usually, this resolves cleanly.
 
 But by Chapter 3, a wider pattern emerges:
 
-- Daichi keeps reorienting toward Rei after the interaction should be over
+- Daichi keeps reorienting toward Rei after the interaction should be over, though he still yields back to the room
 - Mariko becomes the first broader example of a person failing to reset after a small exchange
+- Mariko's attention, language, and response timing all remain slightly organized around Rei longer than they should
 - ordinary tasks, cues, and responses do not always resume on time
 
 The emerging problem is not only intimacy.
@@ -226,9 +227,15 @@ She notices:
 
 - how quickly people open around Rei
 - when they do not know what to do next
+- when they do not come back all at once
 - when they fail to return fully to themselves
 
 This is the first broader social mirror Rei cannot comfortably absorb.
+
+It also gives Rei her first spectrum of consequence:
+
+- mild reorientation in Daichi
+- acute non-reset in Mariko
 
 ---
 

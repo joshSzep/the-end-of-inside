@@ -61,6 +61,7 @@ Chapter 3 introduces a broader social consequence:
 - attention keeps organizing around Rei
 - ordinary tasks fail to fully resume
 - people do not always return cleanly to their own day
+- what is said can continue shaping a person after the exchange should be over
 
 This matters because harm is no longer confined to obvious intimacy.
 
@@ -69,6 +70,11 @@ It begins to alter:
 - pacing
 - response
 - ordinary continuity
+
+The chapter should preserve a distinction inside that disruption:
+
+- Yui remains present across absence
+- Mariko does not come back all at once inside shared public space
 
 The novel therefore treats ethical connection as more than sincerity.
 

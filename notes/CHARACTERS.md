@@ -94,6 +94,7 @@ Rei’s core blind spots:
 - she does not understand why someone would choose privacy
 - she notices persistence before she understands its consequences
 - she does not yet understand that a small, accurate sentence can keep working in someone after the moment ends
+- when she first senses this, she may try too late to reduce the force of what she has already said
 
 ---
 
@@ -123,6 +124,7 @@ But also:
 - Yui remains present beyond absence
 - ordinary community interactions begin to fail to reset cleanly
 - Rei first senses that her effect may reach further than intimacy
+- she begins to hesitate at the edge of certain sentences, without yet knowing why
 
 ### Disruption
 - she is forcibly isolated
@@ -478,9 +480,9 @@ Function:
 
 Early Act I examples should include:
 
-- a lightly recurring figure like Daichi, whose attention keeps routing back toward Rei without becoming dramatic
-- a socially grounded consequence figure like Mariko, whose return to ordinary task and response becomes uneven after a precise exchange
-- an outside witness like Fumiko, who notices the missed return before Rei can interpret it
+- a lightly recurring figure like Daichi, whose attention keeps routing back toward Rei without becoming dramatic and who still rejoins the room a beat late
+- a socially grounded consequence figure like Mariko, whose return to ordinary task and response becomes uneven after a precise exchange and whose language may come back slightly altered
+- an outside witness like Fumiko, who notices the missed return before Rei can interpret it and understands that people do not come back all at once
 
 ---
 

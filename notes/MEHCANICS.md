@@ -152,8 +152,16 @@ Chapter 3 broadens this without making it universal.
 - most people still return to themselves after contact with Rei
 - the disturbance appears as uneven reset rather than constant catastrophe
 - attention may route back toward Rei after the moment should be over
+- milder cases may remain functional and rejoin the scene after an extra beat
 - a person may fail to resume an ordinary task or cue cleanly after a precise exchange
+- language may return slightly altered, as if the exchange is still working after it should have faded
+- the effect can remain visible even after Rei has physically moved away
 - outside witnesses may notice the missed return before Rei does
+
+Yui and Mariko should not feel like the same phenomenon at the same intensity.
+
+- Yui represents sustained presence across absence
+- Mariko represents acute disruption in ordinary social time
 
 This should be felt before it is interpreted.
 
