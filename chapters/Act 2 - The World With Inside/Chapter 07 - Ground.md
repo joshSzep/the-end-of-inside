@@ -28,7 +28,7 @@ Forward motion. Fluorescent carriage light. One hand lifted toward a hanging str
 
 Rei shut her eyes.
 
-When she opened them, the students were still under the awning. The traffic light was still red. The balcony woman had gone back inside. The world held.
+When she opened them, the students were still under the awning. The traffic light was still red. The balcony woman had gone back inside. Nothing had thinned.
 
 She looked down at the unsent message.
 
@@ -60,9 +60,9 @@ At the entrance she had to stop again, not because anything was wrong but becaus
 
 Rei stood with one hand on the building door and let the shared field press back around her.
 
-She could have cried from the relief of it if she had been the sort of person who cried easily.
+For a second it narrowed to the bar under her palm. Then the crumbs, the newspaper, the child widened around it again.
 
-Instead she only went inside.
+She only went inside.
 
 * * *
 
@@ -96,6 +96,8 @@ Only that everything around her had gathered again, and the small inward place h
 
 The keys felt heavier than usual when she took them from her pocket.
 
+She set the first one to the lock and waited there, listening for the newspaper below to turn once more before she turned it.
+
 Inside, the apartment met her in both ways at once.
 
 The room still held Yui's evening in the obvious places: the book left open, the cup drying in the rack, the faint clean trace of her cardigan in the air, the cushion on the floor still angled where she had leaned against the sofa.
@@ -106,7 +108,7 @@ Rei stood just inside the door and let all of it reach her.
 
 Then she tried, carefully, not to stand apart from it.
 
-For several breaths, nothing failed.
+For several breaths, nothing withdrew.
 
 The room did not go flat. The city did not pull away. Yui did not disappear again into distance without texture.
 
@@ -136,9 +138,11 @@ She also felt the cool edge of the phone against her thumb.
 
 She sat very still.
 
-Usually the message and the person behind it would have reached her as one motion. They almost still did.
+Usually the message and the person behind it would have reached her as one motion.
 
-Almost.
+This time the words arrived first.
+
+Yui followed close behind.
 
 Her own pulse remained where the phone rested against her hand. The breath leaving her this time was easier, but still recognizably hers. Yui's tiredness stayed Yui's. Rei's relief stayed in Rei.
 
@@ -159,3 +163,5 @@ The phone remained in her hand after the message left.
 So did her hand.
 
 She waited a second as if one might still follow the other.
+
+Her fingers did not loosen.
