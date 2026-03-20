@@ -204,6 +204,8 @@ She smiled.
 
 The word reached Rei first. The warmth in it followed.
 
+Rei's hand moved a little before she answered.
+
 "Hi."
 
 Rei stopped close enough to share the awning but not so close that their sleeves touched.
@@ -254,7 +256,7 @@ Yui held the cup nearer her mouth without drinking.
 
 Yui smiled when she said it. The smile left before the sentence did.
 
-Instead Rei lifted the tea and took a careful sip while it was still too hot.
+Rei almost answered. Instead she lifted the tea. It was hotter than she expected. She lowered it again, then took a smaller sip.
 
 By the time she lowered the cup, Yui had already looked back to the street.
 
@@ -288,6 +290,8 @@ Her hand shifted toward the door and stopped there.
 
 Rei looked at the bookstore door, then back at Yui.
 
+One foot had already started in that direction.
+
 "Maybe for a minute," she said.
 
 Yui nodded.
@@ -316,7 +320,7 @@ Rei let her eyes rest on the books between them.
 
 Yui nodded before the word had fully left Rei's mouth.
 
-Rei touched the spine of the nearest book.
+Rei touched the spine of the nearest book before the answer had quite finished.
 
 "Did you finish the other one?"
 
@@ -346,7 +350,7 @@ Rei felt the moment open.
 
 The space between them felt exact. One small movement would have closed it.
 
-She stayed where she was.
+Her hand slipped from the book spine and settled flat against the table instead.
 
 A second later, so did Yui.
 
@@ -395,6 +399,8 @@ Rei watched her go until the crowd thinned across her and took her into its ordi
 Yui remained available to her after that.
 
 At the crossing, Rei felt the line of her continue down the block.
+
+Her weight shifted after it.
 
 She let it go no farther.
 
