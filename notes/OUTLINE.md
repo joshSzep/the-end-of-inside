@@ -6,6 +6,22 @@
 
 This outline provides a complete, beat-by-beat structure for the novel. Each chapter should function as a meaningful step in Rei’s transformation from unbounded connection to ethical, intentional openness.
 
+## Core Tension
+
+- Rei wants to return to full connection
+- a quieter part of her now hesitates
+- connection is no longer assumed; it must keep holding
+- separation now offers brief stability and clarity
+- this remains unresolved
+
+## Rei’s Ongoing State (from Chapter 7 onward)
+
+- she no longer fully trusts continuous connection
+- in ordinary interactions, she may wait, check, or listen a beat longer than before
+- in moments of closeness, she may hesitate, delay, or leave a small distance unclosed
+- she remains functional and composed
+- some quieter part of her does not fully want to dissolve again
+
 ---
 
 # **ACT I — The World Without Inside**
@@ -175,7 +191,7 @@ Rei reconnects.
 
 - relief hits before thought
 - the shared field rushes back all at once
-- the world becomes a world again
+- the world gathers again around her
 
 But:
 - she does not trust the return immediately
@@ -184,28 +200,22 @@ But:
 
 Small, but unmistakable.
 
-From here forward, this altered state should appear through behavior and perception only:
-
-- brief checking
-- slight hesitation before engagement
-- subtle holding back in moments of closeness
-
 ---
 
 ## **Chapter 8 — Absence**
 
-Rei seeks explanation.
+Rei moves through ordinary interactions more carefully.
 
-- others are evasive or uncertain
-- ordinary exchanges make her check that connection is still holding
-- no clear answer
+- she waits an extra beat in conversations to see if they continue to hold
+- one expected break never comes
+- she seeks explanation only indirectly, through small questions and continued checking
 
 Yui:
-- slightly withdrawn
-- connection lands, but not fully
+- slightly out of sync
+- connection is available, but does not fully complete
 - not fully stable
 
-Rei senses something is wrong, but it first appears in how carefully she moves toward people.
+The chapter ends without resolution. Rei keeps moving forward, but with a fraction held back.
 
 ---
 

@@ -12,6 +12,15 @@ Each scene must have:
 
 If a scene does not change something, it should not exist.
 
+## Scene Constraint — Connection vs Separation
+
+For all future scenes:
+
+- include moments where connection is possible but incomplete
+- include moments where separation provides clarity, stability, or preserved self
+- avoid scenes that fully resolve connection or fully reject it
+- keep the tension in behavior and perception, never explanation
+
 ---
 
 # **ACT I — The World Without Inside**
@@ -163,26 +172,26 @@ If a scene does not change something, it should not exist.
 ### Scene 2 — Residual Self
 - Characters: Rei
 - Goal: test the return
-- Beat: connection is back, but a small interior remainder does not dissolve
+- Beat: shared life reaches her again, but a small interior remainder does not dissolve
 - Turn: she notices that some part of her stays distinct
 
 ---
 
 ## **Chapter 8 — Absence**
 
-### Scene 1 — Seeking Explanation
+### Scene 1 — Continuity
 - Characters: Rei + others
-- Goal: understand event
-- Beat: others deflect or avoid; Rei waits an extra beat inside ordinary exchanges, checking that they keep holding
-- Turn: Rei receives no answer
+- Goal: test ordinary interactions for continuity
+- Beat: Rei waits an extra beat inside several exchanges, expecting one to fail; one false alarm passes cleanly
+- Turn: nothing breaks, but she is not reassured
 
 ---
 
-### Scene 2 — Yui Withdrawn
+### Scene 2 — Yui Out of Sync
 - Characters: Rei, Yui
-- Goal: show consequence
-- Beat: Yui is distant, unstable; Rei holds back slightly before reaching, and the distance does not close on its own
-- Turn: connection feels uneven and provisional
+- Goal: navigate closeness without forcing it
+- Beat: Rei and Yui meet in slight misalignment; connection is available, but does not fully complete
+- Turn: Rei keeps the exchange moving, but does not fully close the distance
 
 ---
 
