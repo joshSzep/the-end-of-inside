@@ -88,6 +88,8 @@ Sano turned the paper cup slowly in his hands.
 
 "Before people learned to live with this world without treating every new feeling like a door they had to kick in," he said. "Before most of the current rules settled." He paused. "Before some people discovered that if you gave a person closeness in pieces, you could teach them to need it."
 
+"That makes it sound tidier than it was," Fumiko said.
+
 The room went quiet around the sentence.
 
 Rei did not move.
@@ -96,11 +98,11 @@ Rei did not move.
 
 Fumiko answered this time.
 
-"Borrowed," she said. "Measured. Not enough to belong anywhere. Enough to make ordinary life feel thinner afterward."
+"Borrowed," she said. "Measured. Or that's the nearest word. Not enough to belong anywhere. Enough to make ordinary life feel thinner afterward."
 
 Sano nodded once.
 
-"Fed in drops," he said. "That was how one woman described it years later. Not enough at once to look monstrous. Enough over time that when it stopped, the stopping was the only thing left in the body."
+"Fed in drops," he said. "That was how one woman described it years later. Another said he had already begun slipping sideways before anyone knew what to call the rest. Not enough at once to look monstrous. Enough over time that when it stopped, or he couldn't reach it the same way, the stopping was the only thing left in the body."
 
 Rei looked from him to Fumiko.
 
@@ -138,7 +140,7 @@ That was answer enough.
 
 Fumiko rested one hand on the donation tin.
 
-"The broad shape was clear even before all the details were," she said. "A man was given a form of closeness he had no stable way to hold. He became dependent on it. Then it was cut off. When he broke, some of the people around it treated the break as evidence." She looked at the ledger against Rei's side. "As if his damage proved what they had wanted to say from the beginning."
+"The broad shape was clear enough," she said. "A man was given a form of closeness he had no stable way to hold. Or maybe it only showed how little room he already had for it. After that, people started telling it too neatly. He wanted more. It stopped. He broke. Some of the people around it treated the break as evidence." She looked at the ledger against Rei's side. "As if his damage proved what they had wanted to say from the beginning."
 
 "That people can't be trusted open," Sano said.
 
@@ -152,9 +154,19 @@ The room felt older suddenly than the dust and filing cabinets could account for
 
 "And Marcus was who?" she asked. "Someone they knew?"
 
-"A man who wanted relief," Fumiko said.
+"Enough to speak of him badly afterward," Sano said.
+
+Fumiko ignored that.
+
+"A man who wanted relief," she said.
 
 "Which is most people, if you ask at the correct hour," Sano murmured.
+
+He was quiet a moment, then said, "There was a Sunday in the middle of it when he came in carrying a paper bag of pears and spent ten minutes trying to fix the radiator with a butter knife. People don't usually mention that part."
+
+"Because it wasn't the point," Fumiko said.
+
+"No," Sano said. "Only true."
 
 Fumiko gave him a look not severe enough to count as reprimand.
 
@@ -234,9 +246,9 @@ Fed in drops.
 
 The phrase itself felt ugly. It made connection sound like something portioned out by a stranger. Something administered. Rei could not quite make her mind hold it. The closest she came was remembering the way Mariko had repeated her sentence back altered, the way Daichi had stood at the cabinet with his hands full, the way Yui had remained near even after the bookstore door had closed behind them.
 
-But those were not the same.
+None of that matched the room upstairs cleanly.
 
-They could not be.
+Or not cleanly enough to let it settle.
 
 By the time Rei reached the station, the platform was already half full of people carrying homeward versions of themselves. Office workers loosened by the knowledge that no more meetings would be asked of them. A teenage boy trying to keep both his trumpet case and his embarrassment tucked close to one side. A woman in a dark coat holding a paper bag of groceries with such careful steadiness that Rei could feel the eggs inside it as a shared concern three people over.
 
@@ -272,6 +284,8 @@ Three dots appeared at once.
 
 Too fast, Rei thought.
 
+As if the space between her sentence and Yui's had been shorter on the other side.
+
 Then Yui's reply came.
 
 Maybe.
@@ -280,7 +294,7 @@ After a moment, another:
 
 Or maybe it recognized me first.
 
-Rei looked at the words and felt the whole shape of Yui rise around them again: the quick openness, the ease, the sense of something finding its path back to her with less effort than it should have required.
+Rei looked at the words and felt the whole shape of Yui rise around them again: the quick openness, the ease, the sense of something finding its path back to her with less effort than it should have required. The line answered something Rei had not quite meant.
 
 Warm, not alarming.
 
@@ -288,9 +302,13 @@ Still there.
 
 The older story from upstairs retreated another step.
 
-Marcus remained only a name carried by people who remembered rougher years and stranger, meaner improvisations. HumansRHumans remained what it had always seemed from the outside: something older, harsher, and already partly turned into myth by distance. Whatever had happened then belonged to a world still figuring out how to live with too much access and too little skill.
+Or seemed to.
+
+Marcus became again what he had mostly been before: a name carried by people who remembered rougher years and stranger, meaner improvisations. A name attached to a story no one in the office had told in quite the same shape. HumansRHumans remained what it had always seemed from the outside: something older, harsher, and already partly turned into myth by distance. Whatever had happened then belonged, she told herself, to a world still figuring out how to live with too much access and too little skill.
 
 This was different.
+
+It had to be.
 
 This was simply Yui.
 
