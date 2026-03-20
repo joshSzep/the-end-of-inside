@@ -84,7 +84,7 @@ The line between Yui's eyebrows deepened slightly, not with distress so much as 
 
 Rei looked at her.
 
-The sentence would once have opened on its own. She would have moved toward it without deciding to. Now something in her held for a beat and made room around the choice.
+The sentence would once have opened on its own. Now something in her held for a beat and made room around the choice.
 
 "What happened then?" she asked.
 
@@ -428,7 +428,7 @@ It was already on the right foot.
 
 Neither of them mentioned it.
 
-When Rei opened the apartment door, the hallway met her at once: detergent, the old man two floors down clearing his throat over a newspaper, someone above running water into a bucket with practical annoyance. The ordinary field of the building was intact.
+When Rei opened the apartment door, the hallway met her at once: detergent, the old man two floors down clearing his throat over a newspaper, someone above running water into a bucket with practical annoyance.
 
 She stood with one hand on the doorframe and let it reach her.
 
