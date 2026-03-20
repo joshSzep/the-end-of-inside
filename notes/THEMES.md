@@ -112,6 +112,14 @@ But she learns:
 
 > The self must exist for connection to mean anything.
 
+### After the Silence
+
+- the wound is not the silent interval itself
+- the wound is the knowledge that separation exists and can recur
+- after this, connection is no longer assumed; it is provisional
+- on the page, this should appear through checking, hesitation, narrowed perception, and slight holding back
+- never name this directly in-scene
+
 ---
 
 ## **Control vs. Freedom**

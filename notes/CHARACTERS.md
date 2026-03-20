@@ -132,6 +132,15 @@ But also:
 - she is forcibly isolated
 - she experiences panic and existential disorientation
 
+### Aftermath
+- reconnection brings relief, but not trust
+- she no longer assumes connection will continue simply because it is present
+- for drafting, treat the inward place like a wound: not named, but slightly intrusive
+- she may pause, check, or listen a beat longer before acting
+- in moments of closeness, she may hold back a fraction without meaning to
+- ordinary shared life may narrow briefly to a single object, sound, or touch before widening again
+- she remains composed and functional; the change shows in timing, attention, and incomplete ease
+
 ### Recognition
 - she learns her presence destabilizes others
 - she confronts the harm she has caused, especially through Yui

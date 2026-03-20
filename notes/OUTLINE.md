@@ -184,6 +184,12 @@ But:
 
 Small, but unmistakable.
 
+From here forward, this altered state should appear through behavior and perception only:
+
+- brief checking
+- slight hesitation before engagement
+- subtle holding back in moments of closeness
+
 ---
 
 ## **Chapter 8 — Absence**
@@ -191,13 +197,15 @@ Small, but unmistakable.
 Rei seeks explanation.
 
 - others are evasive or uncertain
+- ordinary exchanges make her check that connection is still holding
 - no clear answer
 
 Yui:
 - slightly withdrawn
+- connection lands, but not fully
 - not fully stable
 
-Rei senses something is wrong, but doesn’t yet understand it.
+Rei senses something is wrong, but it first appears in how carefully she moves toward people.
 
 ---
 
@@ -207,6 +215,7 @@ Consequences emerge.
 
 - Yui struggles to regulate emotionally
 - expresses confusion about identity
+- Rei hesitates at the edge of contact, then reaches too deep trying to restore what no longer feels guaranteed
 
 > “I don’t feel like I came back all the way.”
 
@@ -227,7 +236,7 @@ A clearer breakdown.
 Rei is forced to confront:
 > her presence changes people
 
-She resists the conclusion.
+She still resists the conclusion, but can no longer behave as if connection is innocent by default.
 
 ---
 

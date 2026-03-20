@@ -173,7 +173,7 @@ If a scene does not change something, it should not exist.
 ### Scene 1 — Seeking Explanation
 - Characters: Rei + others
 - Goal: understand event
-- Beat: others deflect or avoid
+- Beat: others deflect or avoid; Rei waits an extra beat inside ordinary exchanges, checking that they keep holding
 - Turn: Rei receives no answer
 
 ---
@@ -181,8 +181,8 @@ If a scene does not change something, it should not exist.
 ### Scene 2 — Yui Withdrawn
 - Characters: Rei, Yui
 - Goal: show consequence
-- Beat: Yui is distant, unstable
-- Turn: connection feels uneven
+- Beat: Yui is distant, unstable; Rei holds back slightly before reaching, and the distance does not close on its own
+- Turn: connection feels uneven and provisional
 
 ---
 
@@ -199,7 +199,7 @@ If a scene does not change something, it should not exist.
 ### Scene 2 — Failed Help
 - Characters: Rei, Yui
 - Goal: attempt repair
-- Beat: Rei connects deeply to stabilize her
+- Beat: Rei hesitates at the edge of contact, then reaches deeper to stabilize her
 - Turn: it worsens
 
 ---
@@ -217,7 +217,7 @@ If a scene does not change something, it should not exist.
 ### Scene 2 — Realization
 - Characters: Rei
 - Goal: internal shift
-- Beat: recognizes pattern of harm
+- Beat: the pattern is now visible in behavior and aftermath, not explainable away as a single incident
 - Turn: cannot deny it
 
 ---
