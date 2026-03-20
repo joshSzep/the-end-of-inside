@@ -56,6 +56,8 @@ The world did not stop reaching her. It only stopped one degree short.
 
 For one frightened second, that degree held.
 
+Then loosened so slightly she thought she might have invented it to survive the platform. The father shifted the crying child higher, and it held again. Or seemed to.
+
 It felt wrong at once.
 
 Not relieving. Not empowering. More like catching a door before it opened fully and realizing there was a person on the other side of it.
@@ -236,6 +238,8 @@ Mariko looked where Rei pointed. A breath left her shoulders, not all at once an
 
 This time the repetition did not come back altered.
 
+Her eyes dropped once more to the checked box before she folded the paper, as if yes might still outrun the date.
+
 She folded the paper once and put it into the outside pocket of the backpack instead of handing it over.
 
 "Thank you," she said.
@@ -258,6 +262,8 @@ She turned toward the marker basket and called her son's name.
 
 He answered on the first try.
 
+Her hand went once to the backpack pocket where she had placed the form and stayed there a beat before falling away.
+
 Rei watched the two of them move toward the side table.
 
 Nothing in the room marked the moment as exceptional. The radiator clicked. Someone in the kitchen asked where the scissors had gone while holding them in full view. A volunteer laughed at herself. The shared field kept its ordinary shifting pressure.
@@ -276,7 +282,9 @@ The room reached her fully again, and with it came the delayed force of what she
 
 Instead Rei had given her tomorrow.
 
-It had been enough.
+Or something clear enough to move by.
+
+It had been enough from here.
 
 Enough was not the feeling she wanted.
 
@@ -314,7 +322,7 @@ It felt thin.
 
 It felt almost ungenerous.
 
-It had also, in this one moment, left Mariko more fully herself than Rei might have before.
+It had also, in this one moment, seemed to leave Mariko more fully herself than Rei might have before.
 
 The thought did not relieve her.
 
