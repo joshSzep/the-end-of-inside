@@ -182,13 +182,23 @@ Rei looked up.
 
 The television was still there. She could hear when it brightened with laughter and flattened again. But there was no one inside it for her. No tiredness on the sofa. No hand changing channels. Only the sound.
 
+She waited for the room behind it.
+
+For the person shifting their weight. For the small private impatience at an advertisement. For the attention inside the sound to turn and show itself.
+
+Nothing else arrived.
+
 Above her, the chair dragged once and stopped. The pipes carried someone else's water through the wall.
 
 She could hear all of it.
 
 She could not meet it anywhere.
 
-For a moment she stood without moving because the fact of that was larger than the room around it.
+For a moment she stood without moving.
+
+Then still did not move.
+
+The fact of it was larger than the room around it.
 
 Then her phone slipped against her palm. She had not realized she was holding it so tightly.
 
@@ -240,9 +250,13 @@ The stairwell gave it back as sound and nothing else.
 
 Her own voice returned from the wall already emptied of her.
 
-She waited.
+She waited for the rest of it.
 
-Then she went down one flight, then another.
+For the part that would place Yui somewhere below. For the small answering pressure that should have made the name belong somewhere.
+
+Nothing.
+
+She was still listening when she went down one flight, then another.
 
 At the first landing she stopped because it seemed impossible that there would be nothing at all. Not nothing from Yui. Not nothing from anyone. The building was full. So was the street below. So was the whole block. Even now people were rinsing dishes, taking off earrings, tying garbage bags, checking tomorrow's weather, sliding open windows for a minute before bed.
 
@@ -310,7 +324,7 @@ The contact ended at the cloth.
 
 She stopped walking.
 
-Her own weight landed too hard inside her shoes. She took another step and felt the pavement answer only through the soles, nowhere else.
+Her own weight landed too hard inside her shoes. She took another step and felt the pavement answer only through the soles, nowhere else. No small correction from the people around her. No shared adjustment. Only the step. Then the next one.
 
 Traffic went through the green. A delivery truck rattled over the cross street. The convenience store door opened and released a square of white light across the pavement before shutting again.
 
@@ -400,6 +414,10 @@ A car slowed at the intersection, music pulsing faintly behind closed windows. S
 
 They layered correctly.
 
+She waited for them to gather.
+
+They stayed separate.
+
 They did not become a world.
 
 Rei lifted her head and said Yui's name.
@@ -426,8 +444,16 @@ Then, before anything could answer it, the thought came back unchanged.
 
 Just a beat late.
 
-She waited for the rest of the world to follow it in.
+She waited.
 
-Nothing did.
+The message field stayed open. The street stayed open.
 
-Her thumb was still hovering over send.
+Nothing followed.
+
+Just a beat late.
+
+Her thumb hovered over send.
+
+She waited for the rest of the motion.
+
+It did not come.
