@@ -26,7 +26,7 @@ Nothing in the room caught.
 
 Rei had expected, vaguely, the small awkwardness that usually came with having someone new in her apartment. The question of where to stand while another person rinsed rice. The little polite collisions around a narrow counter. The extra layer of speech required to convert private habits into shared ones.
 
-It did not appear. The room seemed to choose its easier shape at once.
+It did not appear.
 
 Yui set the book on the table, washed her hands, and reached for the cutting board just as Rei turned to get it.
 
@@ -70,9 +70,7 @@ Yui was already smiling.
 
 "I stopped at the piece about the house with the wrong staircase." She set down the fruit knife. "It felt like if I kept going then, I would stop reading and start thinking about you instead."
 
-The sentence should have embarrassed her more than it did.
-
-It did not seem to embarrass Rei either.
+She touched the handle of the knife again, though there was nothing to move.
 
 "Was that bad?" Yui asked.
 
@@ -84,7 +82,7 @@ Yui nodded as if she had expected that exact answer, then glanced at the saucepa
 
 "Yes."
 
-They moved around each other in the small kitchen without touching. When Rei stepped aside, Yui was already entering the space she had made. When Yui opened the lower cabinet, Rei had already lifted her hand out of the way. Their timing was slightly staggered, slightly anticipatory, each adjustment arriving before the other had to ask for it.
+They moved around each other in the small kitchen without touching. When Rei stepped aside, Yui was already entering the space she had made. When Yui opened the lower cabinet, Rei had already lifted her hand out of the way.
 
 After a few minutes Rei stopped noticing each adjustment separately.
 
@@ -106,7 +104,7 @@ She laughed and reached for the soy sauce.
 
 Yui put it into her hand from the other side of the counter before she touched the bottle.
 
-For a moment the movement held there between them, complete enough that neither had to correct it.
+For a moment the bottle stayed between their hands.
 
 The apartment filled slowly with the smell of rice, ginger, warm soy, and the faint citrus sweetness of the cut loquats waiting on the plate. Outside the open window, somebody on the street below was explaining a bicycle repair to another person with the solemn patience of someone who had done the same repair three times that month already. A bus sighed at the corner and moved on.
 
@@ -154,8 +152,6 @@ She had only noticed that after sending it.
 
 Rei did not answer.
 
-The silence after it seemed to arrive where an answer would have gone.
-
 They ate at the low table by the window with their knees turned slightly toward one another because the room asked it of them. Outside, the last clean part of evening gave way to darker windows and more interior light. Somewhere in the building next door, a television audience laughed on cue. The plant by the sill cast a thin layered shadow across the bowls.
 
 The food was simple and better for not trying to prove anything.
@@ -180,13 +176,9 @@ Yui thought for a second.
 
 "Maybe I changed my mind before I knew I had."
 
-The answer had the same quality as the rest of the evening. It seemed to arrive a fraction ahead of the place it belonged.
-
 They talked about the book, then about the kinds of apartments people stayed in too long because they had once been relieved there. Yui told Rei about a teacher she had in middle school who wore the same soft green cardigan every Friday as if routine itself were a kindness. Rei told her about the woman downstairs in her building who watered the shared landing plants only when nobody was there to see her doing it.
 
-Nothing they said would have sounded especially intimate afterward.
-
-Even so, very little needed carrying from one person to the other. Each remark found its place before the silence around it had started to cool. Yui's attention did not so much approach Rei as remain already near.
+Once or twice, one of them answered before the other had quite finished.
 
 By the time they cleared the dishes, Rei could not quite tell which parts of the evening had been decided and which had simply taken their shape because neither of them interrupted the next thing in time.
 
@@ -201,8 +193,6 @@ Yui let go first, then frowned slightly.
 "I didn't."
 
 "No." Yui looked at the bowl in Rei's hands. "I know."
-
-She did not sound alarmed. Only briefly misplaced, as if the moment had happened half a step to one side.
 
 Rei rinsed the bowl and set it in the rack.
 
@@ -224,7 +214,7 @@ Yui leaned one shoulder lightly against the counter, watching the water run over
 
 "Do I?"
 
-"Not the words. The feeling of them."
+"Not the words exactly."
 
 Rei turned off the tap.
 
@@ -244,9 +234,7 @@ Yui took her hand back first.
 
 Rei dried the dish without hurrying.
 
-Nothing in Yui's face asked for repair.
-
-Rei dried the dish and let the pause thin on its own.
+The pause thinned on its own.
 
 * * *
 
@@ -280,15 +268,13 @@ She had answered before seeing where Yui's finger had stopped.
 
 Yui's mouth softened into a smile that was not quite amusement.
 
-"Did I already tell you that was the part I marked on the train?"
+"I think that was the part I marked on the train."
 
 "No."
 
 "Oh."
 
 The little word settled between them and did not go any further.
-
-Whatever might have caught on it did not.
 
 Yui looked back down at the page.
 
@@ -299,10 +285,6 @@ Yui looked back down at the page.
 After a moment she turned another page, though neither of them had really finished the one before.
 
 The tea went cooler. The room grew quieter. Somewhere above them, a chair scraped once across a neighboring floor and then stopped. Yui drew her feet in beneath her and asked, without looking up, "When does the last train stop feeling easy?"
-
-The question did not sound like a timetable.
-
-More like the point at which leaving changed shape and became effort.
 
 "Soon," she said.
 
@@ -350,10 +332,6 @@ She only nodded once, as if the part of her that had already settled around the 
 
 Then she said, "Okay."
 
-The word seemed to arrive already settled.
-
-Afterward the invitation felt less like a choice than like continuing something that had already started moving toward them. The closeness was kind. Relieving. It did not seem to ask for interruption.
-
 Yui leaned back against the sofa.
 
 Rei reached for her cup, but Yui had already lifted it and was holding it out toward her.
@@ -392,15 +370,9 @@ Yui gave a small shake of her head.
 
 The sentence stayed in the room.
 
-It did not land cleanly enough to answer.
-
 Rei looked at her.
 
 Yui's gaze did not waver, but the hand resting beside her cup had tightened slightly against the floor.
-
-The slight wrongness of it did not sharpen. It only remained.
-
-Something smaller almost rose in Rei, then went elsewhere.
 
 She shifted closer.
 
@@ -418,8 +390,6 @@ The adjustment was so slight it barely counted as motion.
 
 For a second Rei could not have said which of them had made it first.
 
-What felt good was how little arranging it seemed to require.
-
 Yui closed her eyes briefly, then opened them again.
 
 Neither of them spoke.
@@ -436,6 +406,4 @@ The tea cooled flat beside them. The book stayed open to the unread page. Outsid
 
 Once, Rei almost sorted it: her thought, Yui's silence, the wish to stay, the hand that had first crossed the remaining distance.
 
-Then Yui's shoulder settled more fully against hers, or Rei's did against Yui's, and the question became harder to place without making the whole moment smaller than it was.
-
-So she let it go.
+Then Yui's shoulder settled more fully against hers, or Rei's did against Yui's. The list thinned. By the time Rei reached for it again, there was less of it left.
