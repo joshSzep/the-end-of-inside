@@ -24,7 +24,7 @@ This time their hands did not meet. Rei was there first.
 
 "Oh," Yui said softly. "Thanks."
 
-She slipped the cardigan on. Rei stood close enough to smooth the collar without deciding to. The warmth at Yui's shoulder answered her hand, but not with the same immediate completeness as before. It came back lightly, after.
+She slipped the cardigan on. Rei stood close enough to smooth the collar without deciding to. The warmth at Yui's shoulder answered her hand, but not with the same immediate completeness as before. It came back lightly. After.
 
 Yui was tired, that was all. The room had been still for too long. Rei let her hand fall.
 
@@ -40,7 +40,7 @@ Yui blinked.
 
 "No." Yui rose. "I know."
 
-But again the answer came a fraction after it should have.
+Again the answer came a fraction after it should have. Rei found herself waiting for the rest of it, though there was nothing left for Yui to say.
 
 Rei opened the door for her.
 
@@ -60,7 +60,7 @@ She stepped out into the hall, then turned back once more before Rei could move.
 
 Yui touched two fingers lightly to Rei's wrist, just once.
 
-The contact settled less deeply than the one outside the bookstore had. Not wrong. Only lighter.
+The contact settled less deeply than the one outside the bookstore had. Not wrong. Only lighter. As if the touch had reached her and then gone no farther.
 
 Then Yui took her hand back and went toward the stairs.
 
@@ -70,7 +70,7 @@ Then she closed the door.
 
 Usually that would have been the ordinary beginning of after.
 
-Yui remained on the other side of the wood. Not physically. More like the evening kept one of its threads unbroken as she moved down the first flight, then the second. Rei stood with her hand still on the knob because the thread was there, then paused, then answered again from lower in the building.
+Yui remained on the other side of the wood. Not physically. More like the evening kept one of its threads unbroken as she moved down the first flight, then the second. Rei stood with her hand still on the knob because the thread was there, then dimmed, then answered again from lower in the building.
 
 She smiled to herself.
 
@@ -100,7 +100,7 @@ Then, after long enough to notice, something soft brushed back from lower down t
 
 Rei let out the breath she had been holding.
 
-The train platform, maybe. The turn at the corner. A pocket search for her phone. Attention moved strangely when people were hurrying.
+The train platform, maybe. The turn at the corner. Attention moved strangely when people were hurrying.
 
 She closed the book around the page and set it on the table.
 
@@ -132,13 +132,15 @@ Not calling. Continuing.
 
 The room did not answer.
 
-Rei set the cup down carefully.
+Rei set the cup down carefully. Then kept her fingertips on the rim a second too long, as if she had not quite finished putting it there.
 
 She stood still until the silence around the name felt complete, then said it again.
 
 This time something came back, but thin and late enough that by the time it reached her she could not fit it cleanly to the moment that had asked for it.
 
-She frowned.
+She waited for the rest.
+
+There was no rest.
 
 Then the feeling was gone.
 
@@ -178,15 +180,17 @@ None of it reached her the way it should have.
 
 Rei looked up.
 
-The television was still there. The person above was still shifting a chair. The pipes still carried someone else's water.
+The television was still there. She could hear when it brightened with laughter and flattened again. But there was no one inside it for her. No tiredness on the sofa. No hand changing channels. Only the sound.
+
+Above her, the chair dragged once and stopped. The pipes carried someone else's water through the wall.
 
 She could hear all of it.
 
-She only could not meet it anywhere.
+She could not meet it anywhere.
 
-Her phone stayed dark in her hand.
+For a moment she stood without moving because the fact of that was larger than the room around it.
 
-She set it down.
+Then her phone slipped against her palm. She had not realized she was holding it so tightly.
 
 "Yui?" she said once more.
 
@@ -204,6 +208,12 @@ Usually the building met her before she had fully entered it. Someone half aslee
 
 The hallway remained a hallway.
 
+Paint. Light. Doors.
+
+The runner rug lay slightly buckled near 2B where someone always caught it with a heel. The wall beside the mail slots still held the faint gray mark from a moving box dragged badly at the turn.
+
+That was all it was.
+
 Rei stood in it longer than she needed to.
 
 A door clicked shut on the floor below. Footsteps moved along the stairs, slow and practical. The person going down cleared their throat once.
@@ -212,7 +222,7 @@ Rei turned toward the sound automatically and reached for them.
 
 Nothing came.
 
-The footsteps kept going.
+The footsteps kept going. Not withheld. Not turned away. Just there, and then farther away, each step separate from the next.
 
 She stepped into the stairwell.
 
@@ -228,11 +238,15 @@ She said Yui's name again. Not louder.
 
 The stairwell gave it back as sound and nothing else.
 
+Her own voice returned from the wall already emptied of her.
+
 She waited.
 
 Then she went down one flight, then another.
 
-At the first landing she stopped because it seemed impossible that there would be nothing at all. Not nothing from Yui. Not nothing from anyone. The building was full. So was the street below. So was the whole block. Even now people were rinsing dishes, taking off earrings, tying garbage bags, checking tomorrow's weather, sliding open windows for a minute before bed. It had to be there.
+At the first landing she stopped because it seemed impossible that there would be nothing at all. Not nothing from Yui. Not nothing from anyone. The building was full. So was the street below. So was the whole block. Even now people were rinsing dishes, taking off earrings, tying garbage bags, checking tomorrow's weather, sliding open windows for a minute before bed.
+
+It had to be there.
 
 Rei stood very still and tried more carefully.
 
@@ -240,17 +254,21 @@ Not farther. Wider.
 
 Nothing answered.
 
+She swallowed. The motion stayed in her throat.
+
 Her hand tightened on the rail.
 
-She told herself she was tired. That the evening with Yui had drawn her too narrowly in one direction and she was trying to correct from the wrong angle. That if she went outside the broader current would catch her again at once and make the whole thing seem small.
+She told herself only that she had narrowed too far toward Yui. That was all. Outside, the broader current would catch her again.
 
-By the time she reached her floor again she was already putting on her shoes.
+By the time she reached her floor she was already putting on her shoes.
 
 She forgot her keys, went back for them, nearly left the apartment door open, came back and locked it too hard.
 
 The click of the lock sounded isolated from the rest of the motion, as if it had happened in a room all by itself.
 
-Rei went down the stairs quickly.
+For a second she put her hand back on the knob without meaning to.
+
+Then she went down the stairs quickly.
 
 At the building entrance she paused only long enough to push the door open.
 
@@ -268,7 +286,7 @@ Nothing reached her.
 
 She slowed.
 
-People were too near now for her not to feel at least the smallest brushing exchange. The bicycle woman's impatience at the light. The students' warm private amusement. The office worker's low tired wish not to be spoken to before he got home. These things did not require invitation. They existed in the air between people all the time.
+People were too near now for her not to feel at least the smallest brushing exchange. The bicycle woman's impatience at the light. The students' warm private amusement. The office worker's low tired wish not to be spoken to before he got home. These things did not require invitation. They existed in the air between people all the time. Usually they touched her before she named them. Usually that was what made a street a street instead of only pavement and motion.
 
 Rei walked closer to the corner.
 
@@ -280,6 +298,8 @@ The bicycle moved only when the front wheel had already turned. The office worke
 
 Rei saw all of it as if through glass.
 
+Not distant. Flat.
+
 A cyclist coming the wrong way along the narrow sidewalk rang a bell once, sharp and irritated.
 
 Rei moved aside only when the sound reached her.
@@ -289,6 +309,8 @@ The rider passed close enough that the sleeve of his jacket brushed her hand.
 The contact ended at the cloth.
 
 She stopped walking.
+
+Her own weight landed too hard inside her shoes. She took another step and felt the pavement answer only through the soles, nowhere else.
 
 Traffic went through the green. A delivery truck rattled over the cross street. The convenience store door opened and released a square of white light across the pavement before shutting again.
 
@@ -302,15 +324,13 @@ Rei reached for her.
 
 Nothing.
 
-Maybe underground.
-
-She kept walking.
-
-Maybe under the bridge.
+At the mouth of the station. On the stairs. Through the gate.
 
 Nothing.
 
-Maybe the signal at the crossing.
+She kept walking.
+
+In the cut by the tracks. Under concrete. Beside the yellow line.
 
 Nothing.
 
@@ -340,6 +360,8 @@ Just farther away.
 
 Just thinner.
 
+Not gone.
+
 Rei took out her phone again.
 
 The screen lit her hand blue-white. No message. No missed call. The thread with Yui ended where it had ended before Yui came over, with the joke about intervening in whatever Rei was calling dinner.
@@ -348,13 +370,17 @@ Rei stared at the last line until the words stopped arranging themselves.
 
 Come intervene.
 
-The invitation had opened cleanly. The evening had followed it. Yui had been here. The book was still on the table upstairs. One cup still damp in the rack. The cushion still warm, maybe, unless it had gone flat already. The room had kept her shape. The stairs had not. The street had not. The whole city had not.
+Come intervene.
+
+The phrase still opened toward her. Everything after it did not.
+
+Yui had been in her apartment. The book was still on the table upstairs. One cup still damp in the rack. The cushion still warm, maybe, unless it had gone flat already. The room had kept her shape. The stairs had not. The street had not. The whole city had not.
 
 Rei typed, Are you on the train?
 
 She did not send it.
 
-If Yui answered in words first, before the rest of her returned, that would make the thinness real in a way Rei did not want to grant.
+If the screen answered first, with nothing else returning, she did not know what that would make true.
 
 She deleted the sentence.
 
@@ -366,11 +392,15 @@ Deleted it.
 
 Again.
 
+Her thumb kept finding the same letters.
+
 She stood under the streetlamp with the same unsent question in the text field and the same thought starting over behind it.
 
 A car slowed at the intersection, music pulsing faintly behind closed windows. Someone laughed from an upper balcony. From the station side of the neighborhood came the ordinary layered sounds of too many people arriving home at once.
 
-They did not enter her.
+They layered correctly.
+
+They did not become a world.
 
 Rei lifted her head and said Yui's name.
 
@@ -382,10 +412,22 @@ Nothing changed.
 
 She could hear her own breathing now, too present, catching in the same place in her chest on the way in and on the way out.
 
-She said the name again.
+She swallowed again.
+
+The motion stayed with her.
+
+She said the name once more.
 
 This time she heard how small it was.
 
 Just a beat late, she thought.
 
-Then, before anything could answer it, the thought came back unchanged: just a beat late.
+Then, before anything could answer it, the thought came back unchanged.
+
+Just a beat late.
+
+She waited for the rest of the world to follow it in.
+
+Nothing did.
+
+Her thumb was still hovering over send.
