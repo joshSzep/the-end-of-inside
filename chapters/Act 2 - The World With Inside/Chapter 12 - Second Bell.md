@@ -400,7 +400,9 @@ Then sent them.
 
 The message line had not yet changed to delivered when the phone lit again.
 
-I'm already home, Yui wrote.
+Okay, Yui wrote.
+
+I'm already home.
 
 The bus hissed to a stop.
 
