@@ -153,13 +153,13 @@ But also:
 - before she can make that understanding coherent, she is pulled toward older records and history
 
 ### Transformation
-- she learns to perceive where she ends
-- she develops the ability to hold herself while remaining open
+- she learns to perceive where she ends, but only under strain and with effort
+- she develops a fragile ability to remain partly herself while open, and the ability never feels natural
 
 ### End State
-- she can be fully open again
-- but now intentionally, with awareness and containment
-- she embodies ethical connection
+- she can sometimes open without collapse again
+- but only intentionally, imperfectly, and at cost
+- she moves toward ethical connection as a practice rather than arriving at it as a state
 
 ---
 
@@ -520,6 +520,14 @@ Yui begins to recover:
 
 - rebuilding a sense of self
 - re-establishing internal stability
+
+Any renewed steadiness around Rei should read as:
+
+- fragile
+- mutually maintained
+- dependent on pace, restraint, and the right to stop
+- never the result of Rei simply fixing what Rei helped damage
+
 But:
 
 - it is harder than before

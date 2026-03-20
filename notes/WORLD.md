@@ -139,6 +139,29 @@ The novel should provide coherence of consequence, not total ontology.
 
 ---
 
+## No Universal Method
+
+Even people who regulate connection well do not do so through a neat transferable technique.
+
+Late in the novel, do not imply that Rei discovers a hidden operating manual for the House.
+
+At most, people develop:
+
+- better attention
+- more caution
+- more willingness to stop
+- more tolerance for partiality and unfinished contact
+
+What works in one relationship or moment may fail in another.
+
+The world should therefore resist becoming:
+
+- a therapeutic framework
+- a metaphysical rulebook
+- a set of healthy connection instructions for the reader
+
+---
+
 ## Isolation
 
 Isolation is the forced absence of connection.

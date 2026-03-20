@@ -322,39 +322,47 @@ For all future scenes:
 
 ## **Chapter 15 — Edge**
 
-### Scene 1 — Memory of Isolation
+### Scene 1 — Afterimage
 - Characters: Rei
-- Goal: access new skill
-- Beat: recalls internal boundary
-- Turn: recognizes it as usable
+- Goal: let the leftover shape of isolation become available without reading as revelation or technique
+- Beat: under pressure, Rei feels the inside left by isolation return as a faint, unwanted edge rather than a clean insight
+- Turn: she realizes the edge can sometimes keep her from dissolving, but using it feels strained and wrong before it feels helpful
 
 ---
 
-### Scene 2 — First Success
+### Scene 2 — Uneven Hold
 - Characters: Rei + other
-- Goal: test control
-- Beat: partial connection maintained
-- Turn: does not collapse
+- Goal: show the first partial non-collapse as costly and local, not as breakthrough
+- Beat: Rei manages one interaction without overrunning it, but only by becoming effortful, delayed, and slightly unnatural inside it
+- Turn: the moment holds just enough to matter, and leaves her tired rather than relieved
 
 ---
 
-# **ACT III — Learning to Hold the Line**
+# **ACT III — The Cost of Holding**
 
 ## **Chapter 16 — Practice**
 
-### Scene 1 — Controlled Interaction
+### Scene 1 — Trying in Ordinary Time
 - Characters: Rei + others
-- Goal: refine ability
-- Beat: modulates depth
-- Turn: sees variation in stability
+- Goal: make practice look repetitive, uncertain, and behavior-based rather than developmental in a clean arc
+- Beat: Rei tries smaller, slower forms of contact in ordinary encounters; some settle, some snag, and she cannot explain the difference afterward
+- Turn: she gains no rule she can trust, only a sense that responsibility may require unfinished contact
 
 ---
 
-### Scene 2 — Internal Effort
+### Scene 2 — Fatigue
 - Characters: Rei
-- Goal: show difficulty
-- Beat: maintaining boundary is exhausting
-- Turn: chooses to continue
+- Goal: make the cost visible
+- Beat: holding herself apart inside connection feels tiring, awkward, and emotionally meaner than the old ease; she grieves what responsibility is taking from her even while she knows she cannot go back
+- Turn: she continues anyway, not because it feels right, but because not continuing would cost other people more
+
+---
+
+### Scene 3 — No Rule
+- Characters: Rei
+- Goal: prevent the chapter from reading like method acquisition
+- Beat: Rei reviews what seemed to work and cannot turn it into instruction; each held moment remains too local, contingent, and dependent on the other person
+- Turn: practice becomes something she can only keep doing, not something she can master cleanly
 
 ---
 
@@ -362,25 +370,25 @@ For all future scenes:
 
 ### Scene 1 — Hesitation
 - Characters: Rei, Yui
-- Goal: re-engage
-- Beat: Yui is cautious
-- Turn: uncertainty present
+- Goal: establish mutual caution before contact resumes
+- Beat: Yui is cautious, Rei is careful, and both women feel how much must now remain unsaid or undone for the meeting to be possible
+- Turn: the scene makes clear that any renewed closeness will depend on restraint from both sides
 
 ---
 
-### Scene 2 — Controlled Connection
+### Scene 2 — Fragile Contact
 - Characters: Rei, Yui
-- Goal: test growth
-- Beat: slow, intentional connection
-- Turn: Yui remains stable
+- Goal: let the contact hold without turning it into cure, fix, or proof of mastery
+- Beat: the connection comes slowly and remains narrow; Rei withholds where she once would have flowed forward, and Yui keeps naming pace and limit from inside the moment
+- Turn: Yui remains herself for now, but the stability reads as a fragile mutual condition rather than something Rei has solved for her
 
 ---
 
-### Scene 3 — After
+### Scene 3 — The Cost After
 - Characters: Rei, Yui
-- Goal: reflect change
-- Beat: connection ends cleanly
-- Turn: both remain themselves
+- Goal: land the sadness and incompleteness of ethical success
+- Beat: the meeting ends without collapse, but not with old ease; both remain themselves and both can feel what had to be withheld to make that possible
+- Turn: Rei leaves with grief rather than triumph, understanding that ethical connection may require a permanent loss of effortless openness
 
 ---
 

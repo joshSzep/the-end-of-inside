@@ -20,7 +20,7 @@ Each relationship should answer:
 
 ## Core Dynamic
 
-> Intimacy → Instability → Careful Reconstruction
+> Intimacy → Instability → Fragile Reconstruction
 
 This is the emotional heart of the story.
 
@@ -90,18 +90,18 @@ Rei changes.
 She:
 
 - slows down
-- modulates connection
-- respects boundaries
+- leaves more unsaid and undone
+- practices restraint without ever feeling fully at ease in it
 
 Effect on Yui:
 
-- stabilization
-- return of self-definition
-- cautious trust
+- moments of stability
+- partial return of self-definition
+- cautious trust that depends on pace and limit
 
-Yui no longer dissolves.
+Yui is not fixed.
 
-She remains.
+The contact becomes survivable because both women keep it incomplete.
 
 ---
 
@@ -165,6 +165,7 @@ Yui introduces:
 - hesitation
 - boundaries
 - requests for space
+- the right to stop even when the moment feels beautiful
 
 She says things like:
 
@@ -173,7 +174,7 @@ She says things like:
 
 This teaches Rei:
 
-> connection must be negotiated, not assumed
+> connection must be negotiated, and may remain partial even when it is real
 
 ---
 
@@ -182,14 +183,14 @@ This teaches Rei:
 Their relationship becomes:
 
 - slower
-- intentional
-- grounded in mutual respect
+- provisional
+- grounded in mutual respect and mutual restraint
 
 Not as effortless.
 
 But:
 
-> real.
+> real, and never innocent again.
 
 ---
 
@@ -322,6 +323,7 @@ Rei offers:
 - understanding
 - forgiveness
 - another form of limit grounded in chosen restraint
+- a form of restraint that remains effortful rather than pure or teachable
 
 But critically:
 

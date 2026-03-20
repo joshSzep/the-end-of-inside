@@ -71,10 +71,11 @@ Fluidity does not require maximal density. Let permeability appear through caref
 - isolation introduces harsh internal clarity
 - more explicit “I vs other” awareness begins to form
 
-**Act III — Intentional**
-- precise and controlled
-- clear distinctions between self and other
-- language becomes more deliberate
+**Act III — Costly Deliberation**
+- more precise, but never effortless
+- clearer distinctions between self and other
+- language becomes more deliberate, thinner, and slightly sadder
+- restraint should often feel awkward before it feels ethical
 
 ---
 
@@ -110,6 +111,18 @@ When quiet escalation is needed, increase it through missed cues, repeated actio
 - never insert a neutral omniscient paragraph that harmonizes the contradictions
 - if a passage begins to read like lore, break it with texture, omission, or competing testimony
 - let explanation sharpen stakes and moral pressure, not resolve the phenomenon
+
+---
+
+## Act III Guardrails
+
+- do not let Act III read like a training montage, healing arc, or recovery manual
+- do not explain Rei's late development as stages, principles, or best practices in-scene
+- avoid therapeutic or spiritual neatness: no abstract reassurance language, no solved inner-peace tone, no metaphysical clarity that relieves pressure
+- keep improvement local, behavioral, and contingent
+- when a moment holds, follow it with cost: fatigue, hesitation, grief, awkwardness, or the knowledge that it may fail next time
+- do not let narration sound like it is teaching the reader how to connect ethically
+- preserve the sadness of what must now remain incomplete
 
 ---
 
@@ -195,21 +208,23 @@ Example tone:
 
 Rei becomes:
 
-- precise
+- more precise
 - intentional
-- calm, but not detached
+- careful, but never serene
+- capable of restraint without becoming fully at home in it
 
 She chooses:
 
 - when to connect
-- how deeply to connect
-- what to withhold
+- how much not to do
+- what to leave incomplete
 
 Her voice is:
 
 - measured
+- effortful
 - respectful of boundaries
-- quietly authoritative
+- never guru-like, therapeutic, or neatly resolved
 
 Example tone:
 
@@ -285,12 +300,14 @@ After recovery begins:
 - slower
 - more cautious
 - more aware of boundaries
+- still capable of uncertainty and recoil
 
 She speaks with:
 
 - care
 - slight hesitation
 - regained sense of self
+- an awareness that staying herself may mean asking for less
 
 Example tone:
 

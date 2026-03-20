@@ -355,73 +355,67 @@ Yui is further destabilized.
 
 ## **Chapter 15 — Edge**
 
-Rei recalls isolation.
+Rei discovers that the afterimage of isolation has left her with a faint, unwanted edge.
 
-- remembers the feeling of self-containment
-- begins to perceive a faint boundary within herself
+- the sense of self returns under pressure rather than on command
+- when she tries to keep hold of it, the effort feels awkward, thin, and almost ungenerous
+- what changes is not mastery but the possibility of doing slightly less damage in one moment than she might have before
+- the first partial success is exhausting and emotionally wrong-feeling, not triumphant
 
-She experiments:
+She does not find a method.
 
-- holds onto a thought while connecting
-- maintains slight separation
-
-First small shift:
-- connection does not fully collapse
-
-Not stable yet.
-
-But different.
+She finds a costly, unstable way to remain present without disappearing entirely.
 
 ---
 
-# **ACT III — Learning to Hold the Line**
+# **ACT III — The Cost of Holding**
 
 ## **Chapter 16 — Practice**
 
-Rei begins intentional practice.
+Rei practices because she can no longer bear the old ease, not because practice gives her clarity.
 
-- learning to “hold and open”
-- maintaining self while connecting
+- small ordinary interactions become sites of effort
+- some moments hold and others do not, and she cannot derive a stable rule from the difference
+- holding onto herself inside contact makes her tired, hesitant, and sometimes falsely cold
+- what she is learning is not technique but tolerance for incompletion
+- responsibility begins to look like stopping early, leaving space, or accepting a thinner kind of closeness than she wants
 
-She observes:
-
-- different levels of stability in others
-- adjusts connection accordingly
-
-This is difficult and unnatural.
+This chapter should feel effortful, repetitive, and costly rather than progressive.
 
 ---
 
 ## **Chapter 17 — Yui Again**
 
-Rei reconnects with Yui carefully.
+Rei and Yui attempt contact again under mutually chosen limits.
 
 - slower
-- more deliberate
-- less overwhelming
+- halting
+- incomplete on purpose
+- shaped as much by what Rei does not do as by what she offers
 
 Yui hesitates.
 
 Not rejection.
 
-Memory.
+Memory, caution, and self-protection.
 
-They connect.
+The connection holds for now.
 
-For the first time:
+But:
 
-- Yui remains stable
-- retains a clear sense of self
+- the stability is fragile and jointly maintained
+- nothing about the meeting proves a universal answer
+- both of them can feel how narrow the margin is
 
 Rei realizes:
 
-> this is possible
+> this can be lived differently
 
 Her primary feeling:
 
 > sadness
 
-She has lost effortless connection.
+Because what makes the moment ethical is also what keeps it from ever again feeling effortless.
 
 ---
 

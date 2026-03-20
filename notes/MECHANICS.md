@@ -380,51 +380,53 @@ Initially:
 
 ---
 
-## Learning Control
+## Unstable Practice After Isolation
 
-Rei develops control through:
+Rei does not acquire a clean technique.
 
-### 1. Recognition
+What changes in Act III is more fragile than that:
 
-- noticing when connection begins
-- identifying what is “hers”
-- recognition tends to arrive by accumulation rather than explanation
-- it may come after Rei has already answered, touched, or steadied someone
-- it may also arrive under pressure from a witness before Rei can organize it into a stable thought
-- reduced proximity or smaller answers do not necessarily stop the social disturbance once it has widened
+- recognition may arrive slightly earlier, but still often comes late
+- she can sometimes keep one thread of self-awareness while near someone else, but the effort is tiring and unreliable
+- smaller answers, reduced proximity, or deliberate incompletion may help one moment and fail in the next
+- a held moment cannot be assumed transferable to the next person or scene
+- stopping short may be ethically necessary while still feeling emotionally wrong or withholding
 
-### 2. Holding
-
-- maintaining a thread of self-awareness
-- not fully dissolving into connection
-
-### 3. Modulation
-
-- adjusting depth intentionally
-- allowing partial connection
-
-### 4. Release
-
-- disengaging without collapse
-- returning to self without panic
+The story should treat this as practice under pressure, not system mastery.
 
 ---
 
-## Technique (Experiential, Not Technical)
+## Practice (Experiential, Not Teachable)
 
-Rei’s control is not mechanical.
+Rei’s late ability is not mechanical.
 
 It is:
 
 - felt
 - practiced
-- refined through experience
+- contingent
+- partly disappointing
 
 Described as:
 
 - “holding a line”
 - “staying here while reaching there”
 - “not letting go completely”
+
+It should never read as:
+
+- a healthy protocol
+- a repeatable spiritual insight
+- a universally teachable technique
+- a solved answer to the House
+
+What appears to work is always shaped by:
+
+- the other person's state
+- the specific history of the interaction
+- timing
+- what Rei refrains from doing
+- luck, fatigue, and accumulated consequence
 
 ---
 
@@ -485,23 +487,26 @@ Her wrongness lies not in being outside the system, but in using the system's ow
 
 ---
 
-# **Rei’s Final State**
+# **Rei’s Late-State Practice**
 
-Rei achieves:
+By the end of the novel, Rei reaches a fragile ethical practice rather than a solved form.
 
-- controlled openness
-- maintained identity
-- intentional connection
+She can sometimes:
 
-She can:
+- stay present without fully overrunning another person
+- leave space without treating space as abandonment
+- withdraw without the immediate panic that once made restraint impossible
 
-- connect deeply without collapse
-- withdraw without panic
-- respect others’ boundaries
+But:
+
+- the effort is real
+- the result is contingent
+- the loss of effortless openness remains emotionally significant
+- nothing here should read as permanent immunity from failure
 
 Key distinction:
 
-> She chooses connection.
+> She chooses incompleteness where she once would have chosen seamlessness.
 
 ---
 
@@ -513,6 +518,10 @@ For the purposes of the story, characters can act on one fundamental rule:
 > Boundaries determine whether that amplification is sustainable.
 
 This is a working rule, not an exhaustive explanation.
+
+It does not produce a stable manual for ethical connection.
+
+At best, it names the pressure under which people keep making imperfect choices.
 
 ---
 

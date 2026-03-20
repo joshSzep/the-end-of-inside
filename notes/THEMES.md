@@ -290,22 +290,27 @@ But by choosing differently.
 
 ## **Learning Through Loss**
 
-Rei cannot learn control without losing something.
+Rei cannot become more responsible without losing something she genuinely loved.
 
 She loses:
 - effortless connection
 - innocence
 - simplicity
+- the feeling that closeness can simply be allowed to happen
 
 What replaces it:
 
 - intention
 - awareness
 - responsibility
+- restraint
+- a more ethical but more sorrowful form of closeness
 
 This is not framed as a clean upgrade.
 
 It is a trade.
+
+It should often feel like grief.
 
 Her final emotional state is not triumph.
 
@@ -314,6 +319,34 @@ It is:
 > sadness
 
 Because growth always costs something.
+
+---
+
+## **Chosen Incompleteness**
+
+Act III must not become a method reveal.
+
+Rei does not arrive at a stable answer she can teach.
+
+What she learns instead is that ethical connection may require:
+
+- stopping before the old ease would have stopped
+- leaving something unresolved on purpose
+- accepting partial contact over overwhelming contact
+- tolerating the sadness of not taking all that is available
+
+This matters because the novel should not imply:
+
+- that responsibility feels healing
+- that restraint produces clean peace
+- that the metaphysical problem has been solved
+
+The late chapters should preserve:
+
+- fatigue
+- grief
+- ongoing risk
+- the sense that even the best moment could still go wrong
 
 ---
 
@@ -389,17 +422,17 @@ Instead, it embraces:
 
 Rei does not stop being who she is.
 
-She learns how to be that safely.
+She learns how to bear being that more responsibly, and never without cost.
 
 ---
 
 ## **Final Thematic Statement**
 
-The story ultimately argues:
+The story should end with ethical pressure, not a slogan.
 
-> Love is not the absence of boundaries.  
-> It is the act of honoring them.
+If there is a final thematic shape, it is this:
 
-And:
-
-> To truly understand another person, you must allow them to remain separate from you.
+- love without limit can wound
+- restraint can be necessary without ever becoming easy
+- another person remaining separate from you is not a failure of intimacy
+- the most ethical form of connection may also be the saddest one
