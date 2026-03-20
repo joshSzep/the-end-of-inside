@@ -47,7 +47,7 @@ By the time Rei reached the river, the indoor pool lights inside the ward sports
 
 Suzu was already on the bench.
 
-She sat at one end with her hands bare despite the cold, a pair of dark gloves folded precisely beside her. Her coat was charcoal and plain enough that Rei would not have remembered it later except for how carefully it seemed to have been chosen not to ask for memory. At her feet was a small paper pharmacy bag, its top rolled down twice. She looked neither young nor old enough to settle quickly into either category. Only narrowed. As if a great deal of herself had been spent, over years, on deciding exactly where to stop.
+She sat at one end with her hands bare despite the cold, a pair of dark gloves folded into a precise square beside her. Her coat was charcoal and plain enough that Rei would not have remembered it later except for how carefully it seemed to have been chosen not to ask for memory. At her feet was a small paper pharmacy bag, its top rolled flat twice. She looked neither young nor old enough to settle quickly into either category. Only narrowed. As if a great deal of herself had been spent, over years, on deciding exactly where to stop.
 
 When Rei came near, Suzu looked up.
 
@@ -165,9 +165,11 @@ Rei said, "That was true sometimes."
 
 Suzu's head turned a fraction in her direction.
 
-It was the smallest visible acknowledgment Rei had seen from her.
+It was the smallest acknowledgment Rei had seen from her.
 
 "Yes," Suzu said.
+
+Only to that.
 
 They sat with that for a moment while a swimmer in a towel ran from the side door to the parking lot, one hand over her wet hair, laughing at the cold.
 
@@ -175,13 +177,15 @@ Then Rei said, "And what you did was still wrong."
 
 "Yes," Suzu said.
 
+The word met the accusation and stopped there.
+
 That stopped Rei more than denial would have.
 
 She looked at Suzu fully now.
 
 "You say that easily."
 
-"No." Suzu folded one glove over the other with unnecessary precision. "I say it accurately. Ease has nothing to do with it."
+"No." Suzu pressed one glove over the other with unnecessary precision. "I say it accurately. Ease has nothing to do with it."
 
 Rei felt, unexpectedly, anger move through her with less heat than before. Not because it was gone. Because it had lost the relief of imagining Suzu as only one thing.
 
@@ -197,7 +201,7 @@ Only enough that Suzu's hand stopped midway through refolding the gloves.
 
 Rei waited.
 
-Suzu set the gloves back down beside her.
+Suzu set the gloves back exactly where they had been.
 
 "By the time he reached me, most of what remained was sequence," she said. "Exposure. Need. Cutoff. Death. People could arrange it in either direction depending on what they wanted to justify."
 
@@ -255,7 +259,7 @@ Rei kept her voice level.
 
 "No," Suzu said.
 
-Again the word came without friction.
+Again the word landed exact and separate.
 
 Rei felt, under that, the old reflex that would once have reached farther just because a line had opened.
 
@@ -271,19 +275,19 @@ It was not mockery.
 
 Only caution sharpened until it almost sounded flat.
 
-"Yes," Rei said. "Not a clean one. Not one that lets anyone feel innocent. Not one that works because you decide it should and then trust yourself forever after." She looked at her own hands. "It's smaller than that. Slower. Sometimes it feels worse than the old harm because you can feel everything in you wanting the easier movement and have to stop anyway."
+"Yes," Rei said. "Not a clean one. Not one that lets me feel innocent, or trust myself just because I want to." She looked at her own hands. "Smaller than I wanted. Slower. Sometimes it feels worse because some part of me still wants the easier movement and I have to stop it."
 
 Suzu listened without interruption.
 
 Rei went on.
 
-"You stop before the moment has to tear itself away from you. You leave space there. You let the other person say enough. You stop there too, even when you want more, even when more feels kind."
+"Before it has to tear itself away from me. I leave space there. I let the other person say enough. Then I stop there too, even when more still feels kind."
 
 She thought of the library bench. Stay this size. I wanted to stop while it was still mine.
 
 The grief of it moved through her again, quiet and exact.
 
-"It doesn't feel pure," she said. "It felt sad. It still is. But it exists."
+"It doesn't feel pure," she said. "It felt sad. It still does. It was there anyway."
 
 Suzu looked at the river for so long that Rei thought she might not answer.
 
@@ -301,15 +305,11 @@ Neither woman moved.
 
 Rei let the admission stand before she added, "But cutting isn't the only thing that counts as seriousness."
 
-Suzu's hand closed lightly over the folded gloves.
+Suzu's hand closed over the folded gloves.
 
 "No," she said. Then, after a moment: "It is the one that does not depend on appetite learning restraint in time."
 
-The wording was austere enough to feel older than the bench, older than the river, older than both of them.
-
-Still, Rei heard the wound inside it.
-
-Kindness that cannot stop is still appetite.
+The wording felt older than the bench, older than the river, older than both of them.
 
 She did not argue the sentence down.
 
@@ -349,11 +349,11 @@ The look was not gratitude.
 
 Not disbelief either.
 
-Something more exact and more difficult: attention with nowhere prepared to put the sentence.
+Something more difficult: attention with nowhere to put the sentence.
 
 Rei kept going before the old impulse could make the words larger than they were.
 
-"That isn't absolution," she said. "It doesn't make what you did necessary. It doesn't make it right. And I'm not saying it so you'll feel cleared by it." Her hands stayed quiet in her lap. "You don't have to receive it at all. I'm telling you because it's true, and because I won't turn you into one clean sentence that serves me."
+"That isn't absolution," she said. "It doesn't make what you did necessary. Or right. I'm not saying it so you'll feel cleared by it." Her hands stayed quiet in her lap. "You don't have to receive it. I'm saying it because it's true, and because I won't turn you into one clean sentence that serves me."
 
 Marcus moved through the silence between those words without being summoned more directly.
 
@@ -365,7 +365,9 @@ Rei would not do that here.
 
 Suzu said nothing.
 
-Then, after a long enough pause for the pool whistle to sound once more and vanish, she said, "I didn't ask for that."
+Long enough for the pool whistle to sound once and vanish.
+
+Then she said, "I didn't ask for that."
 
 "I know," Rei said.
 
@@ -375,13 +377,11 @@ Rei did not look away.
 
 "You don't have to do anything with it," she said.
 
-That was the last explanation.
-
-After that, the words between them stopped.
+After that, the words stopped.
 
 The river went on moving below the concrete. The sports center windows held their white reflections. A pair of office workers came down the steps from the upper path, saw the vending machines were sold out of hot coffee, and went back up again without glancing twice at the bench.
 
-Rei could feel the possible line between herself and Suzu still there.
+The line between them remained.
 
 Not the old ease.
 
@@ -389,12 +389,12 @@ Not invitation.
 
 Not absence either.
 
-Only possibility under restraint.
+Held where it was.
 
 She did not cross it.
 
-Suzu did not close the distance, and did not leave.
+Suzu did not close the distance or leave.
 
-For a moment longer than either of them seemed prepared to allow, they remained on the bench above the dark water with the living pressure between them unclosed and untouched.
+For a moment longer than either of them seemed prepared to allow, they remained on the bench above the dark water with the pressure between them unclosed.
 
 Neither moved first.
