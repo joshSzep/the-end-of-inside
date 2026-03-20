@@ -76,13 +76,11 @@ Mariko looked rested. Her coat was buttoned correctly. Her hair was pinned back.
 
 "Hi."
 
-Mariko held out the paper.
+Mariko lifted the paper slightly.
 
-"This is for Saturday. I kept meaning to bring it."
+"This is for Saturday. I kept meaning to read it."
 
-Rei took it.
-
-"Thank you."
+Rei nodded.
 
 Mariko nodded and looked toward the craft table where her son was lining markers in a row instead of choosing one.
 
@@ -106,7 +104,7 @@ Mariko took two steps toward the table, stopped beside it, and looked back.
 
 "Did you say Saturday was downstairs?" she asked.
 
-Rei still had the folded permission slip in her hand.
+The folded permission slip was still in Mariko's hand.
 
 "No," she said.
 
@@ -139,8 +137,6 @@ Mariko caught it with her other hand, glanced down as if surprised to find it th
 "Thank you," she said.
 
 A boy asked where the glue sticks were.
-
-Rei slipped the permission form into the tray under the register.
 
 Her phone was in the apron pocket at her hip. She had felt it once at lunch and once on the walk over. She had not looked.
 
