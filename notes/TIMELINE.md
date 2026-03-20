@@ -282,11 +282,14 @@ Connection returns suddenly.
 Effects:
 
 - overwhelming relief
-- immediate stabilization
+- the world gathers again around Rei
+- she waits for the cut to return and it does not
 
 But:
 
 - a residual sense of “self” remains
+- continuity is no longer assumed
+- Yui's text reaches in two motions: words first, person after
 
 ---
 
@@ -294,13 +297,15 @@ But:
 
 Rei:
 
-- searches for explanation
-- notices subtle differences in perception
+- tests ordinary exchanges for continuity
+- experiences false alarms that pass cleanly without restoring trust
+- begins to show slight delays, checks, and imperfect restraint in moments of closeness
 
 Yui:
 
-- shows clear instability
-- struggles with identity coherence
+- is slightly out of sync before she is overtly unstable
+- greeting, warmth, and later responses do not always land together
+- remains available to Rei without fully completing the connection
 
 ---
 

@@ -166,6 +166,8 @@ Her speech includes:
 - pauses
 - corrections
 - unfinished thoughts
+- answers that may come a shade late or smaller than the moment invites
+- physical deflections through small actions rather than clean verbal refusal
 
 Example tone:
 
@@ -244,12 +246,14 @@ As Yui is affected by Rei:
 - her speech becomes uncertain
 - identity confusion appears
 - emotional tone fluctuates
+- before overt confusion, her replies may land in two parts or answer a layer adjacent to what was said
 
 She may:
 
 - contradict herself
 - lose track of what she’s saying
 - ask grounding questions
+- let a smile, nod, or tone complete a beat after the sentence itself
 
 Example tone:
 

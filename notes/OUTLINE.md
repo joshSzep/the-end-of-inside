@@ -19,6 +19,8 @@ This outline provides a complete, beat-by-beat structure for the novel. Each cha
 - she no longer fully trusts continuous connection
 - in ordinary interactions, she may wait, check, or listen a beat longer than before
 - in moments of closeness, she may hesitate, delay, or leave a small distance unclosed
+- when nothing breaks, she may keep checking anyway
+- her restraint may show as a smaller answer, an awkward redirect, or a motion she does not finish
 - she remains functional and composed
 - some quieter part of her does not fully want to dissolve again
 
@@ -207,15 +209,17 @@ Small, but unmistakable.
 Rei moves through ordinary interactions more carefully.
 
 - she waits an extra beat in conversations to see if they continue to hold
-- one expected break never comes
+- several expected breaks never come, and this does not reassure her
+- her restraint shows imperfectly: delayed replies, small checks, partial redirections
 - she seeks explanation only indirectly, through small questions and continued checking
 
 Yui:
 - slightly out of sync
+- greeting, warmth, and response do not always arrive together
 - connection is available, but does not fully complete
 - not fully stable
 
-The chapter ends without resolution. Rei keeps moving forward, but with a fraction held back.
+The chapter ends without resolution. Rei lets the line continue, but does not follow it all the way.
 
 ---
 
@@ -223,9 +227,10 @@ The chapter ends without resolution. Rei keeps moving forward, but with a fracti
 
 Consequences emerge.
 
+- Yui's slight misalignment becomes harder to ignore
 - Yui struggles to regulate emotionally
 - expresses confusion about identity
-- Rei hesitates at the edge of contact, then reaches too deep trying to restore what no longer feels guaranteed
+- Rei hesitates at the edge of contact, then reaches too deep trying to complete what no longer closes on its own
 
 > “I don’t feel like I came back all the way.”
 

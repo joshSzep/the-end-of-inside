@@ -57,10 +57,13 @@ But underneath:
 
 ### Act II
 
-Rei continues to connect without restraint.
+Rei continues to move toward Yui, but no longer seamlessly.
 
 Effect on Yui:
 
+- connection remains available
+- timing and emotional landing begin to slip out of alignment
+- incompletion appears where closeness would once have closed on its own
 - identity destabilization
 - emotional overflow
 - confusion of ownership
@@ -69,10 +72,11 @@ Yui begins to experience:
 
 - thoughts that don’t feel like hers
 - emotions that don’t resolve
+- responses that arrive slightly aside from the moment that called for them
 
 Critical shift:
 
-> Rei’s presence becomes destabilizing.
+> Rei’s presence becomes destabilizing, even when she holds back.
 
 ---
 
@@ -136,6 +140,13 @@ Her instability forces Rei to confront:
 
 - unintended consequences
 - the cost of unbounded connection
+- that connection can remain available and still fail to complete
+
+Yui's presence now reaches Rei in altered ways:
+
+- greeting, warmth, and response may arrive in two motions
+- bids for closeness may remain available without resolving themselves
+- Rei answers with checking, delay, or imperfect redirection
 
 Yui acts as:
 

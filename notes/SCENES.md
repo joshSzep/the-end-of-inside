@@ -20,6 +20,7 @@ For all future scenes:
 - include moments where separation provides clarity, stability, or preserved self
 - avoid scenes that fully resolve connection or fully reject it
 - keep the tension in behavior and perception, never explanation
+- favor imperfect deflection, slight response delay, and exchanges that land a little aside of themselves
 
 ---
 
@@ -182,16 +183,16 @@ For all future scenes:
 ### Scene 1 — Continuity
 - Characters: Rei + others
 - Goal: test ordinary interactions for continuity
-- Beat: Rei waits an extra beat inside several exchanges, expecting one to fail; one false alarm passes cleanly
-- Turn: nothing breaks, but she is not reassured
+- Beat: Rei waits an extra beat inside several exchanges, expecting one to fail; several false alarms pass cleanly and the checking persists
+- Turn: ordinary continuity holds, but she does not trust it more
 
 ---
 
 ### Scene 2 — Yui Out of Sync
 - Characters: Rei, Yui
 - Goal: navigate closeness without forcing it
-- Beat: Rei and Yui meet in slight misalignment; connection is available, but does not fully complete
-- Turn: Rei keeps the exchange moving, but does not fully close the distance
+- Beat: Rei and Yui meet in slight misalignment; greeting, warmth, and later answers arrive in separate beats, and Rei's deflections are slightly awkward rather than clean
+- Turn: the line between them continues, but Rei does not close the distance or follow it farther
 
 ---
 
@@ -208,7 +209,7 @@ For all future scenes:
 ### Scene 2 — Failed Help
 - Characters: Rei, Yui
 - Goal: attempt repair
-- Beat: Rei hesitates at the edge of contact, then reaches deeper to stabilize her
+- Beat: Rei hesitates at the edge of contact, then reaches deeper trying to complete what no longer settles on its own
 - Turn: it worsens
 
 ---

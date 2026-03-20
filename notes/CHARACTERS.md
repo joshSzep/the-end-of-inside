@@ -138,6 +138,8 @@ But also:
 - for drafting, treat the inward place like a wound: not named, but slightly intrusive
 - she may pause, check, or listen a beat longer before acting
 - in moments of closeness, she may hold back a fraction without meaning to
+- she may answer slightly late, start one response and redirect it through a small action, or leave a gesture unfinished
+- false alarms do not restore ease; they only quiet the checking for a moment
 - ordinary shared life may narrow briefly to a single object, sound, or touch before widening again
 - she remains composed and functional; the change shows in timing, attention, and incomplete ease
 
@@ -406,6 +408,8 @@ She is receptive to something deeper.
 - occasionally skips small buffers of timing, familiarity, and space around Rei
 - may land on Rei with slightly too much precision, too early
 - may answer or reappear as if the interval between exchanges were shorter on her side
+- after the silence, warmth, greeting, or response may arrive in separate beats
+- she may answer what Rei almost offers, or slide past what Rei actually gives her
 - begins to orient emotionally around Rei
 - other relationships feel diminished by comparison
 

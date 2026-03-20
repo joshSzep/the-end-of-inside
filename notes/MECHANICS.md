@@ -303,6 +303,9 @@ Reconnection is:
 However:
 
 - a residual awareness of “self” remains
+- continuity is checked rather than assumed
+- ordinary shared life may narrow briefly to one object, sound, or touch before widening again
+- language, feeling, or contact may arrive in separate beats before settling
 
 This becomes the seed of change.
 
@@ -331,12 +334,15 @@ After isolation, Rei gains:
 
 - awareness of internal space
 - the ability to detect separation
+- the impulse to test whether connection is still holding
 
 Initially:
 
 - weak
 - unstable
 - inconsistent
+- may appear as extra listening, delayed replies, or small unfinished motions
+- does not prevent connection, but changes how fully and how quickly Rei enters it
 
 ---
 
