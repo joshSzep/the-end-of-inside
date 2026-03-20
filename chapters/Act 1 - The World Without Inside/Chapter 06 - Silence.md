@@ -44,7 +44,7 @@ Again the answer came a fraction after it should have. Rei found herself waiting
 
 Rei opened the door for her.
 
-The hallway smelled faintly of detergent and old cooking oil. The light above the stairwell had the same dim yellow cast it always did after ten, when it made the walls look more tired than dirty.
+The hallway smelled faintly of detergent and old cooking oil. The stairwell bulb had the same tired yellow it always took on after ten, when it made the walls look more worn than dirty.
 
 "Message me when you get in," Rei said.
 
@@ -168,9 +168,7 @@ No answer came, late or otherwise.
 
 She listened a little harder.
 
-That was the first adjustment she made on purpose.
-
-Not because she thought anything was wrong. Only because the connection had gone slightly out of rhythm and sometimes rhythm returned if you stopped stepping on top of it.
+Held still.
 
 She stayed quiet.
 
@@ -254,6 +252,8 @@ She waited for the rest of it.
 
 For the part that would place Yui somewhere below. For the small answering pressure that should have made the name belong somewhere.
 
+For the rest.
+
 Nothing.
 
 She was still listening when she went down one flight, then another.
@@ -286,7 +286,7 @@ Then she went down the stairs quickly.
 
 At the building entrance she paused only long enough to push the door open.
 
-Night air met her in a cool flat sheet.
+Night air met her, cool and blank against her face.
 
 The street was not empty.
 
@@ -348,7 +348,7 @@ In the cut by the tracks. Under concrete. Beside the yellow line.
 
 Nothing.
 
-She stopped under the yellow pool of a streetlamp and tried again, not only for Yui now. For the students disappearing down the side street. For the woman unlocking her bicycle. For the child upstairs. For the train announcing itself from far enough away that the rails only barely began to hum.
+She stopped under the streetlamp, where the light thinned everything yellow, and tried again, not only for Yui now. For the students disappearing down the side street. For the woman unlocking her bicycle. For the child upstairs. For the train announcing itself from far enough away that the rails only barely began to hum.
 
 Nothing.
 
@@ -446,7 +446,7 @@ Just a beat late.
 
 She waited.
 
-The message field stayed open. The street stayed open.
+The message field stayed open. So did the street.
 
 Nothing followed.
 
@@ -454,6 +454,6 @@ Just a beat late.
 
 Her thumb hovered over send.
 
-She waited for the rest of the motion.
+It stayed there.
 
-It did not come.
+The rest of the motion did not come.
