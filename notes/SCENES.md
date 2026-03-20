@@ -252,19 +252,27 @@ For all future scenes:
 
 ## **Chapter 12 — Second Bell**
 
-### Scene 1 — Discovery
+### Scene 1 — Upstairs Record
 - Characters: Rei
-- Goal: identify cause
-- Beat: isolation was intentional
-- Turn: name emerges
+- Goal: follow the pressure of Chapter 11 into the older record without turning it into explanation
+- Beat: in the upstairs office, Marcus-era material, dates, and marginal notes refuse to settle cleanly in order; Rei follows the wrong line first and only later understands what it belongs to
+- Turn: what she finds points to deliberate intervention framed as protection, not accident
 
 ---
 
-### Scene 2 — Naming Suzu
+### Scene 2 — Name in the Present
+- Characters: Rei, Fumiko, Sano
+- Goal: test the fragment against living memory without stabilizing it into lore
+- Beat: older witnesses do not fully align, but between them the language of containment sharpens and the term Second Bell surfaces as something that did not end with Marcus
+- Turn: Suzu emerges not as backstory, but as someone still acting from that line
+
+---
+
+### Scene 3 — Carry-Forward Failure
 - Characters: Rei
-- Goal: ground antagonist
-- Beat: identity of Second Bell revealed
-- Turn: personalizes conflict and sharpens the older ideological lineage behind it
+- Goal: show that naming the cause does not contain the damage
+- Beat: Rei tries to leave with the discovery held local, misreads the sequence of a present-tense thread, and acts on the wrong beat
+- Turn: the pressure does not close with the scene; it carries forward into the next chapter
 
 ---
 

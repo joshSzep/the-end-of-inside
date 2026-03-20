@@ -279,24 +279,28 @@ The chapter ends not in conclusion, but in pressure: Rei takes the upstairs key 
 
 ## **Chapter 12 — Second Bell**
 
-Rei discovers:
+Rei follows the pressure from the center upstairs, looking for something that will separate the day back into before and after.
 
-- her isolation was intentional
-- it was targeted
-- it was done to protect others
+Instead:
 
-The name emerges:
+- the older record refuses to stay archival
+- dates, notes, and remembered fragments do not settle cleanly in order
+- Rei follows the wrong thread first and understands too late what it is attached to
+- the isolation event begins to read as deliberate intervention framed as protection, not accident or private misfortune
 
-> Second Bell
+Through a mismatched exchange with older witnesses, one thing becomes clear:
 
-And then:
+- someone acted to contain her
+- that action belongs to a continuing logic, not a closed past
+- the name attached to that logic is Second Bell
+- and then, less cleanly, Suzu
 
-> Suzu
+By the end of the chapter:
 
-Conflict sharpens:
-
-- not a caricatured extremist
-- a morally serious inheritor of an older doctrine
+- the problem is no longer only Rei's effect on others
+- someone else is acting inside the same field
+- something remains open and carries forward past the scene
+- the reader's question shifts from what is happening to how far it goes now
 
 ---
 
