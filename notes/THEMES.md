@@ -131,22 +131,56 @@ Rei begins in total freedom:
 - no friction
 - no effort required
 
-Second Bell represents clean coercion:
+Suzu embodies containment through imposed limit:
 - restriction
 - intervention
 - forced separation
+- sequencing
+- cutoff
 - responsibility hardened into unilateral control
 
 Both are flawed.
 
 - freedom without structure causes harm
-- clean coercion is still coercion
+- imposed limit is still coercion, even when it arrives sounding responsible
 
 The resolution is not choosing one over the other.
 
 It is integrating both:
 
 > True connection requires intentional control.
+
+---
+
+## **Containment Through Control**
+
+Suzu is not the book's debate opponent.
+
+She is what happens when ethical alarm hardens into procedure.
+
+Her answer to harm is to:
+
+- identify the pattern
+- decide it will not self-correct
+- sequence the danger
+- cut the line
+- impose limit before anyone else has to admit how late it already is
+
+This is believable because:
+
+- the harm is real
+- the pressure is real
+- waiting can in fact look like cowardice
+
+This is wrong because:
+
+- she substitutes management for relation
+- she replaces shared consent with her own threshold
+- she turns containment into something done to people rather than practiced with them
+
+The conflict with Rei is therefore not thesis against antithesis.
+
+It is two different answers to real harm.
 
 ---
 
@@ -167,6 +201,10 @@ He was:
 - left inside a pattern where dependency, cutoff, and retrospective interpretation all became usable
 
 Suzu looks at that history and concludes not that coercive intervention is intolerable, but that it must be cleaner, earlier, and less theatrical.
+
+She is not there to represent a position in debate.
+
+She is the human form of a damaged lesson.
 
 The question is not simple.
 
@@ -232,7 +270,7 @@ Second Bell is shaped by that false lesson.
 
 Her actions are not random.
 
-They are a continuation stripped of overt appetite.
+They are a continuation stripped of overt appetite and narrowed into method.
 
 This theme explores:
 

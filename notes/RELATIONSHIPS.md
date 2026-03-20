@@ -267,9 +267,13 @@ It also gives Rei her first spectrum of consequence:
 
 ## Core Dynamic
 
-> Freedom vs Control → Understanding Without Agreement
+> Shared Alarm → Imposed Limit vs Chosen Restraint
 
-This is the philosophical spine of the story.
+This is the novel's central ethical strain in action, not a hero-villain polarity.
+
+Both women are responding to real harm inside the same system.
+
+The conflict turns on whether harm can be contained without unilateral cutoff.
 
 ---
 
@@ -287,17 +291,17 @@ No direct influence.
 
 Rei becomes:
 
-- a perceived threat
-- a case study
-- a problem to solve
+- the site of an imposed limit
+- someone Suzu decides she cannot leave to ordinary regulation
+- someone Rei initially wants to imagine as being acted on by an outside enemy
 
 Suzu acts on Rei.
 
 Rei experiences:
 
 - violation (isolation)
-- confusion
-- eventual understanding
+- misreading
+- the pressure of realizing Suzu comes from inside the world's own fear of harm
 
 ---
 
@@ -308,13 +312,16 @@ Rei approaches Suzu intentionally.
 She:
 
 - does not attack
-- does not defend aggressively
+- does not recruit her into agreement
 - does not collapse into her
+
+Rei names harm without turning Suzu into a monster or thesis opponent.
 
 Rei offers:
 
 - understanding
 - forgiveness
+- another form of limit grounded in chosen restraint
 
 But critically:
 
@@ -328,13 +335,15 @@ This is Rei’s final evolution.
 
 ### Act I
 
-Suzu observes from a distance.
+Suzu observes from within the same social world Rei inhabits.
 
 She identifies:
 
 - risk patterns
 - people around Rei failing to return cleanly to themselves
 - structural echoes of Marcus without treating Rei and Marcus as the same case
+
+She knows the language of care, participant protection, and accumulated harm from inside, not from pure opposition.
 
 She does not intervene yet.
 
@@ -356,6 +365,8 @@ Without it:
 
 - Rei would not change
 
+Suzu's action is system-internal care narrowed into unilateral control.
+
 ---
 
 ### Act III
@@ -363,13 +374,17 @@ Without it:
 Suzu maintains her stance:
 
 - controlled
-- justified
+- self-justifying
 - emotionally restrained
 
 However:
 
 - she listens
 - she does not escalate
+
+What unsettles her is not losing an argument.
+
+It is encountering a form of restraint that does not fit the sequence that justified what she did.
 
 Rei’s response creates:
 
@@ -392,7 +407,7 @@ They:
 
 The relationship resolves in:
 
-> silence with awareness
+> silence with awareness and unclosed ethical tension
 
 ---
 
@@ -475,7 +490,7 @@ This relationship exists through inheritance, interpretation, and selective use.
 
 ## Core Dynamic
 
-> Indirect Harm → Unseen Protection
+> Protection Without Agency
 
 They do not meaningfully interact directly.
 
@@ -489,6 +504,7 @@ Suzu’s intervention is partially motivated by:
 
 - protecting people like Yui
 - preventing further destabilization
+- stopping relief from hardening into dependency
 
 Yui represents:
 
@@ -517,6 +533,7 @@ Yui’s existence challenges Suzu’s model:
 - she is harmed
 - but not irreparably
 - she recovers without extreme intervention
+- she shows that imposed cutoff is not the only imaginable response to harm
 
 Yui represents:
 
@@ -616,10 +633,10 @@ But through:
 Each relationship explores a different axis:
 
 - Rei ↔ Yui → **emotional consequence**
-- Rei ↔ Suzu → **ethical conflict**
+- Rei ↔ Suzu → **ethical tension inside shared harm**
 - Rei ↔ Marcus → **human pressure against explanation**
-- Suzu ↔ Marcus → **doctrine built from wound**
-- Yui ↔ Suzu → **philosophical tension**
+- Suzu ↔ Marcus → **wound hardened into method**
+- Yui ↔ Suzu → **protection without agency**
 - Rei ↔ World → **system integration**
 
 Together, they answer:

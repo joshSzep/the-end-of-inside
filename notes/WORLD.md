@@ -285,11 +285,17 @@ Second Bell comes out of that later lineage.
 
 Not loud or theatrical.
 
+She is not an external enemy to the connected world.
+
+She is one of its unresolved internal responses.
+
 But aligned in belief:
 
 - ungoverned connection can destabilize others
 - some beautiful forms of openness become capture
 - intervention may be necessary before damage becomes undeniable
+
+Her method uses the same shared field, the same sensitivity to asymmetry, and much of the same language of care that the world already recognizes.
 
 She operates:
 
@@ -297,6 +303,8 @@ She operates:
 - precisely
 - without consent
 - under the mistaken belief that clean coercion is ethically cleaner than messy coercion
+
+That partial legibility is what makes her dangerous.
 
 ---
 

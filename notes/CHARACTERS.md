@@ -20,7 +20,7 @@ Each character must:
 
 ## Core Identity
 
-Rei is a young Japanese woman who has grown up in a world where shared empathy and relational permeability are normal.
+Rei is a young Japanese woman who has grown up in a world where shared empathy and relational permeability were normal.
 
 She has never experienced a fully separate self as the default condition.
 
@@ -214,6 +214,23 @@ It means:
 
 She believes she is preventing catastrophe, not creating it.
 
+She is not trying to win an argument with the world.
+
+She is trying to stop a pattern before someone else has to pay for everyone else's hesitation.
+
+---
+
+## Human Constraint
+
+Suzu should feel like a narrowed human being, not a free-floating ideology.
+
+What concretely drives her:
+
+- she notices asymmetry, delayed return, and small failures of sequence that other people would rather absorb or rename
+- she believes the room usually recognizes harm too late, after the most permeable person has already paid for it
+- she would rather be hated for cutting a line early than praised for waiting while someone else disappears inside it
+- she has built a life around vigilance, reduction, and self-limitation; this feels like responsibility to her, not self-deprivation
+
 ---
 
 ## Personality
@@ -221,16 +238,17 @@ She believes she is preventing catastrophe, not creating it.
 ### 1. Austere and anti-theatrical
 - she speaks with almost no social grease
 - she distrusts emotional excess
-- she is most dangerous when she sounds calm
+- when frightened, she narrows instead of flaring
 
 ---
 
-### 2. System-oriented
+### 2. Pattern-oriented and triage-minded
 Suzu thinks in terms of:
 - thresholds
 - asymmetries
 - patterns that stop self-correcting
 - downstream effects
+- who is already carrying the cost while everyone else is still deciding what to call it
 
 She is less impressed by:
 - sincerity without structure
@@ -243,6 +261,8 @@ She is not casual about harm.
 
 She believes:
 > if damage is already accumulating, waiting for perfect permission may simply mean waiting for other people to pay for your restraint
+
+She would rather commit one unmistakable violation than keep calling accumulating harm uncertainty.
 
 ---
 
@@ -266,12 +286,13 @@ Suzu believes:
 - waiting for obvious catastrophe is often moral laziness
 - intervention without consent can be justified if it is precise enough
 - Rei is dangerous not because she is evil, but because she is ungoverned
+- the worst coercion often arrives looking like kindness that nobody wants to interrupt
 
 ---
 
 ## Relationship to Marcus
 
-Marcus is the catastrophe Suzu keeps translating into doctrine.
+Marcus is the catastrophe Suzu keeps narrowing into method.
 
 She inherits a partial account that emphasizes pattern and strips out the ordinary human details that would slow judgment.
 
@@ -288,13 +309,17 @@ What she learns is:
 
 She mistakes non-theatrical coercion for ethical seriousness.
 
+She is most wrong where Marcus is most human.
+
+The more ordinary, lonely, and salvageable he becomes, the less cleanly her method holds.
+
 ---
 
 ## Relationship to Rei
 
 Suzu does not hate Rei.
 
-She sees in Rei a naturally occurring version of the same structural danger.
+She sees in Rei a present-tense recurrence of the same structural danger.
 
 Around Rei she notices:
 - accelerated opening
@@ -306,6 +331,8 @@ She does not think Rei intends harm.
 
 That is part of why Rei frightens her.
 
+Rei is unbearable to Suzu not because Rei is opposite to her, but because Rei makes visible the kind of harm Suzu thinks only cutoff can stop.
+
 To Suzu, Rei is:
 > intimate, beautiful, and ethically ungoverned
 
@@ -313,7 +340,7 @@ To Suzu, Rei is:
 
 ## Key Action
 
-Suzu isolates Rei by severing her from the shared empathic field.
+Suzu isolates Rei by severing her from the shared empathic field once she decides the pattern has stopped self-correcting.
 
 In Suzu's mind, this is not punishment.
 
@@ -321,12 +348,17 @@ It is:
 - preemptive decoupling
 - forced boundary formation
 - harm prevention before the pattern widens
+- triage performed without permission
 
 ---
 
 ## Flaw
 
-Suzu confuses elegance with innocence.
+Suzu reduces ethics to sequencing.
+
+Once she decides she is late, every unforced option starts to look like vanity, drift, or cowardice.
+
+She confuses elegance with innocence.
 
 She can imagine:
 - unbounded openness
@@ -334,6 +366,24 @@ She can imagine:
 
 She cannot imagine:
 > consent, skill, and structure doing the work coercion is trying to do
+
+---
+
+## Protective Constraints
+
+Do not write Suzu as:
+
+- a cartoon villain
+- a thesis mouthpiece
+- a clean spokesperson for skepticism, privacy, or control
+- a simple foil whose function is to be disproved by Rei
+
+Write her as:
+
+- a person shaped by a harmful lesson
+- a continuation of an existing social logic
+- someone whose care has narrowed into imposed limit
+- ethically wrong in ways that remain partially understandable from inside her fear
 
 ---
 
@@ -462,9 +512,6 @@ Yui does not:
 
 She holds both truths:
 
-> “It wasn’t your fault.”  
-> “But it happened.”
-
 ---
 
 ## End State
@@ -473,7 +520,6 @@ Yui begins to recover:
 
 - rebuilding a sense of self
 - re-establishing internal stability
-
 But:
 
 - it is harder than before
@@ -482,10 +528,6 @@ But:
 ---
 
 ## Function in the Story
-
-Yui is:
-
-- the emotional grounding of Rei’s arc
 - the proof that harm is real
 - the reason Rei cannot ignore the consequences of her nature
 
@@ -494,7 +536,6 @@ Yui is:
 ## Key Internal Tension
 
 > “It felt right… so why did it hurt?”
-
 ---
 
 # **Marcus**
@@ -627,7 +668,7 @@ Prefer:
 At the center of the novel is this triangle:
 
 - **Rei** — connection without initial awareness, evolving into ethical openness  
-- **Suzu** — control through restriction, unable to see integration  
+- **Suzu** — harm-prevention narrowed into cutoff, unable to imagine integration after risk  
 - **Yui** — the human cost of imbalance  
 
 All major scenes should, directly or indirectly, reflect tension within this triangle.

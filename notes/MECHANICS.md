@@ -211,7 +211,9 @@ Violation occurs when:
 
 Rei violates consent unintentionally.
 
-Second Bell violates consent intentionally.
+Second Bell deliberately imposes nonconsensual limits once she decides ordinary consent can no longer be trusted to protect the vulnerable.
+
+That judgment is ethically wrong, but it is not cartoon malice.
 
 ---
 
@@ -292,6 +294,7 @@ The isolation event is achieved through:
 
 - targeted disruption of connection pathways
 - severing all incoming and outgoing shared states
+- structural intervention inside the same shared field everyone else inhabits
 
 Key properties:
 
@@ -454,6 +457,8 @@ Second Bell operates under:
 - risk assessment
 - preemptive intervention
 - structural decoupling
+- sequencing
+- imposed limit
 - minimal theatricality
 
 Her assumptions:
@@ -467,12 +472,16 @@ Her method:
 - isolate to interrupt accumulation before it becomes dependency
 - force boundary formation rather than letting collapse spread
 - remove access instead of arguing about it
+- substitute her threshold for shared regulation
 
 This is:
 
 - effective
 - disciplined
+- system-internal
 - but ethically compromised
+
+Her wrongness lies not in being outside the system, but in using the system's own logic of care as unilateral control.
 
 ---
 

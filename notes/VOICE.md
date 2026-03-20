@@ -320,6 +320,7 @@ Suzu speaks:
 - with almost no social grease
 - without embellishment
 - without emotional leakage
+- from observation, threshold, and remembered consequence before she speaks from abstraction
 
 She avoids:
 
@@ -333,7 +334,7 @@ Her language is:
 - precise
 - restrained
 - deliberate
-- unnervingly reasonable
+- concrete first, unnervingly reasonable only because it stays attached to what she thinks she saw
 
 Example tone:
 
@@ -352,6 +353,7 @@ Her restraint comes from:
 - responsibility
 - disgust at appetite disguised as care
 - memory of Marcus as dependency made useful
+- the habit of narrowing herself before she narrows others
 
 Occasionally:
 
@@ -377,6 +379,19 @@ But:
 - she listens
 - she does not interrupt
 - she allows space
+- she does not deliver a manifesto or a total accounting of herself
+
+---
+
+## Suzu Scene Guardrails
+
+- do not let Suzu speak in clean philosophical paragraphs that summarize the novel's ideas
+- do not structure Rei/Suzu scenes as point-counterpoint debate rounds
+- do not make Suzu the mouthpiece for skepticism while Rei becomes the mouthpiece for connection
+- keep Suzu close to specifics: who failed to return, what sequence broke, when she decided she could not wait
+- let her answers remain partial, narrowed, and costly rather than exhaustive
+- if a scene starts sounding like thesis exchange, break it with misreading, interruption, silence, or a concrete remembered harm
+- let pressure, consequence, and what remains unsaid do at least half the work
 
 Example tone:
 

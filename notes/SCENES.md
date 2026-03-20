@@ -256,23 +256,23 @@ For all future scenes:
 - Characters: Rei
 - Goal: follow the pressure of Chapter 11 into the older record without turning it into explanation
 - Beat: in the upstairs office, a date, a marginal line, and a name refuse to settle in a single order; Rei lands on one clean reading and takes that reading downstairs with her
-- Turn: what she finds points to deliberate intervention framed as protection, but the reading is already less stable than she thinks
+- Turn: what she finds points to deliberate intervention framed as protection, but the intervention already reads less like outside attack than like one coercive use of the same shared system
 
 ---
 
 ### Scene 2 — Name in the Present
 - Characters: Rei, Fumiko, Sano
 - Goal: test the fragment against living memory without stabilizing it into lore
-- Beat: the fragment from upstairs bleeds into the conversation; older witnesses do not align, and one detail does not fit Rei's earlier reading, even as the language of containment sharpens
-- Turn: Second Bell surfaces first as function or signal, then as Suzu, making the earlier office scene feel less settled rather than more explained
+- Beat: the fragment from upstairs bleeds into the conversation; older witnesses do not align, one detail does not fit Rei's earlier reading, and neither witness can place Suzu fully outside the rooms, norms, and fears they already know
+- Turn: Second Bell surfaces first as function or signal, then as Suzu, making the earlier office scene feel less settled rather than more explained and less externalized than Rei wants
 
 ---
 
 ### Scene 3 — Carry-Forward Failure
 - Characters: Rei
 - Goal: show that naming the cause does not contain the damage
-- Beat: Rei tries to keep the discovery local, acts from her now-confident wrong read, and meets a present-tense thread that does not resolve on the beat she expects
-- Turn: the failure does not settle into scene closure; it remains active beyond the chapter and changes the story's operating rules
+- Beat: Rei tries to keep the discovery local by turning Suzu into a cause she can point at, acts from that now-confident wrong read, and meets a present-tense thread that does not resolve on the beat she expects
+- Turn: the failure does not settle into scene closure; it remains active beyond the chapter and proves the pressure cannot be cleanly externalized
 
 ---
 
@@ -289,16 +289,16 @@ For all future scenes:
 ### Scene 2 — Interested Retellings
 - Characters: Rei, Fumiko, Sano
 - Goal: show that every account is trying to do something in the present
-- Beat: one speaker keeps returning Marcus to ordinary life while another compresses him into warning, proof, or precedent; even accurate details arrive already arranged by fear, guilt, or politics
-- Turn: Rei realizes that explanation here is itself a form of use
+- Beat: one speaker keeps returning Marcus to ordinary life while another compresses him into warning, proof, or precedent; even accurate details arrive already arranged by fear, guilt, or politics, and Suzu's logic is felt in that arrangement before Suzu herself speaks
+- Turn: Rei realizes that explanation here is itself a form of use, and that Suzu is less an opponent than a continuation of that use
 
 ---
 
 ### Scene 3 — No Clean Lesson
 - Characters: Rei
 - Goal: leave the chapter with sharpened stakes rather than solved lore
-- Beat: Rei cannot prove exactly what was done to Marcus or map him neatly onto herself, but can no longer deny that closeness, cutoff, and interpretation were all used as instruments
-- Turn: Marcus stops being a case and becomes the pressure point that makes Yui, Suzu, and Rei impossible to read cleanly
+- Beat: Rei cannot prove exactly what was done to Marcus or map him neatly onto herself, but can no longer deny that closeness, cutoff, sequencing, and interpretation were all used as instruments
+- Turn: Marcus stops being a case and becomes the pressure point that makes Yui, Suzu, and Rei impossible to read cleanly or oppose neatly
 
 ---
 
@@ -386,27 +386,27 @@ For all future scenes:
 
 ## **Chapter 18 — Second Bell**
 
-### Scene 1 — Confrontation
+### Scene 1 — Approach Under Pressure
 - Characters: Rei, Suzu
-- Goal: resolve conflict
-- Beat: discussion of actions and ethics
-- Turn: Rei expresses understanding
+- Goal: bring them into the same space without turning Suzu into debate opponent or villain
+- Beat: Rei arrives carrying harm, change, and unfinished questions; Suzu stays close to concrete thresholds, what she saw, and the moment she decided she could not wait
+- Turn: Rei recognizes Suzu as a damaged continuation of shared ethical fear, not an external opposite, and the pressure between them sharpens instead of resolving
 
 ---
 
-### Scene 2 — Forgiveness
+### Scene 2 — Refusal to Convert
 - Characters: Rei, Suzu
-- Goal: demonstrate growth
-- Beat: Rei forgives without imposing
-- Turn: does not connect
+- Goal: let ethical difference remain live without collapsing into thesis debate or mutual conversion
+- Beat: Rei names another form of limit through chosen restraint and offers forgiveness without transmission; Suzu cannot take this as absolution, surrender, or proof that her action was unnecessary
+- Turn: neither woman wins the scene, but Rei's refusal to coerce makes Suzu's path feel narrower and more tragic
 
 ---
 
 ### Scene 3 — Silence
 - Characters: Rei, Suzu
-- Goal: final state
-- Beat: shared presence without action
-- Turn: nothing happens
+- Goal: let consequence remain after language stops
+- Beat: shared presence without action, with both women aware that connection, cutoff, and non-action are all possible
+- Turn: neither solves, seizes, or escapes the other; the stillness holds the unresolved ethical pressure of the whole book
 
 ---
 
