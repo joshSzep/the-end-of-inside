@@ -6,9 +6,7 @@ Homework hour had already begun. Children bent over worksheets at the long table
 
 Rei tied on an apron and took her place behind the counter where the snack trays waited.
 
-The room touched her from every side in the ordinary, shared way it always had. Restlessness from the children. Mild fatigue from the volunteers. One mother's impatience at the wet hem of her coat. The small, private relief of a grandfather who had arrived three minutes before being considered late.
-
-None of it should have been difficult to move through.
+The room touched her from every side. Restlessness from the children. Mild fatigue from the volunteers. One mother's impatience at the wet hem of her coat. The small, private relief of a grandfather who had arrived three minutes before being considered late.
 
 Daichi came in from the hall with a stack of copied notices against his chest.
 
@@ -44,19 +42,9 @@ Fumiko did not answer.
 
 Rei slid the orange wedges into a bowl and wiped the knife on the towel beside the cutting board.
 
-The room moved on.
-
-It did not move far.
-
 Children came up for tea in a loose line that kept breaking and reforming. One girl with ink on the side of her hand asked if there was honey left. Rei pointed to the jar by the cups. The girl looked directly at it, thanked her, and reached for the sugar instead. A volunteer corrected a date on a sign-in sheet, then wrote the same wrong date again beneath it with more care than before.
 
-None of these things would have meant anything by themselves.
-
-Rei kept handing out cups.
-
-She answered simply. She did not step closer than she had to. When someone paused, she let the pause belong to them if it would.
-
-The work still kept turning back toward her.
+She did not step closer than she had to. When someone paused, she let the pause belong to them if it would.
 
 Near the window, a boy in a green sweatshirt had given up on division and was drawing towers in the margin of his worksheet. His mother apologized to Rei from across the room without lowering her voice.
 
@@ -82,7 +70,7 @@ He ran ahead toward the craft table. Mariko caught his hood lightly with two fin
 
 He groaned and obeyed.
 
-Mariko looked rested enough that for a moment Rei almost believed the shape of the last weeks had thinned. Her coat was buttoned correctly. Her hair was pinned back. She had a grocery bag over one wrist and a permission slip folded into quarters in one hand.
+Mariko looked rested. Her coat was buttoned correctly. Her hair was pinned back. She had a grocery bag over one wrist and a permission slip folded into quarters in one hand.
 
 "Hi," she said.
 
@@ -114,8 +102,6 @@ Then her son called, "Mama, blue or red?"
 
 She turned toward him at once.
 
-For a second Rei thought the moment had closed.
-
 Mariko took two steps toward the table, stopped beside it, and looked back.
 
 "Did you say Saturday was downstairs?" she asked.
@@ -140,8 +126,6 @@ She let him.
 
 Fumiko turned off the tap.
 
-The sound of the water stopping was larger than it should have been.
-
 "Mariko," she said, not loudly.
 
 Mariko looked toward her.
@@ -154,9 +138,7 @@ Mariko caught it with her other hand, glanced down as if surprised to find it th
 
 "Thank you," she said.
 
-No one answered.
-
-The room held that for a moment. Then a boy asked where the glue sticks were, and the hour resumed its scattered, ordinary motion.
+A boy asked where the glue sticks were.
 
 Rei slipped the permission form into the tray under the register.
 
@@ -196,23 +178,15 @@ The afternoon thinned toward evening.
 
 Children were collected. Chairs scraped. Leftover orange wedges were wrapped and put away. One volunteer stacked cups in towers too high for the shelf and had to take them down again one at a time.
 
-Through all of it, the center kept returning to itself by fractions.
-
-Rei could no longer tell whether what remained was unusual because it was new, or because she had stopped allowing each instance to separate cleanly from the one before it.
-
 When Mariko finally left with her son, she remembered the grocery bag, the backpack, the second mitten, and the permission slip all in the correct order.
 
 At the doorway she turned back once.
 
-Not to ask anything.
-
-Only to look at Rei as if a sentence between them had been left waiting somewhere and might still continue if neither of them moved.
+She only looked.
 
 Then her son tugged her sleeve and she went.
 
-Fumiko saw that too.
-
-Rei knew because Fumiko dried her hands and did not immediately turn off the kitchen light.
+Fumiko dried her hands and did not immediately turn off the kitchen light.
 
 * * *
 
@@ -290,21 +264,13 @@ The heater clicked off. Somewhere upstairs, old pipes answered a beat later.
 
 Fumiko turned then and leaned one hip lightly against the counter.
 
-She did not look severe. That made it harder.
-
 "People don't stay themselves around you," she said.
 
-The sentence entered the room without force.
+Rei looked at her.
 
-It did not need any.
+Too clean.
 
-Rei's first thought was that the wording was wrong.
-
-Too absolute. Too clean. Too easy for someone who had not stood where she had stood beside Yui on the bench, beside Mariko at the sink, beside herself after the silence.
-
-But even while the objection formed, other moments had already begun moving toward it.
-
-Daichi with the notices still in his hands. Mariko asking about upstairs while looking straight at Fumiko by the sink. Yui saying sit for a minute in the same instant Rei said it. The way a simple answer could seem to steady someone and then leave them farther from themselves once it ended.
+Then Daichi with the notices. Mariko asking about upstairs while looking at the sink. Yui on the bench.
 
 Rei picked up the cloth again because not moving felt worse.
 
@@ -314,29 +280,21 @@ Rei picked up the cloth again because not moving felt worse.
 
 Fumiko reached past her for the switch above the sink and turned off the light there. The counter dropped into a dimmer yellow from the front room.
 
-"People come to you already open," she said. "That's part of it. You're kind. You listen. The world is what it is now."
+"People come to you already open," she said. "You're kind. You listen."
 
 She took the stack of dried cups and set them in the cupboard.
 
-"But they don't always know how to close again."
-
-Rei stood very still.
+"But they don't always know how to come back."
 
 Fumiko shut the cupboard door with one finger.
 
-"And lately," she said, "they're taking longer."
-
-The sentence stayed nearer than Rei wanted it to.
+"Lately longer."
 
 Outside, a car door slammed. Somewhere in the building, water began running through a pipe and stopped almost at once.
 
 Rei said, "Yui isn't everyone."
 
 "No," Fumiko said. "That's why I said people."
-
-For a second Rei almost laughed.
-
-Not because anything was funny. Because the sentence had arrived with such plainness that it left nowhere easy to push against it.
 
 She looked down at the cloth in her hand.
 
@@ -345,10 +303,6 @@ It was folded into a narrow strip without her noticing when she had done that.
 Fumiko stepped away from the counter.
 
 "Go home," she said.
-
-It was the same thing she had said weeks earlier upstairs after Marcus's name had been left between them.
-
-Rei heard that too.
 
 Fumiko took her bag from the hook by the office door and slipped her arms into her coat.
 
@@ -364,15 +318,13 @@ At the door she stopped and looked back, not at Rei exactly but at the room with
 
 Then she left.
 
-The center settled around the sound of the door closing.
-
 Rei stood alone beside the wiped tables.
 
-The drawer Fumiko meant was in the reception desk by the staircase, second from the top, where the extra batteries and postage stamps were kept in a tray that never stayed organized for long.
+The drawer Fumiko meant was in the reception desk by the staircase, second from the top.
 
 Rei did not go to it immediately.
 
-She crossed the room first and straightened one of the notices on the door because it was half a finger lower than the other. Then she moved the bowl of wrapped orange wedges from the front counter to the refrigerator though it had already been put away once. Then she turned the lights in the hall off, back on, and off again because the first click had not felt final.
+She crossed the room first and straightened one of the notices on the door. Then she moved the bowl of wrapped orange wedges from the front counter to the refrigerator. Then she turned the lights in the hall off, back on, and off again.
 
 Only then did she go to the desk.
 
@@ -385,8 +337,6 @@ Inside were rubber bands, two pens with no ink, a roll of labels, a half-used bo
 UPSTAIRS OFFICE, someone had written in block letters with a marker that had begun running out halfway through OFFICE.
 
 Rei stood with the key in her palm.
-
-The building was quiet enough now that she could hear the small electric hum from the vending machine outside across the street whenever the heater rested.
 
 She looked toward the front door.
 
