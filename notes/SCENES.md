@@ -154,17 +154,17 @@ If a scene does not change something, it should not exist.
 
 ### Scene 1 — Return
 - Characters: Rei
-- Goal: reorient
-- Beat: connection floods back
-- Turn: relief overrides panic
+- Goal: survive the return
+- Beat: connection floods back too fast; relief arrives before understanding
+- Turn: the world gathers again, but Rei does not trust it at once
 
 ---
 
 ### Scene 2 — Residual Self
 - Characters: Rei
-- Goal: introduce change
-- Beat: faint awareness of internal boundary
-- Turn: she notices something different
+- Goal: test the return
+- Beat: connection is back, but a small interior remainder does not dissolve
+- Turn: she notices that some part of her stays distinct
 
 ---
 

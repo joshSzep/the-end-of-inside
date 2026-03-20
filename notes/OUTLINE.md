@@ -173,14 +173,16 @@ Panic comes late.
 
 Rei reconnects.
 
-- overwhelming relief
-- stability returns instantly
+- relief hits before thought
+- the shared field rushes back all at once
+- the world becomes a world again
 
 But:
-- something feels slightly different
-- a faint awareness of “self” remains
+- she does not trust the return immediately
+- something in her stays faintly separate
+- the sense of “self” remains inside connection
 
-Barely noticeable.
+Small, but unmistakable.
 
 ---
 
