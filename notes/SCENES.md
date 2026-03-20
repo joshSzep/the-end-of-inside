@@ -126,25 +126,25 @@ If a scene does not change something, it should not exist.
 
 ### Scene 1 — Mid-Connection
 - Characters: Rei, Yui
-- Goal: deepen connection
-- Beat: full emotional overlap
-- Turn: connection abruptly collapses
+- Goal: continue the closeness from before
+- Beat: a response comes a beat late; Rei adjusts and keeps going
+- Turn: the connection still holds, but thinner
 
 ---
 
-### Scene 2 — Immediate Panic
-- Characters: Rei
-- Goal: regain connection
-- Beat: attempts to reach outward
-- Turn: nothing responds
+### Scene 2 — Trying Again
+- Characters: Rei, Yui
+- Goal: find the rhythm again
+- Beat: Rei speaks, waits, and repeats; each attempt returns less than the last
+- Turn: nothing comes back
 
 ---
 
-### Scene 3 — Isolation
+### Scene 3 — Closed Loop
 - Characters: Rei
-- Goal: survive
-- Beat: closed-loop thoughts, escalating panic
-- Turn: realization of complete separation
+- Goal: reach outward
+- Beat: she keeps trying with no interruption from outside; her thoughts begin to repeat inside the unanswered space
+- Turn: panic starts only when the exchange does not restart
 
 ---
 

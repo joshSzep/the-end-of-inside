@@ -145,28 +145,25 @@ This deepens the disturbance without naming it.
 
 **Inciting Incident**
 
-Rei is abruptly isolated.
+Rei is still in the close rhythm with Yui.
 
-- mid-connection (ideally with Yui)
-- something fails to echo back
+- something answers a beat late
+- she adjusts and continues
+- the return comes back thinner
+- then not at all
 
-Then:
+Rei keeps trying.
 
-- silence spreads
-- emotional presence disappears
-- connection collapses
-
-Rei panics.
+- she speaks without response
+- she waits without change
+- she repeats without effect
 
 Experiences:
-- closed-loop thoughts
-- no emotional feedback
-- suffocating isolation
+- thoughts repeat
+- thoughts fail to resolve
+- thoughts turn inward without interruption
 
-Realization:
-> “This is how they live.”
-
-Horror.
+Panic comes late.
 
 ---
 
