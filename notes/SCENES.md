@@ -234,19 +234,19 @@ For all future scenes:
 
 ## **Chapter 11 — Pattern**
 
-### Scene 1 — Observation
-- Characters: Rei
-- Goal: connect dots
-- Beat: recalls multiple similar interactions
-- Turn: sees consistency
+### Scene 1 — Recurrence in the Center
+- Characters: Rei, Daichi, Mariko, Fumiko, community members
+- Goal: let the broader pattern reappear during ordinary work without giving Rei stable footing over it
+- Beat: Rei stays quieter and smaller, but small misfires recur around notices, tea, a returned line, Mariko, and Daichi
+- Turn: the room will not separate itself cleanly back into isolated moments
 
 ---
 
-### Scene 2 — External Confirmation
-- Characters: Rei + other
-- Goal: validate suspicion
-- Beat: someone names the issue
-- Turn: “People don’t stay themselves around you.”
+### Scene 2 — Pressure
+- Characters: Rei, Fumiko, Rei
+- Goal: make recognition catch without resolving into theory
+- Beat: Fumiko names the disturbance bluntly; Rei resists the phrasing, but cannot dismiss the room that produced it
+- Turn: alone, Rei tidies compulsively, takes the upstairs key, and goes toward the dark office
 
 ---
 

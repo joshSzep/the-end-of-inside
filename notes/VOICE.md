@@ -161,6 +161,7 @@ She begins to:
 - hesitate before connecting
 - search for language to describe separation
 - stop at the edge of answering or soothing, even when the impulse is immediate
+- try reducing herself in ordinary interactions through shorter, more functional replies
 
 Her speech includes:
 
@@ -170,6 +171,7 @@ Her speech includes:
 - answers that may come a shade late or smaller than the moment invites
 - physical deflections through small actions rather than clean verbal refusal
 - small concrete instructions in place of reassurance
+- resistance to language that feels too clean for what she is living inside
 
 Example tone:
 

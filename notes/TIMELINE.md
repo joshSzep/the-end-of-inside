@@ -332,9 +332,11 @@ Rei:
 
 Rei:
 
-- replays recent incidents as one accumulation rather than separate episodes
-- cannot fully return to the belief that closeness is harmless
-- begins looking outward for confirmation and history
+- returns to ordinary center work and tries to stay smaller inside it
+- finds that Daichi, Mariko, and smaller room-level slips still recur around her
+- is named bluntly by Fumiko as part of the disturbance rather than protected from it
+- resists the wording, but cannot return the day to separate incidents
+- ends the day moving toward the upstairs office and the older history
 
 ---
 

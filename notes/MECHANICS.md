@@ -359,6 +359,8 @@ Rei develops control through:
 - identifying what is “hers”
 - recognition tends to arrive by accumulation rather than explanation
 - it may come after Rei has already answered, touched, or steadied someone
+- it may also arrive under pressure from a witness before Rei can organize it into a stable thought
+- reduced proximity or smaller answers do not necessarily stop the social disturbance once it has widened
 
 ### 2. Holding
 

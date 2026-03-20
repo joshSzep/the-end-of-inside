@@ -139,14 +139,18 @@ But also:
 - she may pause, check, or listen a beat longer before acting
 - in moments of closeness, she may hold back a fraction without meaning to
 - she may answer slightly late, start one response and redirect it through a small action, or leave a gesture unfinished
+- in ordinary shared settings, she may try to make herself smaller through short functional answers and reduced proximity
 - false alarms do not restore ease; they only quiet the checking for a moment
 - ordinary shared life may narrow briefly to a single object, sound, or touch before widening again
 - she remains composed and functional; the change shows in timing, attention, and incomplete ease
 
 ### Recognition
-- repeated incidents stop reading as separate exceptions
+- repeated incidents stop reading as separate exceptions, but not in a clean or stable way
+- even when she stays quieter, ordinary room time still turns back toward her
+- blunt naming from others may feel wrong in wording and still catch
 - she begins to understand that her answers and touch can steady another person without returning them fully to themselves
 - she confronts the harm she has caused, especially through Yui
+- before she can make that understanding coherent, she is pulled toward older records and history
 
 ### Transformation
 - she learns to perceive where she ends

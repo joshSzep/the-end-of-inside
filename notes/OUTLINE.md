@@ -259,18 +259,21 @@ She still does not name a conclusion, but can no longer let each incident stand 
 
 ## **Chapter 11 — Pattern**
 
-Rei begins to see patterns:
+Rei returns to ordinary work at the center and tries to stay smaller.
 
-- multiple people affected
-- increasing intensity around her
+- small misfires recur around Daichi, Mariko, and others anyway
+- the disturbance is not confined to Yui or to intimate scenes
+- the room does not reset cleanly just because Rei answers less or steps back
 
-Someone tells her:
+Fumiko tells her:
 
 > “People don’t stay themselves around you.”
 
-This lands.
+The wording catches badly.
 
-But she does not accept it yet.
+Rei resists it, but cannot thin the day back into separate incidents.
+
+The chapter ends not in conclusion, but in pressure: Rei takes the upstairs key and moves toward the office.
 
 ---
 

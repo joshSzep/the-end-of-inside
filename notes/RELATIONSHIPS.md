@@ -248,6 +248,12 @@ She notices:
 - when they do not come back all at once
 - when they fail to return fully to themselves
 
+By Chapter 11, Fumiko's witness role returns under more pressure:
+
+- Rei tries to stay smaller and the room still does not reset cleanly
+- Fumiko names the disturbance more bluntly, without offering relief or theory
+- Rei resists the phrasing, but cannot comfortably absorb it away
+
 This is the first broader social mirror Rei cannot comfortably absorb.
 
 It also gives Rei her first spectrum of consequence:
