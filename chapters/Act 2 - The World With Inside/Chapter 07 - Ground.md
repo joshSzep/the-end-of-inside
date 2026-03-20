@@ -12,6 +12,8 @@ The metal was cold and ordinary. Around that one fact, the rest of the world cam
 
 The layered sounds stopped staying separate. The laugh above, the faint hum from the station side, the convenience store door opening and closing, the bus easing away from the curb, the bicycle chain clicking once as the woman pushed off. They took hold of one another again. They took hold of her.
 
+The chain clicked once more. The wheel seemed to answer it a fraction late, or seemed to. Then the timing set itself right.
+
 Relief hit too fast to sort.
 
 It was not thought. It was not even recognition at first. Only the sudden end of something that had been pressing inward from every side.
@@ -32,7 +34,7 @@ She looked down at the unsent message.
 
 Are you on the train?
 
-The words seemed slightly foolish now, but not because they had been wrong. Only because Yui was no longer lost to her.
+The words seemed slightly foolish now, but not because they had been wrong. Only because Yui could be found again, far off and moving.
 
 Rei let the screen go dark without sending it.
 
@@ -49,6 +51,8 @@ Rei waited one more breath.
 Then another.
 
 The world did not thin.
+
+She kept her hand on the post until the bus reached the corner and remained a bus.
 
 She started back toward her building.
 
@@ -76,11 +80,11 @@ So did her hand.
 
 She climbed one flight and then paused.
 
-The return held.
+One breath.
 
 From below, the newspaper pages shifted. From above, the child finally allowed one pajama sleeve over an arm. Behind the wall nearest the stairs, somebody laughed once at something on television and immediately checked whether they had laughed too loudly this late.
 
-All of it reached her cleanly.
+All of it still reached her.
 
 But the hand on the rail remained strangely easy to locate. The pull in her calf as she took the next step remained. The breath moving in and out of her chest eased now, but it did not disappear into the rest of the night the way it once would have.
 
@@ -88,7 +92,7 @@ Rei stopped on the landing outside her apartment.
 
 She did not know what to call the difference.
 
-Only that the world was back, and something had not gone back with it.
+Only that everything around her had gathered again, and the small inward place had stayed.
 
 The keys felt heavier than usual when she took them from her pocket.
 
@@ -102,7 +106,7 @@ Rei stood just inside the door and let all of it reach her.
 
 Then she tried, carefully, not to stand apart from it.
 
-Nothing failed.
+For several breaths, nothing failed.
 
 The room did not go flat. The city did not pull away. Yui did not disappear again into distance without texture.
 
@@ -153,3 +157,5 @@ She sent it.
 The phone remained in her hand after the message left.
 
 So did her hand.
+
+She waited a second as if one might still follow the other.
