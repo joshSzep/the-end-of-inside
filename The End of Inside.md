@@ -3648,13 +3648,11 @@ Mariko looked rested. Her coat was buttoned correctly. Her hair was pinned back.
 
 "Hi."
 
-Mariko held out the paper.
+Mariko lifted the paper slightly.
 
-"This is for Saturday. I kept meaning to bring it."
+"This is for Saturday. I kept meaning to read it."
 
-Rei took it.
-
-"Thank you."
+Rei nodded.
 
 Mariko nodded and looked toward the craft table where her son was lining markers in a row instead of choosing one.
 
@@ -3678,7 +3676,7 @@ Mariko took two steps toward the table, stopped beside it, and looked back.
 
 "Did you say Saturday was downstairs?" she asked.
 
-Rei still had the folded permission slip in her hand.
+The folded permission slip was still in Mariko's hand.
 
 "No," she said.
 
@@ -3711,8 +3709,6 @@ Mariko caught it with her other hand, glanced down as if surprised to find it th
 "Thank you," she said.
 
 A boy asked where the glue sticks were.
-
-Rei slipped the permission form into the tray under the register.
 
 Her phone was in the apron pocket at her hip. She had felt it once at lunch and once on the walk over. She had not looked.
 
@@ -4355,4 +4351,2531 @@ The bus pulled away.
 On the screen, a third message was already there.
 
 No, Yui wrote. I mean before.
+
+### Chapter 13 - Marcus
+
+Yui's last line remained on Rei's phone the next morning.
+
+No, I mean before.
+
+She had not answered it in the night.
+
+Every reply she found went thin before her thumb reached send. By morning the sentence had attached itself to more than the thread. It sat with the softened photocopy in her coat pocket. It sat with the blue underline. It sat with the older room no one downstairs had been willing to name in only one shape.
+
+Rain had gone from steady to fine. The city was wet without looking freshly washed. On the train, umbrellas dried against trouser legs. A child near the doors leaned too hard into his mother's sleeve and then corrected himself. The shared field reached Rei easily. The small inward place remained where it had been, quiet and unwanted.
+
+The center was still dim when she arrived.
+
+Fumiko had only turned on the kitchen light. Gray day sat in the front windows. The radiator clicked once and then reconsidered. Somewhere upstairs a pipe answered late.
+
+Fumiko looked up from the sink.
+
+"Tea isn't ready," she said.
+
+"I didn't come for tea."
+
+"No," Fumiko said. "I know."
+
+Rei took the folded photocopy from her pocket and set it on the counter between them.
+
+"Do you have more?"
+
+Fumiko dried her hands without hurrying.
+
+"More of him," she said, "or more of what people did with him."
+
+Rei looked down at the softened fold.
+
+"I don't know."
+
+Fumiko nodded as if that was the better answer.
+
+She crossed to the reception desk, opened the second drawer, took out the upstairs key, and then did not hand it over. Instead she went up herself.
+
+Rei waited by the counter with the photocopy under her fingertips and the smell of yesterday's tea still faint in the room.
+
+When Fumiko came back down, she was carrying a shallow cardboard file with one torn corner and two different years written on the tab in two different pens. Neither date had been crossed out. She set it on the counter and kept her hand there a second longer than necessary.
+
+"If you want one clean version," she said, "the newspapers already wrote it."
+
+Then she lifted her hand.
+
+"If you want the rest, don't ask it to line up."
+
+She went back to the sink.
+
+Rei took the file upstairs.
+
+* * *
+
+The office smelled the same as the day before: paper, dust, old dry flowers, and the flat after-smell of rooms used for too many different kinds of need. Morning light from the narrow window made the desk look more temporary than it had under the lamp.
+
+Rei sat down and opened the file.
+
+The first page was a newspaper clipping with the masthead cut away.
+
+Most of the first paragraph was missing too. Whoever had copied it years ago had set the paper too far left. What remained began mid-sentence with a man described as isolated, unemployed, and known to have a prior history of substance misuse.
+
+Isolated had been circled in blue pen.
+
+Beside it someone had written, no.
+
+Farther down, unemployed had been underlined once and then crossed out with a shorter note in the same hand.
+
+server
+
+Rei turned the page.
+
+A copied restaurant roster lay beneath it. Names in one column. Lunch shift and dinner shift in the next. Marcus M. appeared on Monday in both places. Someone had highlighted the line and then stopped halfway through, as if the act of marking it had become too clear.
+
+The photocopy had kept one grease mark near the bottom corner.
+
+Below that was a payroll stub from the same week, numbers too faded to matter now except for the fact of them. Hours worked. Taxes withheld. Deposit pending.
+
+Rei set both pages side by side.
+
+The article had wanted a man alone.
+
+The roster kept putting him back among other names.
+The clipped article still held.
+
+She turned the next page.
+
+This one was cleaner. A property sheet from the apartment after the death. Typed lines. Inventory language. No room in it for weather, hesitation, or the difference between one object and the life around it.
+
+1 black elastic receiver band
+5 adhesive neck patches
+1 metallic sobriety coin, 30 days
+1 apartment key set
+1 restaurant locker key
+1 transit card
+1 cellular phone
+
+The third and fourth lines sat too close together.
+
+The page made no comment on that.
+
+Paper shifted beneath Rei's hand.
+
+The next sheet was a copied systems summary from a later investigation. Portions had gone gray where toner failed. The clear part was worse.
+
+Repeated relay access was listed by date and tag.
+
+DESIRE / MUTUAL
+SAFE / HELD
+JOY / RECEIVING
+FULL / HOME
+
+Several entries appeared more than once. On the original, somebody had circled JOY / RECEIVING so hard the pen pressure showed through the back. Along one edge of the photocopy, half a column of numbers remained visible where the image had clipped badly. Prices, maybe. Or counts. The copy refused to decide.
+
+Rei looked at the tags again.
+
+They did not sound clinical. They sounded chosen for someone who needed welcome without debt, steadiness without asking, a home that arrived before explanation. The page did not say that either. It only offered the names and trusted the rest of the work to happen in whoever read them.
+
+She put that sheet down and picked up the next one.
+
+This was not an article and not a report. Only a typed interview summary with the header cut off. The witness name had been blacked out. Three lines in, the summary shifted from paraphrase to quotation marks and stayed there longer than the page seemed built to hold.
+
+Subject attended late recovery meeting.
+Offered accompaniment afterward.
+Declined.
+
+Below that, in the same typeface but double-spaced as if the clerk had understood, at least faintly, that the line did not belong inside the rest of the page:
+
+"I can't do the part after the room goes quiet."
+
+Rei read the sentence twice.
+The second time she waited, absurdly, for the rest of it to answer from lower on the page.
+Nothing did.
+
+Below it, the summary returned to administrative tone.
+
+Witness reports subject requested five minutes alone.
+Witness remained in vicinity briefly.
+Subject departed on foot.
+
+The page did not say that five minutes had been the hinge.
+
+It did not say that a person had almost said yes.
+
+It did not say that the offer itself mattered.
+
+It only moved on.
+
+By the time Rei reached the bottom of the file, Marcus had already appeared in too many incompatible shapes to rest in any of them. A server on a shift roster. A body on a property sheet. A vulnerable individual in legal language. A person with a sponsor and a meeting and somebody from work willing to text him badly disguised care. A line of session tags arranged like a list of needs. An isolated man, except where the page could not keep him isolated without another page correcting it.
+
+The radiator clicked once behind her.
+
+Then again.
+
+She looked up at the sound and saw Sano in the doorway, one hand still on the frame.
+
+"It never settled," he said.
+
+Rei did not answer immediately.
+
+Sano nodded toward the pages.
+
+"That's the bad stack."
+
+He came in carrying two paper cups of tea. One he set by Rei's hand without asking whether she wanted it.
+
+She looked back down at the interview summary.
+
+"He wasn't alone," she said.
+
+Sano pulled out the chair by the filing cabinet and sat carefully into it, coat still buttoned.
+
+"No," he said. "Not enough for the version they wanted."
+
+"The newspaper?"
+
+"The newspaper. The company. The people who needed a first proof. Anyone in a hurry."
+
+Rei touched the blue pen circle around isolated without quite meaning to.
+
+"He was working."
+
+"Yes."
+
+Sano glanced at the time sheet.
+
+"People like catastrophe cleaner than payroll."
+
+The line stayed in the room.
+
+Rei looked at the property sheet again.
+
+"Did you know him?"
+
+Sano let out a small breath through his nose.
+
+"Enough to dislike what happened to him afterward."
+
+That was not yet an answer.
+
+Rei waited.
+
+Sano looked past her toward the window as if the memory sat more clearly there than in the papers.
+
+"He came by on a Sunday once with a paper bag of pears," he said. "Said the market near his place was closing and the fruit would go soft if nobody took it."
+
+Rei turned her head.
+
+Sano's mouth moved slightly, not into a smile.
+
+"Two were already bruised. He apologized for that before anybody had even looked in the bag."
+
+The pages on the desk had gone very still.
+
+"He wasn't supposed to be there," Sano said. "Not in any official sense. Someone had told him about the room. Or he heard about it sideways. It was that kind of time. He arrived smelling faintly of restaurant soap and grilled fat and trying not to take up more space than his body already did."
+
+He glanced at the property sheet.
+
+"Then he spent ten minutes with a butter knife trying to fix the radiator."
+
+"The same radiator?" Rei asked before thinking whether the question mattered.
+
+Sano looked toward the wall where it clicked again, late and ordinary.
+
+"The one before this one. Just as stubborn."
+
+Rei could see it more easily than she wanted to.
+
+Not because Sano had offered much. Because the little he offered kept refusing to lie flat against the pages.
+
+"What kind of room was it?" she asked.
+
+Sano took a sip of tea before answering.
+
+"The kind people kept naming after it was gone," he said. "Back then that should have been warning enough."
+
+Footsteps moved in the hall.
+
+Fumiko came in carrying a second file, thinner than the first.
+
+She saw the pages open across the desk, saw Sano in the chair, and did not comment on either thing.
+
+"I thought you'd get to that one," she said to Rei.
+
+She set the thinner file down on top of the first and opened it herself.
+
+Inside were two statements dated the same day.
+
+Fumiko slid the first across.
+
+It was a company statement. The letterhead remained. The language had been written by somebody paid to keep grief from becoming admission.
+
+... unauthorized replay use by a vulnerable individual with prior dependency history...
+... no evidence at this time of sanctioned exposure...
+... tragic incident...
+
+Nothing in it was false enough to be easy.
+
+Nothing in it was large enough for Marcus either.
+
+Fumiko placed the second statement beside it.
+
+This one had been copied from an early HumansRHumans participant-support circular, back when the rooms still liked witness language more than slogans. The heading had been clipped so that the title began halfway through itself.
+
+... licensed continuation of retained feeling...
+... first public body at the edge of industrialized access...
+... no governed form of interior breach remains ethically neutral...
+
+The phrase protect the wounded first had been stamped at the bottom in older, heavier type.
+
+It was almost worse there.
+
+Rei looked from one statement to the other.
+
+The company needed misuse, or something near enough to name that way.
+
+The movement needed proof quickly enough not to lose the morning.
+
+The day had apparently been large enough for both.
+Or later had been told that way.
+
+"Those went out within hours of each other," Fumiko said.
+
+Sano looked at the participant-support statement and then away again.
+
+"Both were trying to win the same morning."
+
+Fumiko gave him a look not sharp enough to count as disagreement.
+
+"One was trying to survive it," she said.
+
+"By using him faster," Sano said.
+
+No one spoke for a moment after that.
+
+Below them, the center had begun opening. A chair leg scraped in the front room. Someone downstairs dropped a spoon and swore softly, already embarrassed before anyone could hear it.
+
+Rei touched the sentence in the interview summary again.
+
+"I can't do the part after the room goes quiet."
+
+It was not really a question, but Fumiko answered it.
+
+"That line got repeated less than the rest."
+
+"Why?"
+
+Sano looked at the company statement.
+
+"Because it slowed things down."
+
+Fumiko rested one hand on the thinner file.
+
+"It made him sound human before he sounded instructive," she said.
+
+Rei looked at her.
+
+Fumiko's face held none of the softness the sentence might have invited. Only steadiness.
+
+"He came twice after that first Sunday," she said. "Maybe three times. Not enough for friendship. Enough to be remembered wrong by people who wanted larger claims."
+
+"What do you remember?"
+
+Fumiko thought a moment.
+
+"He never sat down fully," she said. "He lowered himself onto chairs like he expected to be corrected for it. He asked whether things were still open before asking what they were for. He washed cups once without being asked and stacked them badly. He kept his hands very still until he forgot them. He had the look some men have when every movement has passed through inspection before it leaves the body. He kept looking at the door even while he was talking, as if some part of him had been trained to leave earlier than the rest."
+
+Sano said, "And he wanted relief fast enough that anything slower insulted him."
+
+Fumiko did not look at him.
+
+"Yes," she said. "Later."
+
+Sano leaned back slightly in the chair.
+
+"You asked whether I knew him," he said to Rei. "I knew the part of him that had already started answering too quickly. The way people do when some other room has gotten there first."
+
+That landed near Yui badly enough that Rei's hand tightened on the edge of the desk.
+
+Fumiko saw that.
+
+"Don't be lazy," she said to Sano.
+
+He looked at her.
+
+"That's not laziness."
+
+"It is if you let the pattern do all the speaking."
+
+Sano's mouth thinned slightly.
+
+"The pattern speaks whether we like it or not."
+
+Fumiko's hand stayed on the file.
+
+"So does everything it crushes on the way."
+
+The room held that without deciding between them.
+
+Rei looked down at the pages again.
+
+The company statement. The circular. The time sheet. The evidence list. The witness summary.
+
+No single page had lied enough to relieve anyone else.
+
+That was worse.
+
+"Did someone build it on purpose?" she asked quietly. "The dependence."
+
+Neither older person answered immediately.
+
+Sano looked at the log sheet with the session tags and the clipped numbers at the edge.
+
+"Maybe," he said.
+
+Fumiko shook her head once.
+
+"That's too fast."
+
+Sano said, "He didn't arrive at the end by accident."
+
+"I know." Fumiko's voice stayed level. "I'm saying sequence is what everyone starts trimming."
+
+She touched the witness summary with two fingers.
+
+"First they say he was vulnerable already. Fine. Then they say he was given borrowed feeling. Fine. Then that it was metered. Then that it stopped. Then that he died." She looked at Rei. "By the time the sentence finishes, nobody has to carry the parts that don't fit neatly between those words."
+
+Rei kept her eyes on the page.
+
+"What doesn't fit neatly?"
+
+Fumiko answered first.
+
+"The woman from work who texted him badly instead of elegantly. The sponsor in the parking lot. The shift roster. The fact that he nearly said yes."
+
+Sano answered over the last line, not contradicting it so much as narrowing around it.
+
+"And the other part," he said. "That whatever was reaching him had already taught him speed. That ordinary care had begun to feel thin by comparison. That if you can meter welcome, you can make a person need the rate of it."
+
+Fumiko looked at him.
+
+"Yes."
+
+This time the yes did not agree with the shape of his sentence. Only with part of it.
+
+Sano let the partial agreement stand.
+
+Rei said, "Then which part did Suzu inherit?"
+
+Sano's eyes shifted to her face for the first time since he'd come in.
+
+"Not the pears," he said.
+
+Fumiko closed the thinner file and opened it again as if the motion helped her think.
+
+"Not the radiator," she said.
+
+"Not the sponsor in the parking lot," Sano added.
+
+"Not the shift roster."
+
+He nodded once.
+
+"By the time it reached her, those parts were gone. What stayed was access, dependency, cutoff."
+
+He touched the company statement with one finger.
+
+"The people on this side needed misuse."
+
+Then the participant-support statement.
+
+"The people on that side needed warning."
+
+His hand came back to the witness summary.
+
+"She inherited the version with the least drag in it."
+
+Fumiko said, very quietly, "And she liked clean language. Or liked how it sounded once someone else had done the cutting."
+
+Rei looked down at the pages until the type began to separate from the paper again.
+
+The company statement flattened Marcus into a vulnerable individual with prior history.
+
+The circular flattened him into first public body.
+
+The roster and the pay stub tried, quietly and without much rhetorical power, to keep him among other workers.
+
+The interview summary held the sentence that slowed everything down and then kept moving anyway.
+
+The evidence sheet put the sobriety coin on the same page as the band and offered no grammar for the distance between them.
+
+No page was the whole of him.
+
+Every page was trying to do something now.
+Or had already done it and only looked settled afterward.
+
+"They keep telling him in the shape they need," Rei said.
+
+The sentence came out more simply than the pressure behind it.
+
+Neither older person answered at once.
+
+Below them, someone entered the center laughing and stopped half a beat later when they realized how quiet the building still was.
+
+Fumiko looked at Rei first.
+
+"Yes," she said.
+
+Sano rubbed once at the side of his mouth.
+
+"That doesn't mean shape is nothing," he said.
+
+Rei shook her head.
+
+"I know."
+
+And she did.
+
+Yui had been harmed. That was true.
+
+Marcus had been made usable. That was true.
+
+Someone had learned from that history the wrong way, or only learned the part of it that traveled cleanly, and carried that lesson forward until intervention began to look like adulthood. That, too, felt true.
+
+None of it became clean for long because it could be arranged in sequence.
+
+Fumiko lifted the witness summary and turned it over.
+
+On the back, in faded pen from some later hand, a single note had been added and then half scrubbed out.
+
+do not let him become...
+
+The rest was gone in the photocopy shadow.
+
+Sano saw Rei looking.
+
+"There were always people too late to their own better sentence," he said.
+
+Fumiko put the page back down.
+
+"And people early to the worse one."
+
+The kettle downstairs clicked on.
+
+Fumiko straightened.
+
+"We still have a day to run," she said.
+
+It was not dismissal. Only fact.
+
+She gathered the statements into one pile and left the rest open where they were.
+
+Sano stood more slowly than he sat.
+
+At the door he stopped and looked back toward the desk, not at the pages themselves but at the spread they made.
+
+"When people say Marcus now," he said, "listen to what they stop needing once they've said it."
+
+Then he went downstairs.
+
+Fumiko followed a moment later without asking Rei whether she was coming.
+
+Rei stayed alone in the office with the files open in front of her and the building beginning below.
+
+* * *
+
+By the time she came down, the center had already become itself.
+
+Children in damp socks. Two volunteers arguing mildly over where the tape lived while one held it in his hand. A parent apologizing for weather no one had blamed on her. The front room carried the ordinary pressure of people sharing space without wanting to be dramatic about it.
+
+Rei moved through the first hour smaller than usual.
+
+She answered what needed answering and left the rest alone where she could. Even so, the room kept reaching for her at the edges.
+
+A boy at the homework table asked whether his pencil had always been this short and then looked at her too long after she said yes. A woman near the door thanked Fumiko for information and then turned toward Rei to say it again, as if gratitude had not fully decided where it belonged.
+
+Nothing dramatic.
+
+Nothing cleanly separate either.
+
+At lunch she went outside under the eaves with the copied pages folded in her coat pocket and stood watching rain gather at the curb and break itself apart under bicycle tires.
+
+She took out her phone.
+
+No new message from Yui.
+
+The thread still ended where it had ended the night before.
+
+Are you still at the center.
+Sorry. That's not why.
+I thought you answered.
+
+Stay home tonight.
+We'll talk tomorrow.
+
+Okay.
+I'm already home.
+I wasn't asking that.
+No, I mean before.
+
+Rei looked at the last line until the screen dimmed and she had to wake it again.
+
+Before what.
+
+Before the message.
+Or before the part of it that had reached Rei first.
+
+Before the answer.
+
+Before the answer hardened into decision.
+Or before Rei had done that to it.
+
+Before a person could be told as sequence.
+Even that arrived too neatly.
+
+Rain ticked against the metal edge above her head.
+
+In her other hand, the folded pages had gone soft at the crease.
+
+The article wanted isolation.
+
+The roster wanted work.
+
+The property sheet wanted inventory.
+
+The witness summary wanted completion.
+
+The circular wanted proof.
+
+Even the better pages kept slipping toward use.
+
+Rei typed nothing.
+
+She put the phone away, then took it back out, then put it away again.
+
+This time the hesitation did not feel like caution.
+
+It felt like seeing, too late and not late enough, how quickly a life could disappear inside the sentence meant to explain it.
+
+She left the thread open and folded the copies once more.
+
+Then she went back inside before either weight could turn into the next clean sentence.
+
+### Chapter 14 - Holding Back
+
+The next morning, Rei began stopping herself on purpose.
+
+The change was small enough that no one on the train could have named it. She still shifted aside before other people's bags touched her. She still lifted one hand automatically when an older man near the door lost his balance around a turn. She still moved inside the shared current of the carriage.
+
+But where she would once have met a feeling cleanly, she now let it arrive and go unanswered if she thought it could.
+
+A woman in a navy raincoat stood two poles away holding a paper bag too carefully and trying not to think about the eggs inside it. Rei felt the fragile concentration, the small dread of discovering a crack later, and said nothing. A student looking over flash cards was holding herself together by reciting definitions in the wrong order and hoping the body would mistake persistence for knowledge. Rei looked away before the urge to steady her could become a sentence.
+
+Nothing broke.
+
+The train kept moving. The woman kept the eggs upright. The student reached her stop still carrying the wrong definition and enough confidence to pass for temporary competence.
+
+Rei stood among them with the unpleasant sense that she had mistaken omission for care.
+
+At the center, the same effort got stranger.
+
+The room opened around her as it always did: damp umbrellas by the door, tea warming in the urn, children arriving still full of outside weather. Fumiko was writing the date on the whiteboard in letters more careful than the day required. Daichi came in carrying a stack of paper cups and asked, "These here?"
+
+The cups belonged in the cupboard above his shoulder.
+
+"Yes," Rei said.
+
+Usually she would have reached for the cupboard before the question finished. Or smiled. Or taken half the stack without thinking about whether help had been asked for in words first.
+
+This time she only answered.
+
+Daichi nodded.
+
+Then stayed where he was a second too long, cups still in his hands, as if some other part of the exchange had not yet arrived.
+
+Only when Fumiko crossed behind him with a kettle did he turn and put them away.
+
+Rei looked down at the cloth in her hand.
+
+By ten-thirty she had become efficient in a way that felt, from inside, almost rude.
+
+A boy with one wet sock asked where the pencil sharpener was. Rei pointed. He followed her finger, found it, and then looked back anyway, waiting for a smaller permission she did not know how to give without giving more than that. A mother at the tea table admitted she had forgotten the school form again and laughed as if that ought to excuse the sharp little failure under it. Rei handed her a spare copy and did not add the sentence that would once have landed cleanly enough for the woman to put the shame down a little.
+
+The woman thanked her, took the form, and kept standing there.
+
+Rei adjusted the edge of the tray.
+
+Only then did the woman move away.
+
+Nothing in the room felt safer.
+
+If anything, the unsaid parts stayed nearer. They did not move through her as before. They collected just short of that.
+
+Near noon, Fumiko came to the sink beside her and ran water over the teapot with both hands.
+
+"You're quiet today," she said.
+
+"A little."
+
+Fumiko tipped the pot, watched the water leave it, and set it upside down on the rack.
+
+"Not the same thing," she said.
+
+She did not explain.
+
+Rei dried her hands more carefully than her hands required.
+
+After lunch, her phone buzzed in her apron pocket.
+
+Yui.
+
+Are you free later.
+
+The message sat there without punctuation at the end, as if the asking had run into itself before deciding what kind of sentence it was.
+
+Rei looked at it long enough for the screen to dim once.
+
+Not answering felt too much like another answer already chosen.
+
+She typed, Yes.
+
+Then deleted it.
+
+Typed, A little.
+
+That felt evasive in a way she could not defend.
+
+At last she sent:
+
+After work.
+
+Yui replied almost at once.
+
+Okay.
+
+Then, a second later:
+
+Bookstore corner?
+
+Rei looked at the words.
+
+The old shopping street rose around them at once: rain after-scent, paper, Yui holding three books and none of them chosen, the crossing where parting had once failed to part. The feeling that came with it was immediate enough that Rei almost locked the screen and left the message unanswered after all.
+
+Instead she wrote, Yes.
+
+The answer went out before caution had finished assembling itself around it.
+
+* * *
+
+By the time Rei reached the arcade, the rain had thinned to brightness on the pavement and a damp shine on shop signs.
+
+Yui was waiting near the bookstore awning with one hand on her bag strap and the other around a canned tea she had not opened. She looked more put together than she had by the florist alley days earlier. Hair tied back. Coat buttoned correctly. Face a little pale, but composed in the deliberate way of someone who had spent time arranging herself before stepping into public.
+
+When she saw Rei, her expression changed.
+
+The relief came first.
+
+The smile reached her a beat later.
+
+"Hi," Yui said.
+
+"Hi."
+
+Rei stopped under the awning but not close enough to share its narrowest dry space.
+
+Yui noticed that. The notice did not show on her face at once. It arrived as a small change in the hand around the unopened tea.
+
+"You came," she said.
+
+"Yes."
+
+The answer landed shorter than Rei meant it to.
+
+Yui nodded once, though the nod seemed to complete itself after the rest of her had already moved on.
+
+"Do you want to walk?" she asked.
+
+"Okay."
+
+They turned into the quieter road beyond the arcade where bicycles leaned against low walls and vending machines hummed beside apartment entrances. Evening had not fully gathered yet. Windows were still holding the last flat light.
+
+For a little while they walked without touching and without choosing a pace separately from one another.
+
+Yui kept half a step nearer than Rei had left room for.
+
+Then she said, not looking at Rei, "You're farther away today."
+
+Rei took a moment too long before answering.
+
+"A little."
+
+"On purpose?"
+
+Rei looked ahead.
+
+"I'm trying to be careful."
+
+Yui let out a breath that almost counted as a laugh.
+
+"With me?"
+
+"Yes."
+
+The word seemed, for a second, to settle something. Then Yui's face changed.
+
+"No," she said softly. "I mean around me."
+
+They walked another few steps before Rei understood that Yui had been correcting her own question, not Rei's answer. Or maybe both.
+
+At the vending machine beside the pharmacy, Yui stopped.
+
+"I bought this one too early," she said, lifting the unopened can. "Do you want it?"
+
+"You can keep it."
+
+Yui looked at the can as if the sentence had reached it first.
+
+"Right," she said. Then, after a beat: "No. I was asking whether you wanted tea."
+
+The machine lights reflected faintly in the metal of the can.
+
+Rei reached into her pocket for coins, thought better of it, and let her hand come back out empty.
+
+"Tea is fine," she said.
+
+Yui stood in front of the machine a second too long.
+
+Then she bought a coffee.
+
+When it dropped into the tray, she bent for it, lifted it, and held it out toward Rei with immediate certainty.
+
+"You don't like coffee after five," she said.
+
+The line landed between them with the clean confidence of something already known.
+
+Rei looked at the can.
+
+"Either is fine."
+
+Yui's hand stayed out.
+
+The certainty left her face before the arm had time to lower.
+
+"Right," she said.
+
+She took the coffee back, bought tea on the next press, and for a moment stood holding both cans without opening either.
+
+The machine hummed behind her.
+
+On the road, a scooter passed with the high insect sound of a tired engine.
+
+Yui handed Rei the tea.
+
+This time their fingers did not touch.
+
+* * *
+
+They took the drinks to the small public bench near the covered bicycle rack where the road widened briefly before narrowing again toward the station. The bench was damp at one end. Rei sat at the dry end without thinking and only afterward noticed that she had left a little too much space beside her.
+
+Yui sat anyway.
+
+She tilted the tea can once, listening to the liquid inside it as if the sound might settle something.
+
+"Did something happen yesterday?" she asked.
+
+Rei looked at the can in her own hands.
+
+"I was upstairs at the center."
+
+Yui nodded too quickly.
+
+"I know."
+
+Then her mouth tightened slightly.
+
+"No," she said. "I mean I guessed."
+
+Rei waited.
+
+Yui traced the pull tab with one thumbnail.
+
+"You had that look," she said. "Like you were somewhere older than the day."
+
+It was the kind of sentence Yui used to say with easy accuracy. Now the accuracy felt more jagged because it reached across a space Rei was deliberately leaving unclosed.
+
+"I was reading about someone," Rei said.
+
+"From before," Yui said at once.
+
+Rei turned her head.
+
+Yui went still.
+
+"Was that right?" she asked.
+
+"Yes."
+
+The answer relieved Yui only a little.
+
+She looked down at the unopened coffee in her own hands.
+
+"You keep stopping," she said.
+
+Rei did not answer immediately.
+
+"I know."
+
+Yui shook her head once.
+
+"No. I mean in the middle."
+
+She lifted one hand from the coffee, made a small motion in the air as if drawing a line that failed to reach the end of itself, and let it fall again.
+
+"You start to say something," she said, "and then it stays..." She looked toward the road. "Not here."
+
+The last two words came out too quickly and then seemed to arrive more fully a beat later.
+
+Rei looked at her.
+
+"I'm trying not to go too far," she said.
+
+Yui nodded.
+
+The nod carried relief first.
+
+Then confusion touched it.
+
+"With me," she said.
+
+"Yes."
+
+Again Yui's face changed a fraction after the word.
+
+"No," she said softly. "That's not what you meant." She shut her eyes briefly, then opened them. "Or maybe it was."
+
+Rei held the tea can more carefully than the can required.
+
+"I don't know how to do this smaller," she said.
+
+The sentence was more direct than she had meant to be.
+
+Yui looked at her at once.
+
+For one moment the old easy movement between them opened.
+
+Rei felt it.
+
+She did not step into it.
+
+The opening remained there a beat too long and then changed shape.
+
+Yui lowered her eyes.
+
+"I know," she said.
+
+Then, after a pause: "No. I don't."
+
+She opened the coffee, took one sip, and made a face.
+
+"This is yours," she said, holding it toward Rei.
+
+It took her a second to hear herself.
+
+"No," she added. "Sorry."
+
+Rei did not take the can.
+
+"It's okay."
+
+The old reassurance in the words reached forward farther than Rei had intended. She felt the motion of it in her own body and checked the rest before it could follow.
+
+Yui heard that too.
+
+Her hand with the coffee remained slightly out between them.
+
+"You did it again," she said.
+
+"Did what?"
+
+Yui looked down at the half-offered can as if the answer might be there instead.
+
+"You came toward me," she said quietly. "Then stopped." Her mouth tightened. "It doesn't stop for me when you do that."
+
+The bench, the bicycle rack, the road, the cans in their hands all stayed exactly where they were. Nothing in the world around them acknowledged the line.
+
+Rei set her tea on the bench between them.
+
+"I thought it might help," she said.
+
+Yui let out the smallest, strangest laugh. No amusement in it. Only recognition arriving too fast and then finding the wrong body first.
+
+"Help what."
+
+Rei opened her mouth.
+
+Nothing finished itself cleanly enough to say.
+
+Yui's eyes lifted to hers.
+
+"There," she whispered.
+
+Rei stayed still.
+
+Yui put the coffee down beside Rei's tea with careful useless precision.
+
+"That's the part," she said. "You leave it there and then I can feel where it would have gone." She looked away toward the road. "Or I think I can."
+
+A bicycle passed behind them, tires whispering over damp pavement. Somewhere in the apartment block above the pharmacy, a window shut with more force than it meant to.
+
+Yui pressed both hands once against her knees as if grounding them there.
+
+"I don't know what to do with that," she said.
+
+Rei's hand moved a little toward hers and stopped.
+
+Yui saw the movement before Rei fully did.
+
+Her shoulders loosened in immediate answer.
+
+Then Rei caught it, held herself where she was, and let the rest of the motion die.
+
+Yui's shoulders remained lowered for one wrong second.
+
+When they rose again, the correction came too late.
+
+She looked at Rei with alarm that had not fully decided whether it belonged to the moment or to what had just failed to happen.
+
+"Don't," she said.
+
+The word sounded at first like refusal.
+
+Then she shook her head quickly.
+
+"No," she said. "I mean don't stop there if you're already—"
+
+The sentence broke.
+
+Her eyes shifted to Rei's hand, still half lifted from the bench.
+
+"Sorry," she whispered.
+
+Rei lowered her hand.
+
+The quiet after that did not settle.
+
+It stayed full of the shape of what had almost crossed.
+
+Yui stood up too suddenly.
+
+For a second she seemed unsure whether she had already risen before deciding to. One hand went to the back of the bench. The other to the strap of her bag. Her face had gone pale in the flat evening light.
+
+"I should go home," she said.
+
+The sentence came in the right order.
+
+The steadiness in it did not.
+
+Rei stood too.
+
+"I'll walk with you."
+
+Yui nodded.
+
+Then paused.
+
+"Okay," she said, as if the first response had happened where Rei could not quite hear it.
+
+They walked the two short blocks to Yui's building with Rei holding herself one degree back from every instinct she had. Not touching. Not finishing. Not speaking unless the next obvious thing required it.
+
+The method did not become easier with repetition.
+
+At the entrance, Yui took out her keys and stopped with the wrong one already lifted.
+
+She looked at it, then at Rei.
+
+"Did you tell me to go upstairs?" she asked.
+
+"No."
+
+Yui nodded once, too quickly.
+
+"I know."
+
+She looked back down at the keys in her hand.
+
+The correct one was already between her fingers. She did not seem to trust that.
+
+"That's what I mean," she said.
+
+Rei waited.
+
+Yui did not look up.
+
+"When you hold it back," she said quietly, "it still gets here."
+
+The building door buzzed as someone else unlocked it from inside. Yui flinched, then moved aside too late, then not at all until the resident coming out had to say excuse me twice.
+
+Only then did she step clear.
+
+"Sorry," she said to the stranger, then to Rei, though only one of them had been looking at her.
+
+Rei said her name.
+
+Yui shut her eyes briefly.
+
+The sound of it steadied her just enough to turn the key in the lock.
+
+She opened the door, then stood there with one hand still on it.
+
+"I thought farther away might feel safer," she said.
+
+Rei looked at her.
+
+Yui gave a small, tired shake of her head.
+
+"It doesn't," she said.
+
+Then she went inside.
+
+The door closed more slowly than doors usually did when a person meant to shut them all the way.
+
+Rei stood in the damp evening with the unfinished movement of her own hand still faint in the body.
+
+Nothing in her experiment had held.
+
+She had not protected Yui from the line between them.
+
+She had only made Yui bear more of its missing part alone.
+
+### Chapter 15 - Edge
+
+That night, Rei missed her stop.
+
+Not by far.
+
+Only one station.
+
+She realized it as the train doors opened and people around her lifted themselves toward the platform with the mild collective urgency of those nearly home. Her body had already half risen with them. Then the station name passed through the carriage speakers and failed to belong to her evening.
+
+She sat back down.
+
+No one around her noticed. A woman near the door was trying not to resent the groceries cutting into her wrist. Two students across from Rei were discussing something from class with the exhausted brightness of people who had long since left the material and were now speaking mainly to remain together a little longer. Farther down the carriage, a man in a dark coat had one hand over his phone and the other over a private dread he intended to keep private until he got home.
+
+The train pulled away.
+
+Usually a missed stop would have thinned immediately into the wider shared motion of the carriage. Somebody else's lateness, somebody else's relief at still having caught the earlier train, the low public fatigue of evening. Rei would have been among it before the mistake had time to settle into her body alone.
+
+Tonight the missed stop stayed with her.
+
+Yui's last line had not gone anywhere.
+
+When you hold it back, it still gets here.
+
+Rei looked at her own hand resting on the seat beside her. The fingers remained where she had left them. The vinyl under her palm stayed vinyl. Around that one fact, the other passengers continued reaching her with their ordinary loosened public weather.
+
+The two things held together badly.
+
+At the next station she got off, crossed to the other platform, and waited beneath the bright flat light with everyone else. A train had just gone. The small crowd settling in after it carried the after-sound of irritation, resignation, shoes already damp from older rain.
+
+Someone near the timetable was checking the minutes left to wait too often for the board to answer differently. Beside the pillar, a child in a yellow coat had become overtired in the thin, dangerous way children did when the day had run out before they had. His father was holding a folded umbrella and the remains of composure in equal measure.
+
+The boy made a small sound that was not yet a cry.
+
+The father bent immediately. "Two minutes," he said.
+
+The reassurance went toward the child and through the platform.
+
+Rei felt it arrive.
+
+She also felt, with sudden unwanted accuracy, the motion in herself that would once have met it before it had finished crossing the air. Not a decision. Only the old forward opening: the child's hot unhappiness, the father's thinning patience, the shared effort of the platform to keep the feeling small enough to remain public.
+
+Yui's line entered the same space a beat later.
+
+Rei caught the cold metal rail beside the timetable.
+
+The effect was not silence.
+
+Nothing disappeared. The father was still tired. The boy was still near tears. The woman waiting with a bakery bag still wanted, with disproportionate force, five unspeaking minutes before anyone in her apartment asked how her day had gone.
+
+But the metal under Rei's hand remained entirely where it was.
+
+So did the hand.
+
+The world did not stop reaching her. It only stopped one degree short.
+
+For one frightened second, that degree held.
+
+Then loosened so slightly she thought she might have invented it to survive the platform. The father shifted the crying child higher, and it held again. Or seemed to.
+
+It felt wrong at once.
+
+Not relieving. Not empowering. More like catching a door before it opened fully and realizing there was a person on the other side of it.
+
+Rei's shoulders tightened. The breath she took next stayed too clearly inside her own ribs.
+
+The train announced itself from down the line. Light gathered in the tunnel. The child in the yellow coat tipped at last into crying. His father shifted him up with one arm, umbrella trapped awkwardly under the other, and the whole platform made the small sympathetic adjustment crowded people made when another person's difficulty had become too visible not to be accommodated.
+
+Rei let go of the rail.
+
+At once the platform came the last little distance back.
+
+Too much.
+
+Not painfully. Only in the old, familiar way that had once felt like home and now, under the wrong pressure, felt like falling toward a place she no longer trusted herself inside.
+
+She got on the train when it arrived and spent the ride home not trying to find the feeling again.
+
+Even so, by the time she reached her building, she knew where it had been.
+
+Not in the rail.
+
+Not in the platform.
+
+In the thin unwilling outline left by the hours of being cut off from everyone. Under pressure, it could sharpen. Not enough to save her. Only enough to keep the world from taking the last step into her unless she took one back.
+
+She unlocked her apartment and stood just inside the door with the room around her in both ways at once: her own table, her own cup in the rack, the old man below turning one newspaper page too aggressively, someone upstairs letting bath water out in a long practical rush.
+
+The room met her.
+
+She remained in it.
+
+The sentence itself made her recoil.
+
+Remain sounded like what closed people did on purpose.
+
+She put water on for tea and watched the kettle from too close.
+
+When it clicked off, she poured badly and had to wipe the counter with the side of her hand. The small mess steadied nothing. Her body was tired in the flat sour way that came after too much vigilance without useful result.
+
+She drank standing up.
+
+The cup stayed warm in her hand. The warmth did not distribute itself outward the way it would have once.
+
+By the time she went to bed, the thing she had found had already thinned again.
+
+Rei was glad.
+
+She was also afraid of needing it.
+
+* * *
+
+The next afternoon, Mariko came to the center carrying a damp permission slip and her son's backpack in the same hand.
+
+The backpack hung open. One workbook corner stuck out under the zipper like a thought left halfway outside the mouth.
+
+Her son had already pulled one mitten off with his teeth and was trying to swing the second by its clip string at a chair leg.
+
+"Not that," Mariko said automatically, still looking down at the paper.
+
+The boy stopped only when he saw Rei at the counter.
+
+"Hi," he said.
+
+"Hi."
+
+Rei took the permission slip before the paper could slide from Mariko's wet fingers.
+
+It was for a Saturday school excursion. Signature line. emergency contact. one box marked yes and one marked no.
+
+The yes box had already been checked.
+
+Mariko saw Rei see it and gave a short, embarrassed breath through her nose.
+
+"He asked in the doorway this morning," she said. "I said yes before I read where they were going. Then I forgot to sign it. Then I found it in the produce drawer somehow, so maybe it needed to rest." Her mouth moved as if toward a smile and stopped there. "Can I leave it here for a minute?"
+
+Rei felt the old exact sentence rise almost immediately.
+
+Something about doorways. About yes arriving faster than thought. About not having to answer where another person had caught you moving.
+
+It was already shaping itself with the dangerous ease of accuracy.
+
+Mariko's son tugged once at her coat hem and said, "Mama, do I still go if the paper is wet?"
+
+Mariko did not turn toward him.
+
+The exact sentence kept coming.
+
+Rei put the permission slip flat on the counter instead and pressed two fingers to its top edge.
+
+The laminate corner of the counter touched the side of her hand.
+
+The feeling from the train platform the night before did not return cleanly. It came thinner than that. Enough only to make the paper, the counter edge, her own hand stay separate from Mariko's quickly gathering disarray.
+
+It felt miserly.
+
+Rei hated it at once.
+
+She kept hold of it anyway.
+
+"Read it now," she said.
+
+Mariko looked at her.
+
+"What?"
+
+"Before you leave it." Rei lifted the form slightly and set it back down. "He's here. You're here. Read it now."
+
+The sentence sounded flatter than Rei had intended. Not unkind. Only missing the soft reach that would once have arrived around it without effort.
+
+Mariko's face changed.
+
+For a second Rei thought she had been too abrupt.
+
+Then Mariko looked down at the paper, shifted the backpack higher on her wrist, and said, "Right."
+
+This time the word belonged where she put it.
+
+She bent over the permission slip with one hand braced on the counter. Her son leaned against her thigh and started reading the school name upside down, adding extra syllables for pleasure. Mariko read the first line, then the second, then went back to the first more slowly.
+
+Rei stayed where she was.
+
+The effort of not going farther into the moment felt like holding a cup too full by the rim.
+
+Mariko's finger reached the line about transport.
+
+"Bus," she said quietly, mostly to herself.
+
+Then the line about returning late.
+
+"Ah."
+
+Her son looked up. "Do I still go?"
+
+Mariko turned toward him at once.
+
+The turn was clean.
+
+"Maybe," she said. "I have to read first."
+
+He accepted that with the offended dignity of a child temporarily denied a clear future and went to investigate the marker basket instead.
+
+Mariko finished the form.
+
+When she reached the bottom, her hand hovered over the checked box.
+
+She did not look at Rei immediately.
+
+"I don't even know if Saturday is possible," she said.
+
+The old sentence rose again.
+
+Rei felt it press against the thin line she was still, unwillingly, holding.
+
+If she let go, the answer would come all the way through her.
+
+If she kept hold, whatever she said next would remain smaller, stiffer, less warm than she wanted.
+
+Neither option felt ethical enough to trust.
+
+Mariko looked up.
+
+Rei heard herself say, "Then don't sign it today."
+
+Mariko blinked.
+
+The blink remained ordinary.
+
+"Can I do that?"
+
+"Yes."
+
+Rei touched the line with the date. "It says tomorrow."
+
+Mariko looked where Rei pointed. A breath left her shoulders, not all at once and not theatrically. Only enough.
+
+"Tomorrow," she repeated.
+
+This time the repetition did not come back altered.
+
+Her eyes dropped once more to the checked box before she folded the paper, as if yes might still outrun the date.
+
+She folded the paper once and put it into the outside pocket of the backpack instead of handing it over.
+
+"Thank you," she said.
+
+Then she frowned a little, not at Rei exactly. At the moment between them.
+
+"You sound tired."
+
+Rei almost laughed.
+
+"I am."
+
+Mariko nodded.
+
+"Right," she said.
+
+No echo. No drift. Only the word.
+
+She turned toward the marker basket and called her son's name.
+
+He answered on the first try.
+
+Her hand went once to the backpack pocket where she had placed the form and stayed there a beat before falling away.
+
+Rei watched the two of them move toward the side table.
+
+Nothing in the room marked the moment as exceptional. The radiator clicked. Someone in the kitchen asked where the scissors had gone while holding them in full view. A volunteer laughed at herself. The shared field kept its ordinary shifting pressure.
+
+Mariko had not snagged on the way out of the exchange.
+
+Or not visibly.
+
+Rei's hand was still on the counter.
+
+When she lifted it, her fingers had gone pale where they had been pressing the laminate edge.
+
+Only then did she let the thin line go.
+
+The room reached her fully again, and with it came the delayed force of what she had just held back: the softer sentence she had not said, the warmer one, the one that might have let Mariko lean if leaning had remained safe.
+
+Instead Rei had given her tomorrow.
+
+Or something clear enough to move by.
+
+It had been enough from here.
+
+Enough was not the feeling she wanted.
+
+Fumiko came to stand beside her with a dish towel over one shoulder and did not look toward Mariko.
+
+"Did the form need anything?" she asked.
+
+"No."
+
+Fumiko nodded once.
+
+She reached past Rei for the bowl of mandarins, lifted it, and paused.
+
+"You look pale," she said.
+
+"I'm fine."
+
+Fumiko adjusted the bowl against her hip.
+
+"No," she said. "I mean afterward."
+
+She went to the snack table before Rei could ask what she had meant.
+
+Rei stayed at the counter a moment longer with the feeling of the laminate still faint in her hand and the room moving around her in its old familiar way.
+
+The held line had worked once.
+
+Or something near enough to working that no one else would bother distinguishing it.
+
+Rei did bother.
+
+What she had found the night before and used now was not wisdom. It was not balance. It was not a method she wanted to keep near the body.
+
+It felt thin.
+
+It felt almost ungenerous.
+
+It had also, in this one moment, seemed to leave Mariko more fully herself than Rei might have before.
+
+The thought did not relieve her.
+
+By the time snack hour began, Rei was tired enough that every ordinary question sounded one degree too loud.
+
+She answered them anyway.
+
+## Act 3 - The Cost of Holding
+
+### Chapter 16 - Practice
+
+Practice began in moments too small to deserve the word.
+
+On Tuesday morning, a woman on the train studied the station map with the fixed concentration of someone trying not to admit she had boarded in haste and was no longer certain where haste had taken her. Her umbrella was still wet at the tip. The water had darkened one cuff of her coat.
+
+Rei felt the old opening toward her at once. Not deep. Only the ordinary public motion that would once have let the woman's uncertainty pass through her and come back smaller.
+
+Rei put two fingers around the nearest pole until the metal cooled the skin.
+
+"Next stop," she said.
+
+The woman looked up.
+
+"Ah," she said, and smiled with quick embarrassed gratitude.
+
+The gratitude reached Rei and stopped there, as if it had met glass.
+
+It held long enough to seem deliberate.
+
+Then the train lurched slightly over a switch and the feeling thinned on its own, or because Rei's grip on the pole had shifted, or because the woman had already begun thinking about the office she would enter three minutes later pretending the morning had gone according to plan.
+
+Rei got off at her own station without knowing which explanation had been true.
+
+At the bakery by the square, a schoolboy had dropped a coin and was staring at the pavement as if the ground had betrayed him personally. His mother was bent beside him with one hand in her shopping bag and the other still holding her own purse shut against nothing.
+
+Rei saw the coin near the storm drain.
+
+Usually she would have moved before the boy's disappointment had finished forming. This time she stopped one step short of them and said, "By your left shoe."
+
+The boy looked down, found the coin, and brightened at once.
+
+The mother looked up at Rei with the soft surprised relief people often wore around her.
+
+Then that, too, stopped one degree short.
+
+Rei kept walking.
+
+By the time she reached the center, she had not decided whether the morning had gone well.
+
+The front room was already half set for homework hour. Chairs out. Pencil cups along the tables. One umbrella left open by the door as if drying required witness. Fumiko stood on a stool reaching for the box of construction paper above the coat hooks.
+
+Rei crossed the room and steadied the stool with one hand before thinking whether the gesture counted as too much.
+
+Fumiko stepped down with the box under one arm.
+
+"Thanks," she said.
+
+The word brushed Rei lightly and did not ask to stay.
+
+That, too, told her nothing.
+
+Daichi came in carrying two trays of cups against his chest.
+
+"Do these go out now?" he asked.
+
+"Blue table first."
+
+He nodded.
+
+Then he stood there a second longer with the trays still in his hands, as if waiting for the rest of the answer to catch up from somewhere behind Rei's shoulder.
+
+Only when Fumiko passed him with the construction paper did he turn and take the cups to the blue table.
+
+Three minutes later he came back holding a marker with the cap already off.
+
+"Did you need this?" he asked.
+
+Rei looked at the marker.
+
+"No."
+
+Daichi blinked once, glanced toward the whiteboard, and smiled at himself with mild embarrassment.
+
+"Right," he said.
+
+He did not move.
+
+Rei could feel the little snag in the room where the exchange should have ended. Not large enough to become crisis. Only present.
+
+"The date is wrong," she added.
+
+Daichi looked at the board, laughed once under his breath, and finally went to correct it.
+
+Rei watched him cross the room.
+
+The added sentence had released him.
+
+Or the board had.
+
+Or he had only needed the extra beat and would have found his way there without her.
+
+By eleven the room had filled with smaller chances to get it wrong.
+
+A girl with ink on her thumb asked where the glue sticks were while already looking directly at them. Rei said, "Beside your hand," and the girl laughed at herself and returned to the paper snowman she was building badly on purpose. A grandfather at the tea table kept folding and unfolding the same clinic notice with the low dread of someone who had once missed a number on a form and been punished by time for it. Rei almost told him the line that would have reached the dread directly. Instead she pointed to the date and said, "Next week, not today."
+
+The man nodded, folded the notice once more, and slid it into his coat pocket.
+
+His shoulders softened.
+
+Then, ten minutes later, he came back to ask the same question again.
+
+Rei answered it again.
+
+This time the answer held.
+
+Or looked as if it did.
+
+At the door he touched the folded notice through his coat pocket twice, as if the date might still have shifted there.
+
+Near noon, a child named Emi knocked over her own paper cup and burst into tears with the injured outrage of someone who had not understood the afternoon was allowed to turn on her over something so small.
+
+The tea spread across the table in a narrow brown fan, dampening a worksheet full of neat subtraction and the sleeve of the boy next to her.
+
+The boy pulled his arm away with immediate indignation. Emi cried harder.
+
+Rei was already moving before the rest of the room had decided whether this counted as an emergency.
+
+She reached the table, felt the child's panic and shame opening together toward her, and caught the edge of the worksheet between two fingers before the tea could pull it farther.
+
+"Napkin first," she said.
+
+Emi looked up with tears on her face and no space left in her for disagreement.
+
+"What?"
+
+"Napkin."
+
+Rei slid the holder toward her.
+
+Emi grabbed one, then two, and began dabbing uselessly at the spill with the furious concentration of a child trying to repair time rather than paper.
+
+The crying dropped at once into breathy aftershocks.
+
+The boy beside her examined his wet sleeve, seemed to decide the injury was survivable, and turned his grievance toward the more rewarding subject of whether he would now be excused from subtraction.
+
+Emi's mother, who had come in just at the sound of the cup hitting wood, stopped two steps from the table.
+
+Relief went through her toward Rei and then failed to clear. It remained there in a way that made the air around the table feel briefly too full for such a small event.
+
+Rei kept her hand flat on the corner of the worksheet until Emi had finished blotting the page.
+
+Then she took her hand away.
+
+The mother's relief stayed another second.
+
+Only then did it return to being her own.
+
+Rei stood up more carefully than standing required.
+
+Nothing in the room translated.
+
+Nothing in it taught her anything useful either.
+
+By the time lunch was laid out, her own voice had begun sounding formal to her.
+
+Not cold exactly.
+
+Only narrowed. Every answer came out as if it had been trimmed with scissors before leaving her mouth.
+
+Next stop. Blue table first. Beside your hand. Next week, not today. Napkin first.
+
+She could hear the clipped sameness accumulating.
+
+At the sink, Fumiko handed her a dish towel and said, "You're making everyone sound like paperwork."
+
+Rei looked up.
+
+Fumiko was rinsing bowls with both sleeves rolled unevenly above the wrist.
+
+"I didn't mean to."
+
+"I know."
+
+Fumiko set one bowl in the rack and reached for the next.
+
+"That's not the part I said."
+
+Water ran between them for a moment.
+
+Rei dried the rim of the bowl in her hands and found herself polishing the same clean place twice.
+
+"It worked with Mariko," she said.
+
+Fumiko did not look at her.
+
+"Did it."
+
+The answer had no shape of question in it. Only fact refusing to finish itself on Rei's behalf.
+
+The rest of lunch moved around that.
+
+Two volunteers argued gently over whether the rice had already been uncovered. A child announced he hated cucumbers while continuing to eat them one by one in punitive proof of character. Daichi asked if the small bowls belonged on the tray he was holding, though he had already arranged them there correctly.
+
+Rei answered what the room required of her.
+
+Sometimes the held line seemed to make a moment lighter. Sometimes it only made her slower. Once or twice she misjudged and arrived too late, so that the sentence she had been trying not to give had to be replaced by a worse one afterward.
+
+Sometimes the same kind of answer seemed to do opposite work before the hour was over.
+
+At three o'clock, a mother in a beige coat asked if anyone had seen her son's notebook. Rei, still holding herself one degree back, said, "Check the lower shelf."
+
+The notebook was there.
+
+The mother found it, thanked her, and moved away.
+
+Then stopped in the doorway and turned back.
+
+"No," she said. "That was the mittens." She looked down at the notebook in her hand as if it had arrived from a direction she had not taken. "Sorry."
+
+Rei looked at her.
+
+The line between them had not misfired exactly. It had only reached the wrong part first.
+
+"It's okay," Rei said.
+
+The mother nodded and left.
+
+At the doorway she looked once more at the lower shelf before going.
+
+By closing time, Rei's shoulders felt as though she had been carrying something narrow and heavy across them all day.
+
+The room emptied in chairs and paper scraps and the smell of tea drying into the wood of the tables. Fumiko turned off the front lights one bank at a time.
+
+The windows darkened into mirrors.
+
+Rei put away the glue sticks, the pencils, the bowls, the construction paper trimmed down by children's bad snowmen and ambitious houses. Each task should have been small enough to restore her.
+
+None of them did.
+
+When she locked the door behind them, Fumiko said only, "Go home before you start resenting everybody."
+
+Rei almost said she wasn't.
+
+The falsehood of that arrived before the words did.
+
+She bowed her head once instead and walked to the station in the thin cold left behind after rain.
+
+* * *
+
+At home, the day's moments refused to stack.
+
+The woman on the train with the wet umbrella cuff.
+
+Daichi waiting for the rest of an answer that had not come.
+
+Emi and the napkins.
+
+The grandfather with next week in his pocket.
+
+The mother who had found the notebook and then remembered the mittens instead.
+
+Mariko's tomorrow from the day before.
+
+Rei stood at the sink with her hands in the water until the water went lukewarm and still could not make one moment teach the next anything she could trust.
+
+If she held the line with one person, it seemed to spare them a little.
+
+Or spared her from adding the wrong thing.
+
+With another, it only made her late.
+
+Concrete instructions sometimes helped.
+
+Sometimes they landed like bad manners.
+
+Touch had failed with Yui.
+
+Distance had failed with Yui.
+
+Tomorrow had held for Mariko.
+
+Or seemed to.
+
+The thought of turning any of that into guidance felt obscene almost before it had words.
+
+She dried her hands and sat on the floor by the low table without turning on the overhead light.
+
+The room around her carried the ordinary life of the building in soft narrow bands: someone above rinsing rice, the old man below still too angry at a newspaper he could easily have stopped reading, a television next door turning laughter into something flatter by volume and wall thickness.
+
+Rei let it reach her.
+
+Then, because she was tired enough not to stop herself in time, she let it reach her fully.
+
+The old ease came back with such immediate kindness that grief hit before fear.
+
+It would have been easier.
+
+That was still true.
+
+She could have moved through the day answering before people finished asking, meeting what opened, letting warmth do what warmth always wanted to do.
+
+The thought of that now carried Mariko's damp form, Yui on the bench, the child on the platform, the way ordinary gratitude sometimes stayed a beat too long and forgot whose body it belonged in.
+
+Rei put one hand flat on the table beside her knee and waited for the wood to become only wood again.
+
+It did.
+
+The smaller inward outline returned slowly, unwillingly, and took up its place inside the rest of the room.
+
+Not a rule.
+
+Not even a comfort.
+
+Only the thing she would have to keep disappointing herself with.
+
+She sat there until the old man's page turned below and the person above finished rinsing rice and the laughter next door dropped into a commercial break.
+
+The day's moments still did not line up.
+
+Morning would not improve that.
+
+Still, when she finally stood to put the cup in the sink and turn off the lamp, she knew she would try again.
+
+Not because trying was beginning to make sense.
+
+Because not trying had begun to cost more.
+
+### Chapter 17 - Yui Again
+
+Three days later, Yui sent:
+
+If you still want to.
+Could we meet somewhere public.
+Not long.
+
+Then, after a minute:
+
+The library courtyard?
+
+Rei read the four lines twice before answering.
+
+Yes.
+
+She almost added I'll come to you and did not. The old impulse still arrived first often enough to embarrass her. She let the one word stand.
+
+The courtyard behind the ward library was little more than a paved square with two benches, a vending machine, and a ginkgo tree that had already given up its leaves. The tree's bare branches made a delicate black structure against the pale afternoon. People came and went through the library's side door carrying returned books, children, tote bags full of things that had spent too long under beds. No one lingered unless they meant to.
+
+Yui was already there.
+
+She sat on the bench nearest the gate with her coat still on and her bag on her lap as if she had not yet agreed to stay longer than the next five minutes. A can of tea rested unopened beside her. When she saw Rei, her hand tightened once on the bag strap and then loosened.
+
+"Hi," she said.
+
+"Hi."
+
+Rei sat at the far end of the same bench, leaving enough room that the space between them belonged to itself first.
+
+Yui noticed that and did not move to reduce it.
+
+For a little while they only watched people pass through the side door of the library. A father came out holding a stack of picture books against his chest while his daughter tried to walk backward down the steps and narrate the danger of doing so. An older woman paused by the vending machine, bought canned coffee, and stood under the ginkgo long enough to drink three careful sips before deciding whatever waited outside the courtyard could keep waiting another half minute.
+
+Yui said, "Thank you for saying yes."
+
+The sentence was simple. The effort behind it was not.
+
+"Of course," Rei said.
+
+The answer almost went farther.
+
+She stopped it.
+
+Yui looked at her hands, one still on the bag, one resting near the unopened tea.
+
+"Can we do one thing first?" she asked.
+
+"Yes."
+
+Yui nodded once, then seemed to wait for the nod to finish arriving in her own body.
+
+"If I ask you something ordinary," she said, "can it stay ordinary for a minute?"
+
+Rei looked at her.
+
+Yui's eyes stayed lowered.
+
+"I don't mean forever," she said. "Just long enough for me to know where it started."
+
+"Yes," Rei said.
+
+This time she let the word stay only where it was.
+
+Yui lifted the tea can and turned it once between her palms.
+
+"Did you eat lunch?"
+
+Rei felt, immediately, the older answer gathering: the station kiosk, the rice gone a little cold by the time she got to it, the impatience of the man behind her in line, the way she had nearly taken someone else's change because the cashier had looked at her too expectantly and she had answered the look before the money.
+
+She kept hold of the rest.
+
+"Yes," she said. Then, after a beat: "At the station."
+
+Yui's shoulders loosened a little.
+
+"Okay."
+
+Nothing in the word came late.
+
+The relief of that stayed small. Useful, maybe.
+
+Yui opened her tea and took one sip.
+
+"I had toast," she said. "Then tea. Then I made another tea because I thought I hadn't had the first one." A faint crease appeared between her brows. "But I found both cups afterward. So that part was real."
+
+Rei almost said something kind to the effort in it.
+
+Instead she asked, "Did you sleep?"
+
+Yui looked up, and for a second Rei thought she had made the question too large. Then Yui nodded.
+
+"More than before," she said. "Not well. But more." She looked toward the library door. "I keep waking up right before things start to speed up. Which is maybe progress or maybe only timing."
+
+The side door opened again. Two middle-school boys came out arguing about whether a ghost story counted as literature if the teacher had assigned it. The argument had enough structure to be friendly and enough vanity to be thirteen.
+
+Rei let the passing noise move through the courtyard before speaking again.
+
+"You didn't have to ask me here," she said.
+
+Yui gave a small breath through her nose.
+
+"I know." She touched the tab of the tea can again. "I wanted to."
+
+Then, after a pause that remained hers all the way through: "I didn't want last time to be the last shape we had."
+
+Rei looked at the ginkgo branches above them.
+
+"I know."
+
+Yui smiled faintly.
+
+"That one can be bigger," she said.
+
+Rei looked back at her.
+
+The smile stayed, but lightly.
+
+"Not that much bigger," Yui added.
+
+That made Rei laugh once under her breath.
+
+Yui's answering smile came a beat later than Rei wanted to trust.
+
+Neither of them hurried the next thing.
+
+The courtyard kept offering small interruptions that saved them from having to force continuity: a stroller wheel catching on the paving seam, the vending machine rejecting a coin and then accepting it on the second push, the older woman under the ginkgo finally finishing her coffee and leaving with visible reluctance.
+
+Yui said, "I've been trying to notice the first wrong beat before it decides it's the whole day."
+
+"Does that help?"
+
+She thought about it.
+
+"Sometimes I only notice that I'm waiting for it." Her hand tightened once on the bag strap and then released. "Sometimes that is the wrong beat."
+
+Rei nodded.
+
+Yui watched the nod arrive and settle.
+
+"You do that now too," she said.
+
+"What?"
+
+"Wait for things to be wrong." Her eyes moved briefly to Rei's face and then away again. "Before they are."
+
+Rei looked at the tea can in her hand.
+
+"Yes."
+
+Yui nodded.
+
+This time the nod and the rest of her stayed together.
+
+"Can we go slower?" she asked.
+
+"Yes."
+
+Yui let out a breath that might once have become apology and did not.
+
+"Good."
+
+They sat another minute with the word between them, not using it for more than it had been given to hold.
+
+Then Yui said, very quietly, "I think I can feel you already."
+
+The sentence did not destabilize the courtyard. A librarian stepped out with a flattened cardboard box. Somewhere on the other side of the wall a child laughed and was shushed by someone who sounded only half committed to the shushing.
+
+Rei kept her eyes on the paving stones.
+
+"I know," she said.
+
+The answer could have become tenderness too quickly. She heard that and made no move to soften it further.
+
+Yui looked down at the space between them.
+
+"No," she said after a moment. "I mean I can feel where you stop." The hand nearest the tea can opened and closed once on her coat. "Or maybe I can feel where you're making yourself stop."
+
+Rei did not answer immediately.
+
+The old impulse rose: reassure, reduce, reach, make the sentence safe before it had time to work too hard inside Yui.
+
+She kept hold of it.
+
+Yui heard the held part as clearly as the answer that followed.
+
+"Maybe both," Rei said.
+
+Yui took that in without rushing to align herself around it.
+
+"Okay," she said.
+
+Again nothing in the word came late.
+
+Rei turned the tea can once in her hand. The metal clicked lightly against her ring finger.
+
+"I don't want to do this to you again," she said.
+
+Yui's face changed at once.
+
+Not fear. Not recoil.
+
+Something more careful than either.
+
+"I know," she said.
+
+Then she shook her head. "No. That's too easy." She lifted her eyes to Rei's. "I know you don't want to. I don't know what that protects by itself."
+
+The sentence landed almost too cleanly. Rei went still around it.
+
+"You're right," she said.
+
+Yui looked back down at the space between them.
+
+"I don't want you far away," she said. "I want you slow enough that I can stay me."
+
+The last two words came out with effort, but not with instability. More like something being placed carefully on a surface that might still shift under the weight.
+
+Rei's hand moved once against the bench and stopped.
+
+Yui saw the motion.
+
+For a second her attention leaned toward it in the old immediate way.
+
+Then she caught herself.
+
+"Can you leave it there?" she asked.
+
+Rei looked at her hand, still resting open on the bench between them but not near enough to touch.
+
+"Yes."
+
+Yui nodded once.
+
+Then, with visible care, she set her own hand down on the bench too. Not beside Rei's. Not reaching. Only present inside the same narrow field.
+
+The space between their hands remained space.
+
+The old ease came toward Rei so quickly she had to look at the bench slats to keep from meeting it in full.
+
+Yui's breathing changed.
+
+Not much.
+
+Only enough that Rei thought she could feel the possibility of the moment widening if either of them let it.
+
+"There," Yui said softly.
+
+The word did not belong to panic this time.
+
+Rei kept her eyes on the wood.
+
+"Is it too much?" she asked.
+
+Yui took one breath.
+
+Then another.
+
+"No," she said. "Not if it stays this size."
+
+The answer made something in Rei's chest ache with immediate want.
+
+Stay this size.
+
+The old part of her would have called that deprivation.
+
+Now she only sat beside Yui under the stripped branches and let the sentence remain exact.
+
+People continued to pass through the library door. A man with three mystery novels under one arm. A child carrying a dinosaur book too heavy for one hand. A teenager in a school blazer who stopped by the vending machine, checked his wallet, and left without buying anything.
+
+None of them visibly disturbed the narrow held fact of the bench.
+
+For several breaths, Yui remained Yui beside her.
+
+Rei stayed where she was.
+
+The connection between them did not disappear.
+
+It also did not take the next step without permission.
+
+Then Yui lifted her hand first.
+
+Not sharply. Not in alarm.
+
+Only with the visible care of someone ending something before the ending is forced on her.
+
+"That's enough," she said.
+
+Rei looked up.
+
+Yui gave a small apologetic shake of her head, then seemed to hear the apology in it and set that down too.
+
+"No," she said. "That's not apology. I just mean enough."
+
+"Okay."
+
+Yui picked up her tea can with both hands and drank from it, though there could not have been much left inside.
+
+When she lowered it, some of the color had come back into her face.
+
+"I wanted to stay," she said.
+
+Rei waited.
+
+"I also wanted to stop while it was still mine."
+
+The sentence settled between them with no need for interpretation.
+The sentence settled.
+
+"I know," Rei said.
+
+This time the words did not try to go farther.
+
+Yui looked at her for a moment longer, then smiled in the tired, careful way that had become more common on her face and somehow more dear to Rei for costing what it cost.
+
+"We did better," she said.
+
+Then she frowned slightly. "No. That's too clean too." She turned the can once between her palms. "We stayed here."
+
+Rei looked down at the bench slats where their hands had been.
+
+"Yes," she said.
+
+It was the truest thing available.
+
+They stood together and walked to the gate without choosing who should move first. At the pavement, the street gave itself back to ordinary evening: buses breathing at the curb, a bicycle bell from the side road, someone carrying groceries home with more confidence than the bag deserved.
+
+Yui shifted her bag higher on one shoulder.
+
+"I'm going left," she said.
+
+The old echo of the shopping street crossed them both and did not take hold.
+
+"Okay," Rei said.
+
+Yui nodded.
+
+Then, with one hand still on the strap of the bag, she said, "I don't want to lose you to being careful either."
+
+Rei looked at her.
+
+Yui's mouth softened. "I just need to be able to find myself at the same time."
+
+Rei let the sentence reach her whole.
+
+"I know," she said.
+
+After a beat: "I'll try."
+
+Yui nodded once more. No lag. No second arrival.
+
+"Me too," she said.
+
+Then she went left.
+
+Rei stood at the gate a moment longer than the pavement required. The afternoon had not turned into proof. Yui had not been restored. Nothing in the narrow held contact on the bench promised that the next bench, the next room, the next day would hold the same way.
+
+Still, as she turned toward the station, another truth remained stubbornly beside that one.
+
+It could be lived.
+
+Differently.
+
+The thought did not arrive as relief.
+
+By the time Rei reached the platform, what she felt most clearly was sadness.
+
+Not because the meeting had gone badly.
+
+Because it had not.
+
+What made it possible had also kept it from ever again becoming the ease that had once felt like the deepest form of love.
+
+She stood among commuters, advertisements, station light, the low tiredness of people being carried home, and felt the grief without trying to reduce it.
+
+When the train came, she got on with everyone else.
+
+The city reached her.
+
+She remained in it.
+
+The sadness stayed.
+
+### Chapter 18 - Held
+
+The number came from Fumiko on the back of a pharmacy receipt.
+
+She wrote it standing at the center counter with her reading glasses low on her nose and a paring knife still in her other hand from the apples she had been cutting for the afternoon tea.
+
+"It may be old," she said.
+
+Rei looked at the digits.
+
+"Did you keep it all this time?"
+
+Fumiko set the knife down, folded the receipt once, and slid it across the counter.
+
+"I keep things people thought they were done with." Then she looked up. "Don't go if what you want is agreement."
+
+Rei took the receipt.
+
+"I don't."
+
+Fumiko's expression changed by almost nothing.
+
+"Good," she said. "Because she's not built for making other people comfortable."
+
+Rei waited until evening to send the message.
+
+If this is Suzu Sato, I'd like to speak with you.
+
+The answer took long enough that Rei had already put the phone face down beside the sink and started washing the rice.
+
+When it came, it was four lines.
+
+Thursday. 6:10.
+Riverside path behind the sports center.
+Bench by the vending machines.
+Come alone.
+
+No name.
+
+No question about who had given Rei the number.
+
+No refusal either.
+
+Thursday came cold and clear.
+
+By the time Rei reached the river, the indoor pool lights inside the ward sports center had already turned the long windows white. Every so often a whistle sounded from somewhere beyond the glass and stopped just as quickly. The river itself ran between concrete banks too straight to feel scenic. A few reeds had forced themselves up near the bend anyway, thin and persistent in the darkening water. A cyclist passed on the upper path without slowing. Two boys with basketballs under their arms cut down the steps, looked at the river as if they had come there to consider something meaningful, then seemed to remember they were thirteen and kept going.
+
+Suzu was already on the bench.
+
+She sat at one end with her hands bare despite the cold, a pair of dark gloves folded into a precise square beside her. Her coat was charcoal and plain enough that Rei would not have remembered it later except for how carefully it seemed to have been chosen not to ask for memory. At her feet was a small paper pharmacy bag, its top rolled flat twice. She looked neither young nor old enough to settle quickly into either category. Only narrowed. As if a great deal of herself had been spent, over years, on deciding exactly where to stop.
+
+When Rei came near, Suzu looked up.
+
+"Rei," she said.
+
+It was not greeting so much as confirmation.
+
+"Suzu," Rei said.
+
+The smaller name did not lessen the older one waiting behind it.
+
+Suzu glanced once at the other end of the bench.
+
+"You can sit," she said.
+
+Rei did.
+
+She left enough space between them that the bench did not become a shared surface all at once.
+
+For a moment neither spoke. Water moved below the embankment with a sound too low to call itself current. From inside the sports center came the muffled impact of a ball against a gym wall, then the squeal of shoes, then nothing.
+
+Rei said, "Why did you agree to this?"
+
+Suzu looked toward the river instead of at her.
+
+"Because you asked directly," she said. "Most people don't when what they want is a usable enemy."
+
+The sentence caught on Rei before she could decide whether to reject it.
+
+"I didn't come for that."
+
+"No," Suzu said. "That's why I came."
+
+Rei let that stand.
+
+After a moment she asked, "Why here?"
+
+Suzu's eyes moved once to the upper path where another cyclist went by with a grocery bag hanging from one handlebar.
+
+"Public," she said. "Enough room. You can leave whenever you want. So can I."
+
+The answer was practical. Still, something in it crossed Rei strangely. Not kindness. Not apology.
+
+Only structure offered before either of them had earned trust.
+
+She looked at Suzu's folded gloves, the paper pharmacy bag, the stillness in the hands that had once cut her loose from everyone.
+
+"You didn't give me that choice before," Rei said.
+
+Suzu did not answer immediately.
+
+One of the pool doors opened. Chlorine air drifted out for a second, then thinned in the cold.
+
+"No," Suzu said.
+
+Nothing in the word defended itself.
+
+Rei turned that over and found no softness inside it.
+
+"Then start there," she said.
+
+Suzu nodded once.
+
+"I thought you were causing harm," she said. "Not in theory. In sequence. People did not return cleanly after you. They stayed turned toward you after the exchange was over. They answered late. They missed what was nearest them." She looked down at her hands. "I kept waiting for correction. I didn't see it."
+
+Rei said nothing.
+
+Suzu went on.
+
+"At the center, the young mother kept checking your face while her son was speaking. The older volunteer came back to the same table three times for reasons that changed too quickly. The woman at the station looked relieved in a way that had already become dependency." Her mouth tightened very slightly around the last word. "And you moved toward all of it as if what welcomed you there could still be trusted by itself."
+
+The air felt colder after that.
+
+Rei thought of Mariko by the sink. Daichi returning to the table. Yui at the ticket machine with her balance gone somewhere she could not quite retrieve.
+
+"You could have spoken to me," she said.
+
+Suzu looked at her then.
+
+"I watched what speaking did around you."
+
+Rei held her gaze.
+
+"That isn't the same thing."
+
+"No," Suzu said. "It wasn't." She looked back at the river. "It was later than speaking."
+
+The answer was so stripped down it almost disappeared before the force of it arrived.
+
+Rei heard in it something she wanted, immediately, to call cruelty.
+
+But what sat beside that word was worse.
+
+Attention.
+
+Suzu had watched.
+
+Not abstractly. Not from doctrine alone.
+
+Watched until pattern had turned into threshold in her mind.
+
+"You mean you decided no one around me counted as themselves enough to choose," Rei said.
+
+Suzu's expression did not sharpen. If anything, it grew more still.
+
+"I mean by the time someone can ask for distance," she said, "distance may already be the thing they no longer know how to make."
+
+The sentence landed hard because part of Rei had already lived inside its truth.
+
+Yui at the start.
+Yui before the station.
+Yui saying I don't know why I feel like I already know you and both of them letting that feel like beauty before it had become consequence.
+
+Rei said, "That was true sometimes."
+
+Suzu's head turned a fraction in her direction.
+
+It was the smallest acknowledgment Rei had seen from her.
+
+"Yes," Suzu said.
+
+Only to that.
+
+They sat with that for a moment while a swimmer in a towel ran from the side door to the parking lot, one hand over her wet hair, laughing at the cold.
+
+Then Rei said, "And what you did was still wrong."
+
+"Yes," Suzu said.
+
+The word met the accusation and stopped there.
+
+That stopped Rei more than denial would have.
+
+She looked at Suzu fully now.
+
+"You say that easily."
+
+"No." Suzu pressed one glove over the other with unnecessary precision. "I say it accurately. Ease has nothing to do with it."
+
+Rei felt, unexpectedly, anger move through her with less heat than before. Not because it was gone. Because it had lost the relief of imagining Suzu as only one thing.
+
+"Marcus taught you that?" she asked.
+
+The name changed the air between them.
+
+Not dramatically.
+
+Only enough that Suzu's hand stopped midway through refolding the gloves.
+
+"Marcus taught a lot of people a lot of useful lies," she said.
+
+Rei waited.
+
+Suzu set the gloves back exactly where they had been.
+
+"By the time he reached me, most of what remained was sequence," she said. "Exposure. Need. Cutoff. Death. People could arrange it in either direction depending on what they wanted to justify."
+
+"And you used that anyway."
+
+"Yes."
+
+The answer came without defense.
+
+Rei felt her own hands tighten once against the bench.
+
+"He was a person before he was warning," she said.
+
+Suzu looked down at the rolled top of the pharmacy bag.
+
+For the first time since Rei had arrived, something in her face moved late.
+
+"I know," she said.
+
+Rei said nothing.
+
+Suzu's voice, when it came again, was no softer for the delay.
+
+"Knowing that later did not unteach the rest."
+
+The sentence did not excuse her.
+
+It did something worse.
+
+It showed the place in her that had stayed human and narrowed anyway.
+
+Rei looked at the water below the embankment until the reflected pool light broke itself apart on the surface.
+
+"You thought cutting early was the only way not to be lazy," she said.
+
+Suzu did not answer immediately.
+
+The quiet between them held long enough for a train to move over the far bridge, its windows flashing once through the dark.
+
+Then Suzu said, "I thought waiting had started to call itself humility when it was mostly fear of being the one who acted."
+
+Rei turned that over.
+
+It was not the whole truth.
+
+It was not a false one either.
+
+"I understand," she said.
+
+This time Suzu did look at her.
+
+Rei kept her voice level.
+
+"I understand what you saw. I understand why it frightened you. I understand why Marcus became sequence in your hands instead of a person. I understand why Yui looked to you like someone already paying for everyone else's hesitation." She let one breath pass. "Understanding isn't agreement."
+
+"No," Suzu said.
+
+Again the word landed exact and separate.
+
+Rei felt, under that, the old reflex that would once have reached farther just because a line had opened.
+
+She let it remain only reflex.
+
+"There is another way," she said.
+
+Suzu's face did not change, but the stillness in it gathered more tightly.
+
+"Is there."
+
+It was not mockery.
+
+Only caution sharpened until it almost sounded flat.
+
+"Yes," Rei said. "Not a clean one. Not one that lets me feel innocent, or trust myself just because I want to." She looked at her own hands. "Smaller than I wanted. Slower. Sometimes it feels worse because some part of me still wants the easier movement and I have to stop it."
+
+Suzu listened without interruption.
+
+Rei went on.
+
+"Before it has to tear itself away from me. I leave space there. I let the other person say enough. Then I stop there too, even when more still feels kind."
+
+She thought of the library bench. Stay this size. I wanted to stop while it was still mine.
+
+The grief of it moved through her again, quiet and exact.
+
+"It doesn't feel pure," she said. "It felt sad. It still does. It was there anyway."
+
+Suzu looked at the river for so long that Rei thought she might not answer.
+
+When she did, her voice remained close to the concrete below them.
+
+"One careful meeting doesn't protect the next person," she said.
+
+"No," Rei said.
+
+The honesty of the answer made Suzu's attention shift once back to her.
+
+"It doesn't."
+
+Neither woman moved.
+
+Rei let the admission stand before she added, "But cutting isn't the only thing that counts as seriousness."
+
+Suzu's hand closed over the folded gloves.
+
+"No," she said. Then, after a moment: "It is the one that does not depend on appetite learning restraint in time."
+
+The wording felt older than the bench, older than the river, older than both of them.
+
+She did not argue the sentence down.
+
+"Sometimes," she said.
+
+The partial answer made something in Suzu's mouth tighten, then release again.
+
+It was the nearest thing to uncertainty Rei had yet seen.
+
+"Then why did you ask me here?" Suzu said.
+
+There was no challenge in it.
+
+Only a refusal to let the scene become demonstration.
+
+Rei looked at her.
+
+The river smell below them was faint and metallic. A bus crossed the avenue above the embankment. Somewhere behind the sports center someone dropped a metal bottle and laughed before picking it up.
+
+"Because I didn't want what you did to be the last true thing between us," Rei said.
+
+Suzu went still.
+
+Not rigid.
+
+Held.
+
+Rei felt, with painful clarity, how easy it would once have been to reach across the remaining space between them and try to make the next part arrive inside Suzu all at once. To use accuracy as entry. To call that mercy because the feeling itself was benevolent.
+
+She stayed where she was.
+
+"I forgive you," she said.
+
+Suzu's eyes shifted to her face and stayed there.
+
+The look was not gratitude.
+
+Not disbelief either.
+
+Something more difficult: attention with nowhere to put the sentence.
+
+Rei kept going before the old impulse could make the words larger than they were.
+
+"That isn't absolution," she said. "It doesn't make what you did necessary. Or right. I'm not saying it so you'll feel cleared by it." Her hands stayed quiet in her lap. "You don't have to receive it. I'm saying it because it's true, and because I won't turn you into one clean sentence that serves me."
+
+Marcus moved through the silence between those words without being summoned more directly.
+
+Used after the fact.
+
+Shaped for need.
+
+Rei would not do that here.
+
+Suzu said nothing.
+
+Long enough for the pool whistle to sound once and vanish.
+
+Then she said, "I didn't ask for that."
+
+"I know," Rei said.
+
+Suzu kept looking at her.
+
+Rei did not look away.
+
+"You don't have to do anything with it," she said.
+
+After that, the words stopped.
+
+The river went on moving below the concrete. The sports center windows held their white reflections. A pair of office workers came down the steps from the upper path, saw the vending machines were sold out of hot coffee, and went back up again without glancing twice at the bench.
+
+The line between them remained.
+
+Not the old ease.
+
+Not invitation.
+
+Not absence either.
+
+Held where it was.
+
+She did not cross it.
+
+Suzu did not close the distance or leave.
+
+For a moment longer than either of them seemed prepared to allow, they remained on the bench above the dark water with the pressure between them unclosed.
+
+Neither moved first.
 
