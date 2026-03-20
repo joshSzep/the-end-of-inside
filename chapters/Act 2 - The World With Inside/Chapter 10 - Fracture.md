@@ -20,15 +20,11 @@ Then, before Rei could answer:
 
 No. That's not right.
 
-The room narrowed briefly to the phone in her hand.
-
 Rei stepped into the corridor and called.
 
 Yui picked up on the first ring.
 
 "Hi," she said.
-
-Her voice was level, carefully placed.
 
 "Where are you?"
 
@@ -46,7 +42,7 @@ Then, after a beat: "Sorry. Yes."
 
 Rei ended the call, took her coat from the hook by the side door, and stepped out into the street.
 
-The air had turned cooler since noon. Rain was coming, though not yet. People moved around her with the steady speed of those heading toward trains, errands, home. Rei followed the familiar route to the station without quite feeling the walk itself. The city's shared field pressed from every side, but her attention kept narrowing back to Yui's voice with station noise behind it.
+The air had turned cooler since noon. Rain was coming, though not yet. People moved around her with the steady speed of those heading toward trains, errands, home. Rei followed the familiar route to the station without quite feeling the walk. Her attention kept narrowing back to Yui's voice with station noise behind it.
 
 At the bus loop on the west side, commuters stood in two loose rows under the shelter roof. A man in work clothes was eating something from a paper sleeve with one hand while scrolling the weather with the other. A pair of schoolgirls in navy skirts were trading earbuds and laughing too hard at something one of them refused to explain. A bus door folded open, folded shut, and opened again when someone came running across the crosswalk at the last second.
 
@@ -61,8 +57,6 @@ When she saw Rei, relief crossed her face too fast. The rest of it followed late
 "Of course."
 
 Yui nodded.
-
-The nod was early. The rest of her took a second to arrive under it.
 
 Rei stopped in front of her.
 
@@ -102,8 +96,6 @@ Rei saw that and said, "Let's move away from the buses."
 
 Yui nodded at once.
 
-This time her body followed a beat ahead of the rest of her.
-
 They walked toward the narrow strip of public benches beside the florist's delivery alley where the station noise was still present but no longer pressing from every direction. The florist had already drawn down the metal screen halfway. Buckets of unsold branches stood in a dark row behind it, their cut ends shining damply.
 
 One bench was empty.
@@ -113,8 +105,6 @@ Rei touched its back.
 "Sit for a minute," she said.
 
 "Sit for a minute," Yui said.
-
-The sentence seemed to arrive twice, too close together to order.
 
 Yui stared at her.
 
@@ -130,11 +120,11 @@ The announcement overhead ended. Another one began almost immediately after.
 
 Yui bent forward and pressed the heel of one hand briefly against her forehead.
 
-"They do that now," she said.
+"They finish," she said.
 
 "What?"
 
-"They finish." Her hand fell away. "Then they don't."
+"Then they don't."
 
 Yui's fingers tightened around the transit card.
 
@@ -152,13 +142,9 @@ Then she looked at the convenience-store bag and gave a very small shake of her 
 
 "Yes. I bought bread." She searched the bag, found no bread there, and went still. "Maybe I put it somewhere down there."
 
-Rei's hand lifted a fraction from the bench and stopped there.
+Rei's hand lifted from the bench and stopped there.
 
 Yui saw it.
-
-Her face changed.
-
-Not wounded. Only more tired.
 
 "Can you say something ordinary?" she asked.
 
@@ -168,7 +154,7 @@ Rei's breath paused.
 
 Yui looked down at her hands.
 
-"Anything ordinary," she said. "Just one."
+"Anything," she said. "Just one."
 
 Rei looked at the transit card still caught between Yui's fingers.
 
@@ -200,8 +186,6 @@ Rei said Yui's name.
 
 Yui inhaled sharply.
 
-Rei had not touched her. Even so the next beat went missing.
-
 "I'm here," Yui said.
 
 The answer came before Rei could say the same.
@@ -224,7 +208,9 @@ Her eyes were bright now, startled more than tearful.
 
 "Did you say it?" she asked.
 
-Rei was one beat late.
+Rei opened her mouth.
+
+Nothing came.
 
 Yui shut her eyes.
 
@@ -235,8 +221,6 @@ Rei took hold of the sleeve seam near Yui's wrist.
 Not skin. Cloth.
 
 Yui's breathing steadied at once.
-
-So fast that Rei nearly let go.
 
 Yui opened her eyes.
 
@@ -258,8 +242,6 @@ Yui stared at Rei as if the sound had come from somewhere just behind her should
 
 The relief went out of her face.
 
-In its place came something barer. Fear was in it, but late.
-
 "No," she said.
 
 The word broke on the way out.
@@ -269,10 +251,6 @@ She bent forward, elbows on her knees, one hand pressed flat against her sternum
 Rei let go of her sleeve.
 
 Yui made a small sound at that.
-
-Not protest.
-
-Recognition.
 
 The first tear fell without changing her expression.
 
@@ -286,11 +264,9 @@ She drew in another breath, then another, neither deep enough to finish the firs
 
 People continued past the alley mouth toward the station, glancing only in passing. No one stopped.
 
-After one beat, Rei said, "Look at me."
+Rei said, "Look at me."
 
 Yui did.
-
-Too fast.
 
 "One thing at a time," Rei said.
 
@@ -312,13 +288,7 @@ Yui wiped once under each eye with the side of her hand and laughed at herself w
 
 "I hate this," she said.
 
-Anger reached the sentence a beat late and did not steady it.
-
-"I know," Rei said after a pause.
-
-Yui looked at her with such immediate relief that Rei wished she had not said it.
-
-The line between them tightened again, fine as wire.
+"I know," Rei said.
 
 She did not touch Yui this time.
 
@@ -342,8 +312,6 @@ Yui looked at the apartment door, then at Rei, and for a second seemed to forget
 
 "I know," she said softly.
 
-The line came back to itself a beat too late.
-
 "I mean I can."
 
 She unlocked the door on the second try.
@@ -357,8 +325,6 @@ Yui turned on the small lamp by the sofa and stood in its light without moving f
 Rei nodded.
 
 Yui nodded back.
-
-This time the two nods did not share the same rhythm.
 
 Rei waited until Yui had taken off her shoes and set her bag down before she stepped back into the hall.
 
@@ -392,28 +358,19 @@ Rei sat down without taking her eyes off the thread.
 
 Her thumb hovered over the keyboard.
 
-Answer now.
-Make it smaller.
-Keep the line warm.
-
 Rain tapped once against the window and then more steadily. In the apartment above, someone crossed the floor in socks. A train passed in the distance, felt more than heard.
 
 Rei set the phone down and stood at the sink.
 
 She ran water over her hands though they were not dirty.
 
-Cold water brought the evening back in pieces: the two bottles in the plastic bag, Yui saying sit for a minute at the same time Rei said it, the speed of the relief in Yui's face whenever Rei answered cleanly, the way that relief vanished the moment Rei let go.
+Cold water. The two bottles in the plastic bag. Yui saying sit for a minute at the same time Rei said it.
 
-Mariko failing to come back all at once during cleanup. Daichi returning to the room a beat late while Yui stayed present beneath everything else. Yui's text after the silence, arriving in two motions. The grocery list written again and again. The shoe already on the right foot. The bench by the florist where two voices had occupied the same sentence.
+Mariko during cleanup. Yui's text after the silence. The grocery list. The shoe already on the right foot.
 
 Rei turned off the tap.
 
 Water continued slipping from her fingertips for a moment after.
-
-Under her hand, things settled too quickly.
-When her hand left, they did not always know where to go.
-
-It arrived the way the rain had: first one point against the glass, then enough of them that the whole window changed.
 
 Rei dried her hands slowly.
 
@@ -429,12 +386,6 @@ Sorry. That was stupid.
 
 Thank you.
 
-The thread waited.
-
 Rei stayed where she was.
 
 After a while, she picked up the phone, typed I know you're home, deleted it, and set the phone face down on the table.
-
-The room did not punish her for the silence.
-
-It only stayed a room.
