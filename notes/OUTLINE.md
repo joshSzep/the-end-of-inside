@@ -284,22 +284,24 @@ Rei follows the pressure from the center upstairs, looking for something that wi
 Instead:
 
 - the older record refuses to stay archival
-- dates, notes, and remembered fragments do not settle cleanly in order
-- Rei follows the wrong thread first and understands too late what it is attached to
+- a date, a marginal line, and a name do not stay in the same order twice
+- Rei settles too quickly on one clean reading and carries it out of the room with her
+- later detail makes that reading feel wrong without replacing it
 - the isolation event begins to read as deliberate intervention framed as protection, not accident or private misfortune
 
 Through a mismatched exchange with older witnesses, one thing becomes clear:
 
 - someone acted to contain her
 - that action belongs to a continuing logic, not a closed past
-- the name attached to that logic is Second Bell
-- and then, less cleanly, Suzu
+- Second Bell surfaces first as a role or signal, then less cleanly as a person
+- Suzu enters the chapter not as solved identity, but as the point where the older logic is still active
 
 By the end of the chapter:
 
 - the problem is no longer only Rei's effect on others
 - someone else is acting inside the same field
-- something remains open and carries forward past the scene
+- one present-tense thread does not settle and carries forward past the scene
+- the past is no longer safely past; it keeps exerting pressure on the present
 - the reader's question shifts from what is happening to how far it goes now
 
 ---

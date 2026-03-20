@@ -255,24 +255,24 @@ For all future scenes:
 ### Scene 1 — Upstairs Record
 - Characters: Rei
 - Goal: follow the pressure of Chapter 11 into the older record without turning it into explanation
-- Beat: in the upstairs office, Marcus-era material, dates, and marginal notes refuse to settle cleanly in order; Rei follows the wrong line first and only later understands what it belongs to
-- Turn: what she finds points to deliberate intervention framed as protection, not accident
+- Beat: in the upstairs office, a date, a marginal line, and a name refuse to settle in a single order; Rei lands on one clean reading and takes that reading downstairs with her
+- Turn: what she finds points to deliberate intervention framed as protection, but the reading is already less stable than she thinks
 
 ---
 
 ### Scene 2 — Name in the Present
 - Characters: Rei, Fumiko, Sano
 - Goal: test the fragment against living memory without stabilizing it into lore
-- Beat: older witnesses do not fully align, but between them the language of containment sharpens and the term Second Bell surfaces as something that did not end with Marcus
-- Turn: Suzu emerges not as backstory, but as someone still acting from that line
+- Beat: the fragment from upstairs bleeds into the conversation; older witnesses do not align, and one detail does not fit Rei's earlier reading, even as the language of containment sharpens
+- Turn: Second Bell surfaces first as function or signal, then as Suzu, making the earlier office scene feel less settled rather than more explained
 
 ---
 
 ### Scene 3 — Carry-Forward Failure
 - Characters: Rei
 - Goal: show that naming the cause does not contain the damage
-- Beat: Rei tries to leave with the discovery held local, misreads the sequence of a present-tense thread, and acts on the wrong beat
-- Turn: the pressure does not close with the scene; it carries forward into the next chapter
+- Beat: Rei tries to keep the discovery local, acts from her now-confident wrong read, and meets a present-tense thread that does not resolve on the beat she expects
+- Turn: the failure does not settle into scene closure; it remains active beyond the chapter and changes the story's operating rules
 
 ---
 
