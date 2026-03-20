@@ -105,18 +105,39 @@ Foreshadow:
 
 ## **Chapter 5 — Too Close**
 
-Yui and Rei deepen their connection.
+Yui and Rei spend longer, quieter stretches together.
 
-- longer shared experiences
-- blurred emotional boundaries
-- moments where identity becomes unclear
+- the connection feels unusually smooth
+- responses arrive with less effort than expected
+- one of them seems already to be where the other is going
+- small choices, turns in conversation, and emotional adjustments settle before either fully makes them
 
-Yui expresses discomfort:
-> “I don’t know what’s mine anymore.”
+Nothing in the chapter should feel alarming from inside the interaction.
 
-Rei responds by connecting more deeply.
+Instead, a disturbance enters:
 
-This intensifies the problem.
+- something is answered before it is quite said
+- a feeling seems shared before either names it
+- the question of who began a thought, gesture, or shift in tone blurs slightly
+- the difficulty is not intensity, but separability
+
+Yui does not diagnose what is happening.
+
+She may only notice:
+- a missed beat
+- a sentence that seems to arrive already understood
+- a small uncertainty about whether something was spoken aloud
+
+Rei senses a slight misfit and chooses not to interrupt it.
+
+Because the closeness feels:
+- accurate
+- relieving
+- kind
+
+she moves further in on purpose.
+
+This deepens the disturbance without naming it.
 
 ---
 

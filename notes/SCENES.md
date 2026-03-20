@@ -108,17 +108,17 @@ If a scene does not change something, it should not exist.
 
 ### Scene 1 — Deepening with Yui
 - Characters: Rei, Yui
-- Goal: intensify bond
-- Beat: prolonged connection
-- Turn: identity begins to blur
+- Goal: let connection become too smooth
+- Beat: shared attention runs slightly ahead of speech; one of them answers what the other has not quite said
+- Turn: the interaction feels better than ordinary intimacy, as if effort has dropped out of it
 
 ---
 
-### Scene 2 — First Warning
+### Scene 2 — Disturbance
 - Characters: Rei, Yui
-- Goal: introduce discomfort
-- Beat: Yui expresses confusion
-- Turn: Rei responds by connecting more deeply
+- Goal: let a misfit register without diagnosis
+- Beat: timing and ownership slip slightly; both assume something was spoken or initiated when it was not, and their readings do not fully match
+- Turn: Rei senses the small misfit and chooses to deepen the connection anyway because it feels accurate, relieving, and kind
 
 ---
 
