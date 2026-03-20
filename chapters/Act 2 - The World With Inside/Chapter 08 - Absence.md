@@ -96,11 +96,9 @@ The next few exchanges held too.
 
 A student volunteer forgot where the chopsticks were, asked twice, found them himself on the second look, and laughed at his own confusion without carrying it any further. A father with a toddler asleep against his shoulder admitted he had not sat down since eight. Rei told him to eat before the child woke. He nodded, took the tray, and was already inside the small arithmetic of hot soup, sleeping weight, and where to put his phone by the time he reached the tables.
 
-The room reset around each thing as it should.
+The room reset around each thing.
 
-That did not reassure her.
-
-It only made the checking feel quieter.
+That only made the checking feel quieter.
 
 Near the end of lunch, Fumiko came to stand beside her with a basket of spoons against her hip.
 
@@ -166,11 +164,11 @@ Yui's message came midafternoon.
 
 Are you nearby?
 
-No preface. No softening word. But the feeling behind it was not abrupt. Only slightly misaligned, as if the question had started forming earlier and reached language late.
+No preface. No softening word. The question sat on the screen as if the rest of it had already happened somewhere else.
 
 Rei looked at the screen, then out through the center's front window to the street beyond.
 
-People passed the glass in pieces: umbrella handle, shopping bag, sleeve, bicycle helmet, the brief flash of a school satchel swung too low. The shared field held them all in motion without difficulty.
+People passed the glass in pieces: umbrella handle, shopping bag, sleeve, bicycle helmet, the brief flash of a school satchel swung too low. The shared field held them all in motion.
 
 She typed, Yes.
 
@@ -198,11 +196,13 @@ She was standing just outside the bookstore awning, one hand on the strap of her
 
 When her eyes found Rei, her expression changed at once.
 
-Then, a fraction later, the rest of her did.
+Then, a fraction later, the hand around the cup loosened.
 
 She smiled.
 
 "Hi," Yui said.
+
+The word reached Rei first. The warmth in it followed.
 
 "Hi."
 
@@ -236,11 +236,13 @@ She looked at the bookstore window rather than at Rei.
 
 Rei waited.
 
-Yui glanced back. "Not in a bad way."
+Yui glanced back, then away again.
+
+"I couldn't tell what."
 
 "Okay."
 
-The word landed, but not fully.
+The word stayed between them and did not settle.
 
 Yui held the cup nearer her mouth without drinking.
 
@@ -250,11 +252,11 @@ Yui held the cup nearer her mouth without drinking.
 
 "I thought maybe you would first."
 
-Rei felt the answer arrive in two motions: the lightness Yui meant it in, then the quieter truth beneath it.
+Yui smiled when she said it. The smile left before the sentence did.
 
-She could have stepped closer then. Could have let the second thing land cleanly between them and answer it. Instead she lifted the tea and took a careful sip while it was still too hot.
+Instead Rei lifted the tea and took a careful sip while it was still too hot.
 
-By the time she lowered the cup, Yui had looked back to the street.
+By the time she lowered the cup, Yui had already looked back to the street.
 
 "I was at the station before I remembered I wasn't going there," Yui said.
 
@@ -270,7 +272,7 @@ She rubbed one finger once against the cup sleeve.
 
 The sentence stayed between them.
 
-Not large. Not dramatic. Only unfinished in a way that did not close by itself.
+It did not close by itself.
 
 Rei looked past Yui toward the moving street.
 
@@ -278,11 +280,11 @@ Nothing in it thinned.
 
 The girls outside the bakery had reached a serious disagreement over chestnut versus custard. The delivery man was still stacking boxes with punitive care. A boy on a bicycle slowed to avoid a pedestrian and then sped up again with private satisfaction at the elegance of it.
 
-Everything continued.
+Everything kept moving.
 
 "Did you want to go in?" Yui asked.
 
-The question came with openness in it. Also something smaller: the expectation that Rei might close the remaining bit of distance if invited.
+Her hand shifted toward the door and stopped there.
 
 Rei looked at the bookstore door, then back at Yui.
 
@@ -312,11 +314,11 @@ Rei let her eyes rest on the books between them.
 
 "Maybe both."
 
-Yui accepted that too quickly, as if she had already been standing inside the answer.
+Yui nodded before the word had fully left Rei's mouth.
 
-Usually Rei would have let that quickness draw her the rest of the way in.
+Rei touched the spine of the nearest book.
 
-Instead she touched the spine of the nearest book and said, "Did you finish the other one?"
+"Did you finish the other one?"
 
 Yui's face changed.
 
@@ -328,11 +330,9 @@ Rei looked up then.
 
 Yui smiled faintly.
 
-"I know," she said. "A little on the nose."
+"I know," she said.
 
-Rei almost laughed.
-
-The laugh came, but small.
+Rei almost laughed and didn't.
 
 Yui leaned one shoulder toward the table.
 
@@ -344,11 +344,11 @@ Yui waited.
 
 Rei felt the moment open.
 
-The connection was there. Available. Warm. Precise enough that if she moved one inch toward it, the rest would likely come of its own accord.
+The space between them felt exact. One small movement would have closed it.
 
-She did not step back.
+She stayed where she was.
 
-She did not move closer either.
+A second later, so did Yui.
 
 After a second, Yui looked down at the book in her hand and ran her thumb along the page edges.
 
@@ -356,7 +356,7 @@ After a second, Yui looked down at the book in her hand and ran her thumb along 
 
 "Okay."
 
-This time the word stayed smaller than it could have.
+The word stayed where she put it.
 
 They stood there another minute, close enough to share the table, not close enough to forget themselves.
 
@@ -394,10 +394,10 @@ Rei watched her go until the crowd thinned across her and took her into its ordi
 
 Yui remained available to her after that.
 
-Rei could have followed the feeling farther.
+At the crossing, Rei felt the line of her continue down the block.
 
-She did not.
+She let it go no farther.
 
-Rei stood at the crossing until the light changed again, tea cooling in her hand.
+Rei stood there until the light changed again, tea cooling in her hand.
 
 Then she turned toward home.
