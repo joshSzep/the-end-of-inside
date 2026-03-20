@@ -118,10 +118,13 @@ Rei notices:
 
 - that pauses and partings fail to clear in the usual way
 - that Yui is slightly further inside the interaction than she is
+- that Yui's responsiveness can make the interval between exchanges feel shorter than it should
 
-Yui reinforces Rei’s belief:
+Yui reinforces Rei’s preferred belief:
 
 > “This is good. This is how it should be.”
+
+Early on, Rei is still able to choose this reading even when a small mismatch remains.
 
 ---
 

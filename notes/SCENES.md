@@ -89,18 +89,18 @@ If a scene does not change something, it should not exist.
 ## **Chapter 4 — Before**
 
 ### Scene 1 — Conversation Fragment
-- Characters: Rei + older character
-- Goal: introduce history
-- Beat: mention of Marcus, engineered dependency, and the old ideological wound around it
-- Turn: Rei dismisses it as irrelevant
+- Characters: Rei, Fumiko, Sano
+- Goal: introduce history without stabilizing it
+- Beat: Marcus appears through mismatched fragments; one witness emphasizes the broad shape while the other preserves details that do not fit the shape cleanly
+- Turn: Rei leaves with unease, not understanding
 
 ---
 
 ### Scene 2 — Unease
-- Characters: Rei
-- Goal: seed tension
-- Beat: brief internal disturbance
-- Turn: she reconnects and it disappears
+- Characters: Rei, Yui (by message)
+- Goal: let the present absorb the past
+- Beat: `fed in drops` lingers briefly while Yui's responsiveness arrives with slightly too much immediacy
+- Turn: Rei chooses to treat Yui as different, and the unease thins without fully resolving
 
 ---
 

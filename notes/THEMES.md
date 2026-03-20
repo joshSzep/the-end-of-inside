@@ -186,6 +186,8 @@ Marcus exists as:
 - false lesson
 - justification
 
+He is also remembered through stories that do not fully agree.
+
 Second Bell is shaped by that false lesson.
 
 Her actions are not random.
@@ -197,6 +199,7 @@ This theme explores:
 - how trauma distorts perception
 - how grief hardens into method
 - how fear justifies elegant control
+- how damaged people get retold into usable meanings
 - how unresolved pain repeats itself
 
 Rei breaks this cycle.

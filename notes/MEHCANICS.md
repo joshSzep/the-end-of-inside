@@ -146,6 +146,7 @@ Yui is the first clear exception.
 - pauses, transitions, and partings fail to reset the connection
 - each exchange adds weight instead of clearing space
 - the persistence is slightly asymmetrical: Yui moves further inside the interaction than Rei
+- the persistence can appear in timing itself, as if a reply arrives before the interval has fully formed
 
 Chapter 3 broadens this without making it universal.
 

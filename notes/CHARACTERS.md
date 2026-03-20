@@ -95,6 +95,7 @@ Rei’s core blind spots:
 - she notices persistence before she understands its consequences
 - she does not yet understand that a small, accurate sentence can keep working in someone after the moment ends
 - when she first senses this, she may try too late to reduce the force of what she has already said
+- when something feels slightly off, she may choose the interpretation that preserves ease
 
 ---
 
@@ -125,6 +126,7 @@ But also:
 - ordinary community interactions begin to fail to reset cleanly
 - Rei first senses that her effect may reach further than intimacy
 - she begins to hesitate at the edge of certain sentences, without yet knowing why
+- older warnings briefly catch on her, but she is still able to let the present feel exempt
 
 ### Disruption
 - she is forcibly isolated
@@ -394,6 +396,7 @@ She is receptive to something deeper.
 - lingers instead of dissolving cleanly back into ordinary distance
 - occasionally skips small buffers of timing, familiarity, and space around Rei
 - may land on Rei with slightly too much precision, too early
+- may answer or reappear as if the interval between exchanges were shorter on her side
 - begins to orient emotionally around Rei
 - other relationships feel diminished by comparison
 
@@ -482,6 +485,8 @@ They should not:
 They should:
 - carry quiet discomfort
 - reveal through fragments
+- fail to harmonize the same history perfectly
+- differ slightly on what matters: pattern, blame, or the stray concrete detail that does not fit the pattern
 
 ---
 

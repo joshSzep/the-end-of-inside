@@ -231,8 +231,8 @@ Marcus was a victim of one such extreme faction.
 They:
 
 - drip-fed him borrowed empathic closeness
-- let dependency form
-- withdrew access once his damage could serve as proof
+- let dependency form, or attached themselves to instability that was already in motion
+- withdrew access once his damage could serve as proof, or let it thin into something unstable before calling the outcome inevitable
 
 The result:
 
@@ -244,6 +244,7 @@ This event became:
 - a defining trauma
 - a warning about curated dependency
 - a false lesson later used to justify cleaner intervention
+- a story often told too cleanly by people who need it to mean one thing
 
 ---
 

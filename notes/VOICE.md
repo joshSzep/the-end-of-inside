@@ -94,6 +94,8 @@ Important:
 
 Silence, pauses, and withheld connection are meaningful.
 
+When the past is explained, do not let explanation become closure. Let witnesses remember the same event in slightly incompatible shapes. The scene should appear to clarify and actually deepen uncertainty.
+
 When a scene needs to feel slightly wrong, do it through realistic misalignment rather than emphasis. Use continued gaze, proximity that does not correct itself, over-precise observations, premature familiarity, and pauses that fail to close. Keep the tone calm. Do not label the unease for the reader.
 
 When quiet escalation is needed, increase it through missed cues, repeated actions, language that returns slightly altered, and a person taking one beat too long to rejoin the scene. Build a spectrum rather than making everyone react at the same intensity.
@@ -218,6 +220,7 @@ Yui speaks:
 - with curiosity
 - with emotional immediacy
 - around Rei, she may move a little too quickly past ordinary social buffers
+- in messages or quick exchanges, her replies may seem to arrive before the previous beat has fully settled
 
 She is comfortable expressing:
 

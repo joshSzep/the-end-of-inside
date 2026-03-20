@@ -27,8 +27,8 @@ Time should feel:
 A radical faction of **HumansRHumans** conducts an experiment:
 
 - Marcus is drip-fed empathic and emotive exposure
-- borrowed closeness becomes dependency
-- access is abruptly removed
+- borrowed closeness becomes dependency, or attaches itself to an instability that was already there
+- access is abruptly removed, or thins into something unstable; later tellings do not agree cleanly on the sequence
 
 Result:
 
@@ -44,6 +44,7 @@ This event becomes:
 - a foundational trauma
 - a warning about curated dependency
 - a false lesson that cleaner coercion could prevent a repeat
+- a story later retold more neatly than the people inside it ever were
 
 Suzu Sato (Second Bell) is deeply shaped by this event.
 
@@ -191,6 +192,17 @@ This relationship becomes the primary lens of the story.
 - Fumiko becomes the first grounded witness to name the social disturbance as something people do not come back from all at once
 
 This is the first sign that Yui is not the only consequence.
+
+---
+
+## Day 2 Evening — Before
+
+- Fumiko and Sano recount Marcus in slightly incompatible shapes
+- the broad model is legible, but the cause-and-effect chain does not settle cleanly
+- one remembered detail does not fit the warning-story cleanly and remains unexplained
+- `fed in drops` lingers with Rei after the conversation
+- Yui's message rhythm arrives a little too immediately
+- Rei prefers to treat the present as different from the older story
 
 ---
 

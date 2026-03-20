@@ -88,16 +88,18 @@ This chapter establishes:
 
 Introduce the history of Marcus and HumansRHumans.
 
-- through fragmented conversation
+- through fragmented conversation between older witnesses who do not fully align
 - older characters carry unease
 - references feel distant, almost myth-like
-- the broad shape is legible: someone was drip-fed borrowed closeness, dependency formed, and the cutoff was later treated as proof by people who thought they were defending interior life
+- the broad shape is legible, but the links do not settle cleanly: borrowed closeness, possible prior instability, uncertain withdrawal, damage later treated as proof by people who thought they were defending interior life
 
 Rei’s perspective:
-> “That was before. We’re past that now.”
+> “That was before. This is different.”
 
 Foreshadow:
 - not everyone agrees
+- the explanation appears to clarify the past while actually making it less stable
+- Yui's immediate responsiveness lets Rei prefer a cleaner conclusion than the chapter proves
 
 ---
 
