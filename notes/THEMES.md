@@ -121,15 +121,16 @@ Rei begins in total freedom:
 - no friction
 - no effort required
 
-Second Bell represents control:
+Second Bell represents clean coercion:
 - restriction
 - intervention
 - forced separation
+- responsibility hardened into unilateral control
 
 Both are flawed.
 
-- freedom without control causes harm
-- control without consent causes violation
+- freedom without structure causes harm
+- clean coercion is still coercion
 
 The resolution is not choosing one over the other.
 
@@ -145,8 +146,17 @@ Second Bell acts without permission.
 
 Her justification:
 - preventing harm
-- protecting others
-- learning from past tragedy (Marcus)
+- protecting others from becoming proof
+- learning the wrong lesson from Marcus
+
+Marcus was not simply overwhelmed by connection.
+
+He was:
+- drip-fed borrowed closeness
+- allowed to become dependent
+- cut off by people who wanted his damage to mean something
+
+Suzu looks at that history and concludes not that coercive intervention is intolerable, but that it must be cleaner, earlier, and less theatrical.
 
 The question is not simple.
 
@@ -173,18 +183,20 @@ The past is not gone.
 Marcus exists as:
 - history
 - warning
+- false lesson
 - justification
 
-Second Bell is shaped by that trauma.
+Second Bell is shaped by that false lesson.
 
 Her actions are not random.
 
-They are a continuation.
+They are a continuation stripped of overt appetite.
 
 This theme explores:
 
 - how trauma distorts perception
-- how fear justifies control
+- how grief hardens into method
+- how fear justifies elegant control
 - how unresolved pain repeats itself
 
 Rei breaks this cycle.

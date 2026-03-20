@@ -282,6 +282,8 @@ Example tone:
 
 - controlled
 - disciplined
+- austere
+- anti-theatrical
 - emotionally guarded
 - deeply shaped by past trauma
 
@@ -292,6 +294,7 @@ Example tone:
 Suzu speaks:
 
 - directly
+- with almost no social grease
 - without embellishment
 - without emotional leakage
 
@@ -299,6 +302,7 @@ She avoids:
 
 - vulnerability
 - unnecessary explanation
+- overheated condemnation
 - emotional merging
 
 Her language is:
@@ -306,6 +310,7 @@ Her language is:
 - precise
 - restrained
 - deliberate
+- unnervingly reasonable
 
 Example tone:
 
@@ -322,7 +327,8 @@ Her restraint comes from:
 
 - fear
 - responsibility
-- memory of Marcus
+- disgust at appetite disguised as care
+- memory of Marcus as dependency made useful
 
 Occasionally:
 

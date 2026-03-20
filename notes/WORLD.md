@@ -203,21 +203,24 @@ From this resistance emerged groups like:
 
 ## HumansRHumans
 
-An early anti-connection movement.
+An early anti-capture movement, not simply a blanket rejection of connection.
 
 Core beliefs:
 
-- connection is unnatural
-- individuality must be preserved
-- emotional boundaries are essential
+- interior life must not become usable material
+- consent and opacity matter
+- emotional boundaries are real
+- institutions turn harm into procedure faster than they repair it
 
 Their methods varied:
 
-- advocacy
+- witness
+- participant advocacy
+- legal and public pressure
 - sabotage
 - experimentation
 
-Some factions became extreme.
+Some factions became extreme and learned to make coercion sound mature.
 
 ---
 
@@ -227,9 +230,9 @@ Marcus was a victim of one such extreme faction.
 
 They:
 
-- introduced him to connection gradually
-- allowed dependency to form
-- removed it completely
+- drip-fed him borrowed empathic closeness
+- let dependency form
+- withdrew access once his damage could serve as proof
 
 The result:
 
@@ -239,27 +242,29 @@ The result:
 This event became:
 
 - a defining trauma
-- a justification for future intervention
+- a warning about curated dependency
+- a false lesson later used to justify cleaner intervention
 
 ---
 
 ## Second Bell
 
-Second Bell is a continuation of that lineage.
+Second Bell comes out of that later lineage.
 
-Not identical in method.
+Not loud or theatrical.
 
 But aligned in belief:
 
-- connection can be dangerous
-- some individuals pose a risk
-- intervention may be necessary
+- ungoverned connection can destabilize others
+- some beautiful forms of openness become capture
+- intervention may be necessary before damage becomes undeniable
 
-They operate:
+She operates:
 
 - quietly
 - precisely
 - without consent
+- under the mistaken belief that clean coercion is ethically cleaner than messy coercion
 
 ---
 

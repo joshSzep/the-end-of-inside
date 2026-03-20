@@ -22,13 +22,13 @@ Time should feel:
 
 ## ~30 Years Before Present — The Marcus Incident
 
-### Event: Controlled Exposure and Withdrawal
+### Event: Controlled Exposure, Dependency, and Withdrawal
 
 A radical faction of **HumansRHumans** conducts an experiment:
 
-- Marcus is gradually introduced to connection
-- dependency is intentionally cultivated
-- connection is abruptly removed
+- Marcus is drip-fed empathic and emotive exposure
+- borrowed closeness becomes dependency
+- access is abruptly removed
 
 Result:
 
@@ -42,8 +42,8 @@ Result:
 This event becomes:
 
 - a foundational trauma
-- a warning about connection misuse
-- justification for future intervention strategies
+- a warning about curated dependency
+- a false lesson that cleaner coercion could prevent a repeat
 
 Suzu Sato (Second Bell) is deeply shaped by this event.
 
@@ -128,7 +128,8 @@ Suzu Sato becomes aware of Rei.
 She observes:
 
 - patterns of influence
-- similarities to Marcus (structural, not identical)
+- people around Rei opening too far and returning too late
+- structural echoes of Marcus (not identical, but alarming)
 
 Suzu does not act immediately.
 
@@ -385,7 +386,7 @@ Rei meets Suzu.
 They discuss:
 
 - the isolation event
-- Marcus
+- Marcus as warning and false lesson
 - the ethics of intervention
 
 Rei:
@@ -438,7 +439,7 @@ This creates:
 
 Two key time scales:
 
-- **30 years** → Marcus, history, trauma
+- **30 years** → Marcus, engineered dependency, historical trauma
 - **3–4 weeks** → Rei’s transformation
 
 This contrast reinforces:

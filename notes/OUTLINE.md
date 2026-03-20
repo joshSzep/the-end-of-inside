@@ -91,6 +91,7 @@ Introduce the history of Marcus and HumansRHumans.
 - through fragmented conversation
 - older characters carry unease
 - references feel distant, almost myth-like
+- the broad shape is legible: someone was drip-fed borrowed closeness, dependency formed, and the cutoff was later treated as proof by people who thought they were defending interior life
 
 Rei’s perspective:
 > “That was before. We’re past that now.”
@@ -241,20 +242,25 @@ And then:
 
 > Suzu
 
+Conflict sharpens:
+
+- not a caricatured extremist
+- a morally serious inheritor of an older doctrine
+
 ---
 
 ## **Chapter 13 — Marcus**
 
 Full history revealed.
 
-- Marcus was drip-fed connection
-- dependency formed
-- connection was removed
-- he died
+- Marcus was drip-fed empathic and emotive exposure
+- dependency was cultivated through controlled access
+- access was cut by people who wanted his damage to prove something
+- Suzu learned the wrong lesson from what happened
 
 Rei realizes:
 
-> “They think I’m the same kind of problem.”
+> “They think I’m the kind of thing that can make people stop returning to themselves.”
 
 ---
 

@@ -309,7 +309,8 @@ Suzu observes from a distance.
 She identifies:
 
 - risk patterns
-- similarities to Marcus
+- people around Rei failing to return cleanly to themselves
+- structural echoes of Marcus without treating Rei and Marcus as the same case
 
 She does not intervene yet.
 

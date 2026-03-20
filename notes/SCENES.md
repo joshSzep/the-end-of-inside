@@ -91,7 +91,7 @@ If a scene does not change something, it should not exist.
 ### Scene 1 — Conversation Fragment
 - Characters: Rei + older character
 - Goal: introduce history
-- Beat: mention of Marcus and past instability
+- Beat: mention of Marcus, engineered dependency, and the old ideological wound around it
 - Turn: Rei dismisses it as irrelevant
 
 ---
@@ -254,7 +254,7 @@ If a scene does not change something, it should not exist.
 - Characters: Rei
 - Goal: ground antagonist
 - Beat: identity of Second Bell revealed
-- Turn: personalizes conflict
+- Turn: personalizes conflict and sharpens the older ideological lineage behind it
 
 ---
 
@@ -263,15 +263,15 @@ If a scene does not change something, it should not exist.
 ### Scene 1 — History Revealed
 - Characters: Rei + Suzu or intermediary
 - Goal: explain past
-- Beat: Marcus’s story
-- Turn: Rei sees parallel
+- Beat: Marcus’s engineered dependency and withdrawal
+- Turn: Rei sees the structural parallel
 
 ---
 
 ### Scene 2 — Reframing
 - Characters: Rei
 - Goal: internalize
-- Beat: understands Suzu’s fear
+- Beat: understands Suzu’s fear as a false lesson about clean intervention
 - Turn: conflict becomes ethical, not personal
 
 ---

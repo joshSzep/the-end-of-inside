@@ -411,21 +411,25 @@ Second Bell operates under:
 
 - risk assessment
 - preemptive intervention
-- controlled disruption
+- structural decoupling
+- minimal theatricality
 
 Her assumptions:
 
-- some individuals are too dangerous to remain unregulated
-- harm prevention justifies violation
+- some relational fields stop self-correcting
+- waiting for consent can mean waiting until someone else is already harmed
+- clean coercion is preferable to drifting harm
 
 Her method:
 
-- isolate to create self-awareness
-- force boundary formation
+- isolate to interrupt accumulation before it becomes dependency
+- force boundary formation rather than letting collapse spread
+- remove access instead of arguing about it
 
 This is:
 
 - effective
+- disciplined
 - but ethically compromised
 
 ---

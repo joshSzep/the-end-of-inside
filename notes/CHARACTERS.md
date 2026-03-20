@@ -187,51 +187,54 @@ Her growth must be earned.
 
 ## Core Identity
 
-Suzu is a Japanese woman and a surviving figure from the extremist splinter lineage of **HumansRHumans**.
+Suzu is a Japanese woman and one of the last inheritors of the severe splinter lineage of **HumansRHumans**.
 
-She is known to others as **Second Bell**, but she does not think of herself that way.
+She is known to others as **Second Bell**, but to her the name is less an identity than a method.
 
-She believes she is acting in the interest of preventing harm.
+It means:
+> remove vanity, name the danger clearly, act before the wound becomes public spectacle
+
+She believes she is preventing catastrophe, not creating it.
 
 ---
 
 ## Personality
 
-### 1. Controlled and precise
-- she speaks carefully
-- she avoids excess expression
-- she is deliberate in action
+### 1. Austere and anti-theatrical
+- she speaks with almost no social grease
+- she distrusts emotional excess
+- she is most dangerous when she sounds calm
 
 ---
 
 ### 2. System-oriented
-Suzu sees patterns.
+Suzu thinks in terms of:
+- thresholds
+- asymmetries
+- patterns that stop self-correcting
+- downstream effects
 
-She thinks in terms of:
-- systems
-- outcomes
-- long-term effects
-
-She is less concerned with:
-- immediate emotional experience
-
----
-
-### 3. Morally serious
-She is not casual about her choices.
-
-She accepts:
-> harm may be necessary to prevent greater harm
+She is less impressed by:
+- sincerity without structure
+- intense feeling presented as innocence
 
 ---
 
-### 4. Emotionally contained
-Unlike Rei, Suzu maintains strong internal boundaries.
+### 3. Morally severe
+She is not casual about harm.
+
+She believes:
+> if damage is already accumulating, waiting for perfect permission may simply mean waiting for other people to pay for your restraint
+
+---
+
+### 4. Strongly bounded
+Unlike Rei, Suzu maintains a tightly held interior.
 
 She does not dissolve into others.
 
 Her identity is:
-> clearly held, clearly defined
+> defended, explicit, and difficult to move
 
 ---
 
@@ -239,28 +242,31 @@ Her identity is:
 
 Suzu believes:
 
-- unbounded connection destabilizes individuals
-- some people function as high-impact nodes
-- freedom without structure leads to harm
-- it is sometimes necessary to intervene without consent
-- Rei is dangerous to others
+- interior life is real and must not become usable material
+- beautiful forms of connection can still be coercive
+- some people become destabilizing nodes around whom others stop returning cleanly to themselves
+- waiting for obvious catastrophe is often moral laziness
+- intervention without consent can be justified if it is precise enough
+- Rei is dangerous not because she is evil, but because she is ungoverned
 
 ---
 
 ## Relationship to Marcus
 
-Suzu is connected to the events surrounding Marcus decades earlier.
+Marcus is the catastrophe that taught Suzu the wrong lesson.
 
-She witnessed:
-- drip-fed connection
-- emotional dependency
-- catastrophic withdrawal
-- suicide
+She comes from the lineage that:
+- drip-fed him empathic and emotive exposure
+- let borrowed closeness become dependency
+- cut him off once the dependency was useful as proof
 
-Her conclusion was not that control was wrong.
+What Suzu learns from this is not:
+> no one should ever control another person's access
 
-Her conclusion was:
-> the intervention was insufficient
+What she learns is:
+> never be sloppy, never be theatrical, and never let appetite show
+
+She mistakes non-theatrical coercion for ethical seriousness.
 
 ---
 
@@ -268,11 +274,20 @@ Her conclusion was:
 
 Suzu does not hate Rei.
 
-She sees Rei as:
-> a destabilizing presence that must be contained
+She sees in Rei a naturally occurring version of the same structural danger.
 
-Possibly also:
-> something beautiful that cannot be allowed to exist unchecked
+Around Rei she notices:
+- accelerated opening
+- boundary slippage
+- people staying too far inside shared states
+- failures of clean return
+
+She does not think Rei intends harm.
+
+That is part of why Rei frightens her.
+
+To Suzu, Rei is:
+> intimate, beautiful, and ethically ungoverned
 
 ---
 
@@ -280,23 +295,25 @@ Possibly also:
 
 Suzu isolates Rei by severing her from the shared empathic field.
 
-This is:
-- intentional
-- non-consensual
-- justified (in her view)
+In Suzu's mind, this is not punishment.
+
+It is:
+- preemptive decoupling
+- forced boundary formation
+- harm prevention before the pattern widens
 
 ---
 
 ## Flaw
 
-Suzu cannot imagine a third path.
+Suzu confuses elegance with innocence.
 
-She only sees:
-- allow connection
-- restrict connection
+She can imagine:
+- unbounded openness
+- hard restriction
 
-She does not believe:
-> connection can be shaped ethically
+She cannot imagine:
+> consent, skill, and structure doing the work coercion is trying to do
 
 ---
 
@@ -319,7 +336,7 @@ Suzu is left to decide what to do with it.
 
 ## Key Internal Tension
 
-> “If I do not act, people will suffer. If I act, I become the one who harms.”
+> “If I wait for proof, the proof will be other people’s damage. If I act first, I become the damage.”
 
 ---
 
@@ -451,7 +468,7 @@ Yui is:
 
 ## Older Generation Figures
 
-Characters who remember earlier stages of the House and the events around Marcus.
+Characters who remember earlier stages of the House and the engineered dependency around Marcus.
 
 Function:
 - provide historical context
