@@ -38,7 +38,7 @@ The sentence was simple. The effort behind it was not.
 
 "Of course," Rei said.
 
-The answer almost went farther than that.
+The answer almost went farther.
 
 She stopped it.
 
@@ -78,7 +78,7 @@ Yui's shoulders loosened a little.
 
 Nothing in the word came late.
 
-The relief of that stayed small enough to be useful.
+The relief of that stayed small. Useful, maybe.
 
 Yui opened her tea and took one sip.
 
@@ -120,7 +120,7 @@ The smile stayed, but lightly.
 
 That made Rei laugh once under her breath.
 
-Yui's answering smile came at the right time.
+Yui's answering smile came a beat later than Rei wanted to trust.
 
 Neither of them hurried the next thing.
 
@@ -206,7 +206,7 @@ Something more careful than either.
 
 Then she shook her head. "No. That's too easy." She lifted her eyes to Rei's. "I know you don't want to. I don't know what that protects by itself."
 
-The sentence landed cleanly enough that Rei felt herself go still around it.
+The sentence landed almost too cleanly. Rei went still around it.
 
 "You're right," she said.
 
@@ -242,7 +242,7 @@ Yui's breathing changed.
 
 Not much.
 
-Only enough that Rei could feel the possibility of the moment widening if either of them let it.
+Only enough that Rei thought she could feel the possibility of the moment widening if either of them let it.
 
 "There," Yui said softly.
 
@@ -268,11 +268,11 @@ Now she only sat beside Yui under the stripped branches and let the sentence rem
 
 People continued to pass through the library door. A man with three mystery novels under one arm. A child carrying a dinosaur book too heavy for one hand. A teenager in a school blazer who stopped by the vending machine, checked his wallet, and left without buying anything.
 
-None of them disturbed the narrow held fact of the bench.
+None of them visibly disturbed the narrow held fact of the bench.
 
 For several breaths, Yui remained Yui beside her.
 
-Rei remained herself.
+Rei stayed where she was.
 
 The connection between them did not disappear.
 
@@ -305,6 +305,7 @@ Rei waited.
 "I also wanted to stop while it was still mine."
 
 The sentence settled between them with no need for interpretation.
+The sentence settled.
 
 "I know," Rei said.
 
@@ -344,7 +345,7 @@ Rei let the sentence reach her whole.
 
 "I know," she said.
 
-After a beat, because this part mattered too: "I'll try."
+After a beat: "I'll try."
 
 Yui nodded once more. No lag. No second arrival.
 
@@ -368,9 +369,9 @@ Not because the meeting had gone badly.
 
 Because it had not.
 
-What made it possible had also kept it from ever again becoming the kind of ease that once felt to her like the deepest form of love.
+What made it possible had also kept it from ever again becoming the ease that had once felt like the deepest form of love.
 
-She stood among commuters, advertisements, station light, the low layered tiredness of people being carried home, and felt the grief of that without trying to reduce it.
+She stood among commuters, advertisements, station light, the low tiredness of people being carried home, and felt the grief without trying to reduce it.
 
 When the train came, she got on with everyone else.
 
