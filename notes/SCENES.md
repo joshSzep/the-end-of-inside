@@ -392,7 +392,7 @@ For all future scenes:
 
 ---
 
-## **Chapter 18 — Second Bell**
+## **Chapter 18 — Held**
 
 ### Scene 1 — Approach Under Pressure
 - Characters: Rei, Suzu

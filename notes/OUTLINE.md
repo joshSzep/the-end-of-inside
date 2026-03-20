@@ -419,7 +419,7 @@ Because what makes the moment ethical is also what keeps it from ever again feel
 
 ---
 
-## **Chapter 18 — Second Bell**
+## **Chapter 18 — Held**
 
 Final encounter under unresolved pressure.
 
