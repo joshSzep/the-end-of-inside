@@ -39,6 +39,34 @@ It is **interpretive**, not exact.
 
 ---
 
+# **Operational Clarity vs. Total Explanation**
+
+Characters in this novel can know enough to act without knowing enough to close the case.
+
+They can identify:
+
+- asymmetrical persistence
+- failure of clean return
+- borrowed steadiness
+- dependency on repeated contact or replayed state
+- damage that sharpens after cutoff or separation
+
+They cannot reliably determine:
+
+- full causality
+- exact thresholds
+- where natural vulnerability ends and deliberate cultivation begins in every case
+- one complete ontology of the House that every observer would share
+
+Use this distinction everywhere:
+
+- action may arise from pattern recognition
+- ethical judgment may sharpen before mechanism does
+- Chapter 13 may clarify structure and stakes without delivering final explanation
+- the reader should understand what characters are responding to without receiving a solved system
+
+---
+
 # **Connection Mechanics**
 
 ## 1. Initiation
@@ -470,10 +498,12 @@ Key distinction:
 
 # **Final Mechanical Principle**
 
-The system operates on one fundamental rule:
+For the purposes of the story, characters can act on one fundamental rule:
 
 > Connection amplifies what exists.  
 > Boundaries determine whether that amplification is sustainable.
+
+This is a working rule, not an exhaustive explanation.
 
 ---
 
@@ -486,6 +516,7 @@ Instead:
 - show their effects
 - let characters experience them
 - allow the reader to infer the rules
+- let records, witness memory, and institutional language disagree when they reach for causes
 
 Clarity should emerge through:
 

@@ -278,19 +278,27 @@ For all future scenes:
 
 ## **Chapter 13 — Marcus**
 
-### Scene 1 — History Revealed
-- Characters: Rei + Suzu or intermediary
-- Goal: explain past
-- Beat: Marcus’s engineered dependency and withdrawal
-- Turn: Rei sees the structural parallel
+### Scene 1 — Fragments of Marcus
+- Characters: Rei, records, older voices at second hand
+- Goal: make Marcus present without giving Rei a master narrative
+- Beat: Rei moves through clipped reports, printouts, and remembered details that preserve Marcus as worker, recovering addict, lonely human being, and exploited subject all at once
+- Turn: the fragments agree on pressure and dependency, but not on sequence, intent, or who knew what when
 
 ---
 
-### Scene 2 — Reframing
+### Scene 2 — Interested Retellings
+- Characters: Rei, Fumiko, Sano
+- Goal: show that every account is trying to do something in the present
+- Beat: one speaker keeps returning Marcus to ordinary life while another compresses him into warning, proof, or precedent; even accurate details arrive already arranged by fear, guilt, or politics
+- Turn: Rei realizes that explanation here is itself a form of use
+
+---
+
+### Scene 3 — No Clean Lesson
 - Characters: Rei
-- Goal: internalize
-- Beat: understands Suzu’s fear as a false lesson about clean intervention
-- Turn: conflict becomes ethical, not personal
+- Goal: leave the chapter with sharpened stakes rather than solved lore
+- Beat: Rei cannot prove exactly what was done to Marcus or map him neatly onto herself, but can no longer deny that closeness, cutoff, and interpretation were all used as instruments
+- Turn: Marcus stops being a case and becomes the pressure point that makes Yui, Suzu, and Rei impossible to read cleanly
 
 ---
 

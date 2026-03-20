@@ -396,6 +396,81 @@ The relationship resolves in:
 
 ---
 
+# **Rei Nakamura ↔ Marcus**
+
+## Core Dynamic
+
+> Recognition Without Possession
+
+This relationship is indirect.
+
+Rei never knew Marcus.
+
+That distance matters.
+
+---
+
+## Marcus -> Rei
+
+### Act II
+
+- Marcus first reaches Rei as inherited warning and distant history
+- in Chapter 13, clipped records and witness fragments return him to ordinary life: recovery, routine, shame, and the near-acceptance of care
+- he teaches Rei that a person can be damaged by connection without becoming an explanatory key
+- he sharpens her fear of what could happen if Yui is ever turned into proof
+
+---
+
+## Rei -> Marcus
+
+### Act II
+
+- Rei refuses the clean analogy between Marcus and herself
+- she sees that each current faction wants something different from his story
+- her ethical movement deepens when she stops asking what Marcus explains and starts asking what is being done to him in the retelling
+
+---
+
+## Final State
+
+- Rei cannot restore Marcus or fully know him
+- she can refuse to inherit him as doctrine
+
+---
+
+# **Suzu Sato ↔ Marcus**
+
+## Core Dynamic
+
+> Wound -> Doctrine
+
+This relationship exists through inheritance, interpretation, and selective use.
+
+---
+
+## Marcus -> Suzu
+
+- gives Suzu a real catastrophe and a partial record that rewards pattern thinking
+- remains most powerful to her in the cleaned-up sequence: exposure, dependency, cutoff, death
+- the parts of him that would slow her are the parts least useful to doctrine
+
+---
+
+## Suzu -> Marcus
+
+- keeps using Marcus after death as precedent and pressure
+- inherits a version of him arranged toward early containment
+- learns the wrong lesson: not that vulnerability must never be engineered or used, but that intervention must become earlier, colder, and more elegant
+
+---
+
+## Final State
+
+- Marcus remains unresolved inside Suzu's logic
+- that unresolved use is one of the things Rei confronts without solving
+
+---
+
 # **Yui Takahashi ↔ Suzu Sato**
 
 ## Core Dynamic
@@ -542,6 +617,8 @@ Each relationship explores a different axis:
 
 - Rei ↔ Yui → **emotional consequence**
 - Rei ↔ Suzu → **ethical conflict**
+- Rei ↔ Marcus → **human pressure against explanation**
+- Suzu ↔ Marcus → **doctrine built from wound**
 - Yui ↔ Suzu → **philosophical tension**
 - Rei ↔ World → **system integration**
 

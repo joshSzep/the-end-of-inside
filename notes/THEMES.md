@@ -159,12 +159,12 @@ Her justification:
 - protecting others from becoming proof
 - learning the wrong lesson from Marcus
 
-Marcus was not simply overwhelmed by connection.
+Marcus cannot be reduced to a clean warning about connection.
 
 He was:
-- drip-fed borrowed closeness
-- allowed to become dependent
-- cut off by people who wanted his damage to mean something
+- a person with hunger, shame, routine, and recovery
+- reached by borrowed states that may have been engineered, opportunistically supplied, or later simplified into that shape
+- left inside a pattern where dependency, cutoff, and retrospective interpretation all became usable
 
 Suzu looks at that history and concludes not that coercive intervention is intolerable, but that it must be cleaner, earlier, and less theatrical.
 
@@ -186,6 +186,35 @@ Rei’s final act reframes this:
 
 ---
 
+## **Interpretation Is Part of the Harm**
+
+Chapter 13 must not solve the past.
+
+It must show how the past gets arranged.
+
+- institutional record flattens
+- activist rhetoric sharpens
+- witness memory protects, misremembers, or accuses
+- even accurate fragments arrive already aimed at a present need
+
+Marcus matters because people keep trying to make him mean one thing.
+
+He becomes:
+- warning
+- indictment
+- precedent
+- justification
+
+The chapter should refuse to select one total meaning.
+
+It should leave the reader with:
+- clearer ethical structure
+- more grief
+- sharper stakes around Yui and Rei
+- distrust of elegant certainty
+
+---
+
 ## **Trauma and Memory**
 
 The past is not gone.
@@ -195,6 +224,7 @@ Marcus exists as:
 - warning
 - false lesson
 - justification
+- a human life repeatedly trimmed into usable shapes
 
 He is also remembered through stories that do not fully agree.
 

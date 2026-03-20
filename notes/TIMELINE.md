@@ -22,13 +22,14 @@ Time should feel:
 
 ## ~30 Years Before Present — The Marcus Incident
 
-### Event: Controlled Exposure, Dependency, and Withdrawal
+### Event: Partial Record of Exposure, Dependency, and Withdrawal
 
-A radical faction of **HumansRHumans** conducts an experiment:
+Surviving accounts indicate that a radical **HumansRHumans** lineage, or the breach ecology around it, made Marcus usable inside a live vulnerability:
 
-- Marcus is drip-fed empathic and emotive exposure
-- borrowed closeness becomes dependency, or attaches itself to an instability that was already there
-- access is abruptly removed, or thins into something unstable; later tellings do not agree cleanly on the sequence
+- Marcus, a working-class man in recovery far outside the lab or policy world, encounters borrowed empathic states that meet real hunger
+- access arrives in repeating doses; whether that rhythm was fully engineered or opportunistically exploited remains contested
+- dependency forms around relief, welcome, and borrowed safety
+- access is later cut abruptly, or later remembered that way after a messier thinning; the sequence does not settle cleanly
 
 Result:
 
@@ -340,19 +341,35 @@ Rei:
 
 ---
 
-## Day 16 — Revelation of Second Bell
+## Day 16 — Second Bell Surfaces
 
 Rei learns:
 
 - isolation was intentional
 - it was targeted
-- it was meant to protect others
+- it belonged to a continuing logic, not an isolated act
 
-Suzu is identified.
+Suzu surfaces as the living interpreter of that logic before she settles as a fully knowable person.
 
 ---
 
-## Day 17–19 — Attempted Restraint
+## Day 17 — Marcus Through Fragments
+
+Rei encounters:
+
+- clipped records, older testimony, and morally interested retellings that do not harmonize
+- Marcus as worker, recovering addict, and lonely human being rather than pure cautionary emblem
+- no clean settlement of when dependency began, how deliberate cultivation was, or how abrupt the cutoff truly was
+
+What sharpens:
+
+- borrowed closeness can be made usable
+- containment can learn from misuse without becoming ethical
+- later accounts keep trying to turn Marcus into proof
+
+---
+
+## Day 18–20 — Attempted Restraint
 
 Rei tries to:
 
@@ -367,7 +384,7 @@ Result:
 
 ---
 
-## Day 20–22 — Emergence of Control
+## Day 21–23 — Emergence of Control
 
 Rei begins to:
 
@@ -379,7 +396,7 @@ First successful partial control occurs.
 
 ---
 
-## Day 23–26 — Practice Phase
+## Day 24–27 — Practice Phase
 
 Rei:
 
@@ -394,7 +411,7 @@ Progress is:
 
 ---
 
-## Day 27 — Reconnection with Yui
+## Day 28 — Reconnection with Yui
 
 Rei approaches Yui again.
 
@@ -413,14 +430,14 @@ This is the first proof of change.
 
 ---
 
-## Day 28 — Final Confrontation
+## Day 29 — Final Confrontation
 
 Rei meets Suzu.
 
 They discuss:
 
 - the isolation event
-- Marcus as warning and false lesson
+- Marcus as warning, false lesson, and contested precedent
 - the ethics of intervention
 
 Rei:
@@ -473,7 +490,7 @@ This creates:
 
 Two key time scales:
 
-- **30 years** → Marcus, engineered dependency, historical trauma
+- **30 years** → Marcus, contested dependency history, historical trauma
 - **3–4 weeks** → Rei’s transformation
 
 This contrast reinforces:

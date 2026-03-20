@@ -94,11 +94,22 @@ Important:
 
 Silence, pauses, and withheld connection are meaningful.
 
-When the past is explained, do not let explanation become closure. Let witnesses remember the same event in slightly incompatible shapes. The scene should appear to clarify and actually deepen uncertainty.
+When the past is retold, do not let retelling become closure. Let witnesses remember the same event in slightly incompatible shapes, let documents preserve pressure without total sequence, and let institutional language arrive already flattened. The scene should appear to clarify and actually deepen uncertainty.
 
 When a scene needs to feel slightly wrong, do it through realistic misalignment rather than emphasis. Use continued gaze, proximity that does not correct itself, over-precise observations, premature familiarity, and pauses that fail to close. Keep the tone calm. Do not label the unease for the reader.
 
 When quiet escalation is needed, increase it through missed cues, repeated actions, language that returns slightly altered, and a person taking one beat too long to rejoin the scene. Build a spectrum rather than making everyone react at the same intensity.
+
+---
+
+## Chapter 13 Guardrails
+
+- build revelation through constrained materials: clipped record, witness memory, institutional language, activist language, and partial private detail
+- keep every source partial, biased, incomplete, or structurally limited
+- lead with Marcus as an ordinary human being before anyone turns him into theory
+- never insert a neutral omniscient paragraph that harmonizes the contradictions
+- if a passage begins to read like lore, break it with texture, omission, or competing testimony
+- let explanation sharpen stakes and moral pressure, not resolve the phenomenon
 
 ---
 

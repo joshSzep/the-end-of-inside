@@ -308,16 +308,25 @@ By the end of the chapter:
 
 ## **Chapter 13 — Marcus**
 
-Full history revealed.
+Constrained revelation through incomplete records and interested accounts.
 
-- Marcus was drip-fed empathic and emotive exposure
-- dependency was cultivated through controlled access
-- access was cut by people who wanted his damage to prove something
-- Suzu learned the wrong lesson from what happened
+- Rei follows Marcus through clipped records, damaged fragments, and testimony that does not harmonize
+- a report, a board printout, and older witness memory each preserve different parts of him and none can stand as the whole
+- no source settles cleanly when dependency began, how deliberate the cultivation was, or how abrupt the cutoff truly was
+- what sharpens is the ethical pattern rather than the mechanism: borrowed closeness became usable, vulnerability was tolerated or exploited, and later people kept trying to turn Marcus into proof
+- Marcus appears in ordinary human detail rather than abstraction: work, recovery, shame, routine, and the tiny nearness of accepting care
+- Suzu's fear becomes more legible and less innocent at the same time; she inherited a person as precedent and removed the parts that would have slowed doctrine
 
 Rei realizes:
 
-> “They think I’m the kind of thing that can make people stop returning to themselves.”
+> “They keep telling him in the shape they need.”
+
+By the end of the chapter:
+
+- the past feels more intimate and less certain
+- the reader understands why Suzu thinks early containment is mercy, and why that belief is dangerous
+- Marcus sharpens the stakes around Yui without becoming a neat key to Rei
+- the chapter leaves pressure, not answer
 
 ---
 

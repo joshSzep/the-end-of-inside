@@ -271,12 +271,14 @@ Suzu believes:
 
 ## Relationship to Marcus
 
-Marcus is the catastrophe that taught Suzu the wrong lesson.
+Marcus is the catastrophe Suzu keeps translating into doctrine.
 
-She comes from the lineage that:
-- drip-fed him empathic and emotive exposure
-- let borrowed closeness become dependency
-- cut him off once the dependency was useful as proof
+She inherits a partial account that emphasizes pattern and strips out the ordinary human details that would slow judgment.
+
+She comes from the lineage accused of:
+- feeding him borrowed empathic and emotive exposure in tolerable increments
+- letting dependency form, or attaching themselves to damage already in motion
+- cutting him off abruptly, or later telling the cutoff in a cleaner shape than the event itself held
 
 What Suzu learns from this is not:
 > no one should ever control another person's access
@@ -495,11 +497,73 @@ Yui is:
 
 ---
 
+# **Marcus**
+
+## Core Identity
+
+Marcus is not present as a living character in the novel's main timeline, but Chapter 13 must treat him as a person first and a warning only second.
+
+He is:
+- a working-class restaurant server far outside the official centers of power
+- in recovery and trying, unevenly, to stay sober
+- shaped by shame, self-surveillance, and the wish for welcome without debt
+- vulnerable not because he is weak, but because the offered states land directly in wounds ordinary care reaches more slowly
+
+---
+
+## How He Should Appear in This Novel
+
+Marcus should enter through:
+- fragments
+- testimony
+- records
+- ethically interested retellings
+
+He should not enter as:
+- a neutral forensic specimen
+- a solved precedent for Rei
+- a clean lesson about what happened
+
+No single witness gets the whole Marcus.
+
+If an account sounds too complete, that completeness should reveal the account's agenda.
+
+---
+
+## Function in Chapter 13
+
+Marcus exists to:
+- sharpen the ethics of misuse, containment, and dependency
+- show how a real life can be turned into proof by multiple sides
+- make Suzu's logic legible without making it authoritative
+- prevent the novel from using history as clean explanation
+
+The chapter should preserve concrete human pressure around him:
+- routine
+- work
+- recovery
+- ordinary shame
+- the tiny nearness of accepting care
+
+That ordinary detail is what keeps him from collapsing into case study.
+
+---
+
+## Protective Constraint
+
+Do not let Marcus exist only to explain Suzu.
+
+Do not let Marcus exist only to mirror Rei.
+
+Do not let Marcus become more useful than human.
+
+---
+
 # **Secondary / Supporting Roles (Flexible)**
 
 ## Older Generation Figures
 
-Characters who remember earlier stages of the House and the engineered dependency around Marcus.
+Characters who remember earlier stages of the House and the partial, contested dependency history around Marcus.
 
 Function:
 - provide historical context

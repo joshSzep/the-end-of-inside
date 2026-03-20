@@ -116,6 +116,29 @@ This balance is considered healthy.
 
 ---
 
+## Working Knowledge, Not Total Theory
+
+People in this world do not share one finished explanation of the House.
+
+They live by:
+- felt experience
+- social norms
+- procedural language
+- witness language
+- partial inherited models
+
+This is enough for people to:
+- recognize danger
+- regulate depth
+- argue about ethics
+- act under uncertainty
+
+It is not enough to reduce the phenomenon to a closed system for the reader.
+
+The novel should provide coherence of consequence, not total ontology.
+
+---
+
 ## Isolation
 
 Isolation is the forced absence of connection.
@@ -226,13 +249,21 @@ Some factions became extreme and learned to make coercion sound mature.
 
 ## The Marcus Incident
 
-Marcus was a victim of one such extreme faction.
+Marcus was a working-class man in recovery far outside the formal centers of power.
 
-They:
+Surviving accounts suggest that an extreme faction, or the breach ecology around it, made his vulnerability usable.
 
-- drip-fed him borrowed empathic closeness
-- let dependency form, or attached themselves to instability that was already in motion
-- withdrew access once his damage could serve as proof, or let it thin into something unstable before calling the outcome inevitable
+What can be said:
+
+- borrowed empathic closeness reached him in repeated doses
+- dependency formed around relief, welcome, and borrowed safety
+- access was later withdrawn, cut, or remembered that way after a messier thinning
+
+What should remain unsettled:
+
+- how coordinated the cultivation was at every step
+- who understood the full consequences in real time
+- how much later retellings cleaned the sequence into doctrine
 
 The result:
 
