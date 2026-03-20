@@ -503,10 +503,13 @@ But:
 - the result is contingent
 - the loss of effortless openness remains emotionally significant
 - nothing here should read as permanent immunity from failure
+- even at the end, connection remains live, risky, and ethically charged rather than solved
 
 Key distinction:
 
 > She chooses incompleteness where she once would have chosen seamlessness.
+
+That choice must remain active to the final line.
 
 ---
 
@@ -522,6 +525,8 @@ This is a working rule, not an exhaustive explanation.
 It does not produce a stable manual for ethical connection.
 
 At best, it names the pressure under which people keep making imperfect choices.
+
+That pressure does not disappear at the ending.
 
 ---
 

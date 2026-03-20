@@ -411,6 +411,17 @@ The relationship resolves in:
 
 > silence with awareness and unclosed ethical tension
 
+Suzu is not won over.
+
+Rei is not finished.
+
+What remains between them should feel:
+
+- chosen
+- dangerous
+- restrained
+- still alive after the final line
+
 ---
 
 # **Rei Nakamura ↔ Marcus**

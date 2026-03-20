@@ -160,6 +160,7 @@ But also:
 - she can sometimes open without collapse again
 - but only intentionally, imperfectly, and at cost
 - she moves toward ethical connection as a practice rather than arriving at it as a state
+- by the final chapter, she is not complete, cured, or beyond danger; she is only able, in one crucial moment, not to impose
 
 ---
 
@@ -394,13 +395,14 @@ By the end of the novel:
 - Suzu is not defeated
 - she is not fully converted
 - she is not proven entirely wrong
+- she is not absolved by Rei's understanding
 
 She is:
 > confronted with a possibility she had not considered
 
 Rei does not impose understanding on her.
 
-Suzu is left to decide what to do with it.
+Suzu is left to decide what to do with it, and the novel does not grant the answer.
 
 ---
 

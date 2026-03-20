@@ -126,6 +126,17 @@ When quiet escalation is needed, increase it through missed cues, repeated actio
 
 ---
 
+## Final Chapter Guardrails
+
+- do not let the last chapter become grand, abstract, or vaguely lyrical in a way that dissolves consequence
+- do not let the silence read as peace achieved, cosmic harmony, or spiritual arrival
+- keep the final pages concrete: bodies in space, pauses, breath, timing, what is and is not done
+- if a sentence begins to sound like ultimate wisdom, cut it back toward particularity and risk
+- preserve the sense that connection remains possible and dangerous in the final stillness
+- let the ending stop while something ethically active is still being withheld
+
+---
+
 # Character Voice Direction
 
 ## **Rei Nakamura**

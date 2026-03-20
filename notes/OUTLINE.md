@@ -447,6 +447,8 @@ But:
 - does not impose that feeling
 - does not force connection
 - does not use forgiveness to win
+- does not turn forgiveness into absolution
+- does not ask Suzu to receive it correctly
 
 She explains it.
 
@@ -455,7 +457,8 @@ She leaves it with Suzu.
 By the end of the chapter:
 
 - Suzu remains ethically wrong, but not reducible to malice or argument
-- Rei proves another path by inhabiting it rather than debating for it
+- Suzu is not won over, converted, or spiritually reached across against her will
+- Rei proves another path by inhabiting it rather than debating for it, and that proof remains partial and ongoing rather than final
 - the pressure between them stays alive inside the silence
 
 ---
@@ -466,16 +469,19 @@ They remain together.
 
 - aware of each other
 - aware of the possibility of connection
+- aware of the possibility of imposition, refusal, and restraint
 
 Neither crosses the boundary.
 
 Neither moves.
 
-Silence.
+The stillness should feel chosen, tense, and ethically active.
 
-Presence.
+Not peace after conclusion.
 
-Possibility.
+An edge held without resolution.
+
+The ending should leave the reader feeling that the choice not to impose is still happening when the book stops.
 
 The book ends.
 

@@ -331,6 +331,25 @@ That partial legibility is what makes her dangerous.
 
 ---
 
+## Final-State Pressure
+
+By the end of the novel, the world has not resolved the tension between connection and limit.
+
+Connection remains:
+
+- possible
+- meaningful
+- risky
+- ethically charged
+
+The final silence should therefore feel like part of this world, not an escape from it.
+
+Nothing in the ending should imply that the House has been solved, pacified, or transcended.
+
+What remains is the live difficulty of being near another person without taking more than one is given.
+
+---
+
 ## Ethical Norms of the Present
 
 In Rei’s time, most people believe:

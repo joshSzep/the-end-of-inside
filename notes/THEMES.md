@@ -372,10 +372,12 @@ Forgiveness becomes:
 
 - offered, not imposed
 - expressed, not transmitted
+- real without becoming absolution
+- ethically meaningful precisely because it does not manage the other person's response
 
 ---
 
-## **Silence as Resolution**
+## **Silence as Held Edge**
 
 The story does not end with:
 
@@ -383,24 +385,37 @@ The story does not end with:
 - connection
 - emotional closure
 
+It also does not end with:
+
+- enlightenment
+- transcendence
+- permanent stability
+- a final answer
+
 It ends in silence.
 
 A shared space where:
 
 - connection is possible
 - but not taken
+- care is present
+- and imposition is still being actively refused
 
 This silence represents:
 
 - restraint
 - respect
 - awareness
+- consequence
+- unresolved possibility
 
 It is not absence.
 
 It is:
 
-> chosen non-action
+> chosen non-imposition under live pressure
+
+The ending should feel like something being held, not something completed.
 
 ---
 
@@ -424,6 +439,10 @@ Rei does not stop being who she is.
 
 She learns how to bear being that more responsibly, and never without cost.
 
+That responsibility is ongoing.
+
+The ending should not imply she has entered a permanent, self-sustaining ethical equilibrium.
+
 ---
 
 ## **Final Thematic Statement**
@@ -436,3 +455,4 @@ If there is a final thematic shape, it is this:
 - restraint can be necessary without ever becoming easy
 - another person remaining separate from you is not a failure of intimacy
 - the most ethical form of connection may also be the saddest one
+- refusing to impose care can be more loving than any final act of fusion, certainty, or closure

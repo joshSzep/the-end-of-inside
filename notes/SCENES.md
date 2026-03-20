@@ -405,16 +405,16 @@ For all future scenes:
 ### Scene 2 — Refusal to Convert
 - Characters: Rei, Suzu
 - Goal: let ethical difference remain live without collapsing into thesis debate or mutual conversion
-- Beat: Rei names another form of limit through chosen restraint and offers forgiveness without transmission; Suzu cannot take this as absolution, surrender, or proof that her action was unnecessary
-- Turn: neither woman wins the scene, but Rei's refusal to coerce makes Suzu's path feel narrower and more tragic
+- Beat: Rei names another form of limit through chosen restraint and offers forgiveness without transmission; Suzu cannot take this as absolution, surrender, or proof that her action was unnecessary, and Rei does not try to manage how Suzu receives it
+- Turn: neither woman wins the scene, but Rei's refusal to coerce keeps the ethical difference open instead of closing it into reconciliation or verdict
 
 ---
 
 ### Scene 3 — Silence
 - Characters: Rei, Suzu
 - Goal: let consequence remain after language stops
-- Beat: shared presence without action, with both women aware that connection, cutoff, and non-action are all possible
-- Turn: neither solves, seizes, or escapes the other; the stillness holds the unresolved ethical pressure of the whole book
+- Beat: shared presence without action, with both women aware that connection, cutoff, restraint, and renewed violation are all still possible in the space between them
+- Turn: neither solves, seizes, redeems, nor escapes the other; the stillness holds the unresolved ethical pressure of the whole book and must feel alive beyond the page
 
 ---
 
