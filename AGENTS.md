@@ -189,6 +189,9 @@ She is someone who is drawn to Rei, opens to Rei, is transformed by Rei, and is 
 - Yui’s harm must be specific, visible, and undeniable.
 - Yui should not exist merely to prove a point.
 - Her relationship with Rei must feel human, mutual, and painful.
+- She is the first person who does not dissolve cleanly back into the shared field after contact with Rei.
+- Around Rei, the interaction persists, accumulates, and fails to self-correct.
+- The asymmetry matters: Yui is slightly further inside the interaction than Rei, through small behavioral misalignments rather than overt drama.
 
 ### Role in the arc
 
@@ -326,6 +329,8 @@ Use prose that is:
 
 The prose may be lyrical and layered, but it should not become structurally dense or exhausting. Favor clear scene movement, distinct paragraph turns, and carefully chosen details over continuous accumulation. Depth should come from precision, consequence, and emotional accuracy, not from crowding every paragraph with simultaneous observations.
 
+When a scene needs to feel subtly unsettling, create that feeling through realistic misalignment in timing, proximity, familiarity, or precision rather than through overt signaling. Let the reader feel that something has failed to self-correct before the characters name it.
+
 Avoid over-explaining the philosophy in exposition. Let the ideas emerge through scenes, consequences, and dialogue.
 
 Avoid melodrama.
@@ -362,6 +367,12 @@ The novel can follow a clean three-act shape, but the writing should not feel me
 - history of Marcus and HumansRHumans exists as distant warning
 - forced isolation event
 - panic
+
+Act I should preserve a specific contrast:
+
+- Chapter 1 establishes self-resolving connection as the norm
+- Chapter 2 quietly breaks that norm through Yui
+- future chapters should remember that Yui-related connection persists and accumulates instead of clearing cleanly
 
 ### Act II
 - reconnection and relief

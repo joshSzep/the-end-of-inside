@@ -134,6 +134,21 @@ Yui’s instability is an example of:
 
 > prolonged aftereffect
 
+For most people, connection is self-resolving.
+
+- once attention shifts, shared resonance thins quickly
+- even intimate exchanges usually return cleanly to the ambient field
+- people do not remain sharply present in one another without continued contact
+
+Yui is the first clear exception.
+
+- around Rei, the interaction does not dissipate when it should
+- pauses, transitions, and partings fail to reset the connection
+- each exchange adds weight instead of clearing space
+- the persistence is slightly asymmetrical: Yui moves further inside the interaction than Rei
+
+This should be felt before it is interpreted.
+
 ---
 
 ## 5. Consent

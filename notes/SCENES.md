@@ -30,7 +30,7 @@ If a scene does not change something, it should not exist.
 - Characters: Rei + strangers
 - Goal: show normalized connection
 - Beat: shared emotional awareness in a casual setting
-- Turn: one person lingers too long in connection with Rei
+- Turn: one person lingers too long in connection with Rei, but the feeling eventually thins
 
 ---
 
@@ -40,15 +40,15 @@ If a scene does not change something, it should not exist.
 - Characters: Rei, Yui
 - Goal: establish bond
 - Beat: immediate ease and openness
-- Turn: connection deepens faster than expected
+- Turn: connection deepens faster than expected and does not self-resolve
 
 ---
 
 ### Scene 2 — Recognition
 - Characters: Rei, Yui
 - Goal: reinforce intimacy
-- Beat: Yui expresses familiarity
-- Turn: Rei accepts it as normal
+- Beat: Yui expresses familiarity and continues past normal social buffers
+- Turn: the interaction remains active after parting, and Rei accepts it as normal
 
 ---
 

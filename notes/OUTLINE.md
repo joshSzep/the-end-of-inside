@@ -25,6 +25,7 @@ Introduce her baseline:
 Subtle hint:
 - someone lingers too long in connection with her
 - a moment of slight imbalance, but not alarming
+- the feeling ultimately thins back into ordinary public awareness
 
 Tone: ease, warmth, continuity
 
@@ -37,11 +38,15 @@ Rei meets Yui.
 - Immediate ease between them
 - Yui opens quickly, more quickly than she normally would
 - Rei feels no resistance, no hesitation
+- This is the first clear break from Chapter 1’s baseline: the interaction does not dissipate cleanly between exchanges
+- Yui lingers slightly too long, skips small social buffers, and remains more inside the connection than Rei does
 
 Yui expresses:
 > “I don’t know why I feel like I already know you.”
 
 Rei does not question this.
+
+By the end of the chapter, Yui still feels actively present in Rei’s awareness.
 
 This chapter establishes:
 - their bond

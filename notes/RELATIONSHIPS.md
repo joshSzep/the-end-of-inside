@@ -41,6 +41,8 @@ Effect on Yui:
 - accelerated emotional intimacy
 - reduced hesitation
 - increased vulnerability
+- failure to dissolve cleanly back into ordinary social distance
+- small buffers of timing, familiarity, and space begin to fall away
 
 Yui feels:
 
@@ -49,6 +51,7 @@ Yui feels:
 But underneath:
 
 - her internal boundaries begin to soften too quickly
+- the interaction remains active in her longer than it should
 
 ---
 
@@ -104,11 +107,17 @@ Yui provides:
 - affirmation
 - ease
 - emotional resonance
+- the first connection Rei notices not thinning back into the ambient field
 
 Rei feels:
 
 - validated in her natural state
 - no need to question her way of connecting
+
+Rei notices:
+
+- that pauses and partings fail to clear in the usual way
+- that Yui is slightly further inside the interaction than she is
 
 Yui reinforces Rei’s belief:
 

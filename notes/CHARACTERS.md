@@ -92,6 +92,7 @@ Rei’s core blind spots:
 - she assumes what feels good is good
 - she does not recognize when others are opening too far, too fast
 - she does not understand why someone would choose privacy
+- she notices persistence before she understands its consequences
 
 ---
 
@@ -365,6 +366,9 @@ She is receptive to something deeper.
 
 ### Development
 - opens faster and deeper than she normally would
+- lingers instead of dissolving cleanly back into ordinary distance
+- occasionally skips small buffers of timing, familiarity, and space around Rei
+- may land on Rei with slightly too much precision, too early
 - begins to orient emotionally around Rei
 - other relationships feel diminished by comparison
 

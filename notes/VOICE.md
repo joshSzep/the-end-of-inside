@@ -94,6 +94,8 @@ Important:
 
 Silence, pauses, and withheld connection are meaningful.
 
+When a scene needs to feel slightly wrong, do it through realistic misalignment rather than emphasis. Use continued gaze, proximity that does not correct itself, over-precise observations, premature familiarity, and pauses that fail to close. Keep the tone calm. Do not label the unease for the reader.
+
 ---
 
 # Character Voice Direction
@@ -208,12 +210,15 @@ Yui speaks:
 - openly
 - with curiosity
 - with emotional immediacy
+- around Rei, she may move a little too quickly past ordinary social buffers
 
 She is comfortable expressing:
 
 - confusion
 - excitement
 - closeness
+
+In early scenes with Rei, Yui’s dialogue can occasionally feel a shade too precise or too familiar for the amount of time that has passed. This should remain plausible, understated, and slightly off rather than dramatic.
 
 Example tone:
 
