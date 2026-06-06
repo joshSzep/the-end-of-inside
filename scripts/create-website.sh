@@ -5,8 +5,10 @@ set -euo pipefail
 script_dir="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 repo_root="$(cd "$script_dir/.." && pwd)"
 pdf_script="$script_dir/create-pdf.sh"
+epub_script="$script_dir/create-epub.sh"
 input_file="$repo_root/The End of Inside.md"
 pdf_file="$repo_root/The End of Inside.pdf"
+epub_file="$repo_root/The End of Inside.epub"
 cover_file="$repo_root/cover.png"
 output_dir="$repo_root/website"
 output_file="$output_dir/index.html"
@@ -35,7 +37,7 @@ for command_name in awk pandoc sed; do
   require_command "$command_name"
 done
 
-for required_file in "$pdf_script" "$cover_file"; do
+for required_file in "$pdf_script" "$epub_script" "$cover_file"; do
   if [[ ! -f "$required_file" ]]; then
     echo "Required file not found: $required_file" >&2
     exit 1
@@ -43,6 +45,7 @@ for required_file in "$pdf_script" "$cover_file"; do
 done
 
 bash "$pdf_script"
+bash "$epub_script"
 
 if [[ ! -f "$input_file" ]]; then
   echo "Generated manuscript not found: $input_file" >&2
@@ -51,6 +54,11 @@ fi
 
 if [[ ! -f "$pdf_file" ]]; then
   echo "Generated PDF not found: $pdf_file" >&2
+  exit 1
+fi
+
+if [[ ! -f "$epub_file" ]]; then
+  echo "Generated EPUB not found: $epub_file" >&2
   exit 1
 fi
 
@@ -92,6 +100,7 @@ sed \
 
 mkdir -p "$output_dir"
 cp -f "$pdf_file" "$output_dir/"
+cp -f "$epub_file" "$output_dir/"
 cp -f "$cover_file" "$output_dir/"
 
 cat > "$template_html" <<'EOF'
@@ -974,6 +983,7 @@ cat > "$template_html" <<'EOF'
         <nav class="top-links" aria-label="Primary">
           <a href="#chapter-one">Chapter One</a>
           <a href="The%20End%20of%20Inside.pdf" download="The End of Inside.pdf">PDF</a>
+          <a href="The%20End%20of%20Inside.epub" download="The End of Inside.epub">EPUB</a>
           <a href="cover.png" download="cover.png">Cover</a>
           <a href="https://github.com/joshSzep/the-end-of-inside" target="_blank" rel="noreferrer">Source</a>
           <a href="https://the-end-of-inside.joshszep.com" target="_blank" rel="noreferrer">Launch site</a>
@@ -1000,6 +1010,7 @@ cat > "$template_html" <<'EOF'
           </p>
           <div class="cta-row">
             <a class="button button-primary" href="The%20End%20of%20Inside.pdf" download="The End of Inside.pdf">Download the PDF</a>
+            <a class="button button-secondary" href="The%20End%20of%20Inside.epub" download="The End of Inside.epub">Download the EPUB</a>
             <a class="button button-secondary" href="#chapter-one">Read Chapter One</a>
           </div>
           <div class="micro-links">
@@ -1075,6 +1086,7 @@ __CHAPTER_HTML__
             </p>
             <div class="cta-row">
               <a class="button button-primary" href="The%20End%20of%20Inside.pdf" download="The End of Inside.pdf">Download the full PDF</a>
+              <a class="button button-secondary" href="The%20End%20of%20Inside.epub" download="The End of Inside.epub">Download the EPUB</a>
               <a class="button button-secondary" href="https://github.com/joshSzep/the-end-of-inside" target="_blank" rel="noreferrer">Open the source</a>
             </div>
           </div>
@@ -1085,6 +1097,7 @@ __CHAPTER_HTML__
         <p>&copy; <span data-year></span> Joshua Szepietowski. Built from the current manuscript.</p>
         <nav aria-label="Footer">
           <a href="The%20End%20of%20Inside.pdf" download="The End of Inside.pdf">PDF</a>
+          <a href="The%20End%20of%20Inside.epub" download="The End of Inside.epub">EPUB</a>
           <a href="cover.png" download="cover.png">Cover</a>
           <a href="https://github.com/joshSzep/the-end-of-inside" target="_blank" rel="noreferrer">Source</a>
           <a href="https://the-end-of-inside.joshszep.com" target="_blank" rel="noreferrer">Launch site</a>
