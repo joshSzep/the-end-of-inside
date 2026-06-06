@@ -1100,6 +1100,7 @@ __CHAPTER_HTML__
           <a href="The%20End%20of%20Inside.epub" download="The End of Inside.epub">EPUB</a>
           <a href="cover.png" download="cover.png">Cover</a>
           <a href="https://github.com/joshSzep/the-end-of-inside" target="_blank" rel="noreferrer">Source</a>
+          <a href="https://joshszep.com" target="_blank" rel="noreferrer">Author book list</a>
           <a href="https://the-end-of-inside.joshszep.com" target="_blank" rel="noreferrer">Launch site</a>
         </nav>
       </footer>
